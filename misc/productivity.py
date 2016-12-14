@@ -17,7 +17,7 @@ def faculty_at_institution(institution_name, asst_faculty):
     return current_faculty
 
 # Plot data with line of best fit
-def plot_pubs_versus_prestige(data, ylabel, function=np.average):
+def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=False, fit=False):
     pubs_by_prestige = {}
     for (name, n_pubs) in data.items():
         counts = []
@@ -36,94 +36,75 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average):
 
     sorted_keys = sorted(pubs_by_prestige.keys())
     sorted_vals = [pubs_by_prestige[each] for each in sorted_keys]
-    plt.plot(sorted_keys, sorted_vals, color=ACCENT_COLOR_1)
 
-    regr = LinearRegression()
-    regr.fit(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
-    x = np.array([min(sorted_keys), max(sorted_keys)])
-
-    r2 = regr.score(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
-    print "Line of best fit has a slope of %.4f and a r^2 of %.4f" % (regr.coef_[0], r2)
-
-    ax.plot(x, x*regr.coef_[0] + regr.intercept_, ':', color=ALMOST_BLACK)
-
-    ax.set_xlabel('University Prestige (pi)')
-    ax.set_ylabel(ylabel)
-
-    finalize(ax)
-
-    plt.show()
-
-# Bin universities by prestige. Plot as a bar or line chart
-def plot_binned_pubs_versus_prestige(data, ylabel, bins, chart_type='bar', function=np.average):
-    fig, ax = plt.subplots(figsize=SINGLE_FIG_SIZE)
-
-    prestige = sorted([inst[name]['pi'] for name in data.keys()])
-    pubs = {}
-    for (name, n_pubs) in data.items():
-        counts = []
-        for _, pub in n_pubs:
-            if type(pub) == int or type(pub) == float:
-                counts.append(pub)
-            elif type(pub) == list:
-                counts.extend(pub)
-            else:
-                print "Unexpected data type: {0}".format(type(pubs))
-        
-        pubs[inst[name]['pi']] = counts
-    
-    left_endpoint = bins[0]
-    bins = np.percentile(prestige, bins[1:])
-    bin_means = np.zeros(len(bins))
-    for i, bin_edge in enumerate(bins):
-        bin_values = []
-        for key in prestige:
-            if left_endpoint < key <= bin_edge:
-                bin_values.extend(pubs[key])
-        
-        bin_means[i] = function(bin_values)
-        left_endpoint = bin_edge
-
-    if chart_type == 'bar':
-        plt.bar(bins, bin_means, width = 10, color=ACCENT_COLOR_1, edgecolor='w')
-        
-        small_diff = (bin_means[0] - bin_means[1])
-        medium_diff = (bin_means[0] - bin_means[2])
-        large_diff = (bin_means[0] - bin_means[len(bin_means)-1])
-        print "Faculty at the top 10%% of schools have %.2f, %.2f, and %.2f more publications than faculty at the top 20%%, 50%% and 100%% of schools." % (small_diff, medium_diff, large_diff) 
-    elif chart_type == 'line':
-        plt.plot(bins, bin_means, color=ACCENT_COLOR_1)
-
+    if fit:
         regr = LinearRegression()
-        regr.fit(np.array(bins).reshape(-1, 1), np.array(bin_means).reshape(-1, 1))
-        x = np.array([min(prestige), max(prestige)])
+        regr.fit(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
+        x = np.array([min(sorted_keys), max(sorted_keys)])
 
-        r2 = regr.score(np.array(bins).reshape(-1, 1), np.array(bin_means).reshape(-1, 1))
+        r2 = regr.score(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
         print "Line of best fit has a slope of %.4f and a r^2 of %.4f" % (regr.coef_[0], r2)
 
         ax.plot(x, x*regr.coef_[0] + regr.intercept_, ':', color=ALMOST_BLACK)
-        
-    ax.set_xlabel('University Prestige (pi)')
-    ax.set_ylabel(ylabel)
+    if percentiles:
+        (_, _, p25, p75) = upper_lower_percentiles(data, inst)
+        if percentiles:
+            sorted_lower = [p25[each] for each in sorted_keys]
+            sorted_upper = [p75[each] for each in sorted_keys]
+
+            ax.fill_between(sorted_keys, sorted_lower, sorted_upper, color=LIGHT_COLOR, edgecolor='None')
+        #elif std:
+        #    sorted_lower = [p25[each] for each in sorted_keys]
+        #    sorted_upper = [p75[each] for each in sorted_keys]
+        #
+        #    ax.fill_between(sorted_keys, sorted_upper, sorted_lower, color=LIGHT_COLOR, edgecolor='None')
+
+    ax.scatter(sorted_keys, sorted_vals, color=ACCENT_COLOR_1)
+
+    fake_line_all = Line2D(range(1), range(1), color=LIGHT_COLOR, marker='o', linestyle='None', markeredgecolor='w')
+    fake_line_t = Line2D(range(1), range(1), color=ACCENT_COLOR_1, marker='o', linestyle='None', markeredgecolor='w')
+    fake_line_fit = Line2D(range(1), range(1), color=ALMOST_BLACK, linestyle=':', linewidth=2)
+
+    label = "" 
+    if function == np.average:
+        label = 'Average'
+    elif function == np.median:
+        label = 'Median'
+
+    fit = "Slope: %.4f, R^2: %.4f" % (regr.coef_[0], r2)
+
+    plt.legend((fake_line_all,fake_line_t, fake_line_fit),('25-75th Percentile', label, fit), 
+           numpoints=1, loc='upper right', frameon=False, fontsize=LABEL_SIZE-2, ncol=1)
+
+    ax.set_ylim(ymin=0)
+    ax.set_xlim(min(sorted_keys), max(sorted_keys))
+    ax.set_xlabel('University Prestige (pi)', fontsize=LABEL_SIZE)
+    ax.set_ylabel(ylabel, fontsize=LABEL_SIZE)
 
     finalize(ax)
-    
-    plt.show()
-
-def plot_pubs_versus_status(data, ylabel):
-    fig, ax = plt.subplots(figsize=SINGLE_FIG_SIZE)
-
-    sorted_keys = sorted(data.keys())
-    sorted_vals = [data[each] for each in sorted_keys]
-
-    plt.bar(sorted_keys, sorted_vals, color=ACCENT_COLOR_1, edgecolor='w')
-
-    ax.set_xlabel('Public or Private Status')
-    ax.set_ylabel(ylabel)
-
-    ax.set_xticks(sorted_keys)
-    ax.set_xticklabels(["public", "private"])
-
-    finalize(ax)
 
     plt.show()
+
+# Find 25th and 75th percentiles
+def upper_lower_percentiles(data, inst):
+    means = {}; stds = {}; p25 = {}; p75 = {}
+    for i, (name, n_pubs) in enumerate(data.items()):
+        rank = inst[name]['pi']
+        final_counts = []
+        for _, pubs in n_pubs:
+            # pubs could be either: total contributions (int), or fractional contributions (array)
+            if type(pubs) == int or type(pubs) == float:
+                final_counts.append(pubs)
+            elif type(pubs) == list:
+                final_counts.extend(pubs)
+            else:
+                print "Unexpected data type: {0}".format(type(final_counts))
+
+        means[rank] = np.average(final_counts)
+        stds[rank] = np.std(final_counts)
+         
+        p25[rank] = np.percentile(final_counts, 25)
+        p75[rank] = np.percentile(final_counts, 75)
+
+    return (means, stds, p25, p75)
+
