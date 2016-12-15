@@ -1,4 +1,8 @@
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
 import numpy as np
+import scipy as sp
+import pandas as pd
 
 from faculty_hiring.parse import institution_parser
 from faculty_hiring.misc.plotting import *  # Definitions for LABEL_SIZE, colors, etc.
@@ -17,7 +21,7 @@ def faculty_at_institution(institution_name, asst_faculty):
     return current_faculty
 
 # Plot data with line of best fit
-def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=False, fit=False):
+def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=False, fit=False, private=False):
     pubs_by_prestige = {}
     for (name, n_pubs) in data.items():
         counts = []
@@ -30,14 +34,28 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
             else:
                 print "Unexpected data type: {0}".format(type(pubs))
 
-        pubs_by_prestige[inst[name]['pi']] = function(counts)
+        pubs_by_prestige[inst[name]['pi']] = (function(counts), inst[name]['private'])
 
     fig, ax = plt.subplots(figsize=SINGLE_FIG_SIZE)
 
     sorted_keys = sorted(pubs_by_prestige.keys())
-    sorted_vals = [pubs_by_prestige[each] for each in sorted_keys]
+    sorted_vals = [pubs_by_prestige[each][0] for each in sorted_keys]
 
     if fit:
+        """
+        x = []
+        for i, key in enumerate(sorted_keys):
+            vect = np.zeros(3, dtype=float)
+            vect[0] = sorted_vals[i]
+            vect[1] = key
+            vect[2] = pubs_by_prestige[key][1]
+            x.append(vect)
+
+        df = pd.DataFrame(np.array(x), columns=["pubs", "prestige", "private"])
+        lm = smf.ols(formula='pubs ~ prestige + private', data=df).fit()
+        print(lm.summary())
+        """
+
         regr = LinearRegression()
         regr.fit(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
         x = np.array([min(sorted_keys), max(sorted_keys)])
@@ -60,6 +78,13 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
         #    ax.fill_between(sorted_keys, sorted_upper, sorted_lower, color=LIGHT_COLOR, edgecolor='None')
 
     ax.scatter(sorted_keys, sorted_vals, color=ACCENT_COLOR_1)
+
+    if private:
+        # Pick out the private universities
+        private_keys = sorted([key for key, data in pubs_by_prestige.items() if data[1] == 1])
+        private_vals = [pubs_by_prestige[each][0] for each in private_keys]
+        ax.scatter(private_keys, private_vals, color=ALMOST_BLACK)
+
 
     fake_line_all = Line2D(range(1), range(1), color=LIGHT_COLOR, marker='o', linestyle='None', markeredgecolor='w')
     fake_line_t = Line2D(range(1), range(1), color=ACCENT_COLOR_1, marker='o', linestyle='None', markeredgecolor='w')
