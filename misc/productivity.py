@@ -21,7 +21,7 @@ def faculty_at_institution(institution_name, asst_faculty):
     return current_faculty
 
 # Plot data with line of best fit
-def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=False, fit=False, private=False):
+def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=False):
     pubs_by_prestige = {}
     for (name, n_pubs) in data.items():
         counts = []
@@ -41,54 +41,64 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
     sorted_keys = sorted(pubs_by_prestige.keys())
     sorted_vals = [pubs_by_prestige[each][0] for each in sorted_keys]
 
-    if fit:
-        """
-        x = []
-        for i, key in enumerate(sorted_keys):
-            vect = np.zeros(3, dtype=float)
-            vect[0] = sorted_vals[i]
-            vect[1] = key
-            vect[2] = pubs_by_prestige[key][1]
-            x.append(vect)
+    """
+    x = []
+    for i, key in enumerate(sorted_keys):
+    vect = np.zeros(3, dtype=float)
+        vect[0] = sorted_vals[i]
+        vect[1] = key
+        vect[2] = pubs_by_prestige[key][1]
+        x.append(vect)
 
-        df = pd.DataFrame(np.array(x), columns=["pubs", "prestige", "private"])
-        lm = smf.ols(formula='pubs ~ prestige + private', data=df).fit()
-        print(lm.summary())
-        """
+    df = pd.DataFrame(np.array(x), columns=["pubs", "prestige", "private"])
+    lm = smf.ols(formula='pubs ~ prestige + private', data=df).fit()
+    print(lm.summary())
+    """
 
-        regr = LinearRegression()
-        regr.fit(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
-        x = np.array([min(sorted_keys), max(sorted_keys)])
-
-        r2 = regr.score(np.array(sorted_keys).reshape(-1, 1), np.array(sorted_vals).reshape(-1, 1))
-        print "Line of best fit has a slope of %.4f and a r^2 of %.4f" % (regr.coef_[0], r2)
-
-        ax.plot(x, x*regr.coef_[0] + regr.intercept_, ':', color=ALMOST_BLACK)
+    (_, _, p25, p75) = upper_lower_percentiles(data, inst)
     if percentiles:
-        (_, _, p25, p75) = upper_lower_percentiles(data, inst)
-        if percentiles:
-            sorted_lower = [p25[each] for each in sorted_keys]
-            sorted_upper = [p75[each] for each in sorted_keys]
+        sorted_lower = [p25[each] for each in sorted_keys]
+        sorted_upper = [p75[each] for each in sorted_keys]
 
-            ax.fill_between(sorted_keys, sorted_lower, sorted_upper, color=LIGHT_COLOR, edgecolor='None')
-        #elif std:
-        #    sorted_lower = [p25[each] for each in sorted_keys]
-        #    sorted_upper = [p75[each] for each in sorted_keys]
-        #
-        #    ax.fill_between(sorted_keys, sorted_upper, sorted_lower, color=LIGHT_COLOR, edgecolor='None')
+        ax.fill_between(sorted_keys, sorted_lower, sorted_upper, color=LIGHT_COLOR, edgecolor='None')
 
     ax.scatter(sorted_keys, sorted_vals, color=ACCENT_COLOR_1)
 
-    if private:
-        # Pick out the private universities
-        private_keys = sorted([key for key, data in pubs_by_prestige.items() if data[1] == 1])
-        private_vals = [pubs_by_prestige[each][0] for each in private_keys]
-        ax.scatter(private_keys, private_vals, color=ALMOST_BLACK)
+    # Pick out the private universities
+    private_keys = sorted([key for key, data in pubs_by_prestige.items() if data[1] == 1])
+    private_vals = [pubs_by_prestige[each][0] for each in private_keys]
+    ax.scatter(private_keys, private_vals, color=ALMOST_BLACK)
 
+    regr_private = LinearRegression()
+    regr_private.fit(np.array(private_keys).reshape(-1, 1), np.array(private_vals).reshape(-1, 1))
+    x = np.array([min(private_keys), max(private_keys)])
+
+    r2_private = regr_private.score(np.array(private_keys).reshape(-1, 1), np.array(private_vals).reshape(-1, 1))
+    print "Line of best fit for private schools has a slope of %.4f and a r^2 of %.4f" % (regr_private.coef_[0], r2_private)
+
+    ax.plot(x, x*regr_private.coef_[0] + regr_private.intercept_, ':', color=ALMOST_BLACK)
+
+    # Pick out the public universities
+    public_keys = sorted([key for key, data in pubs_by_prestige.items() if data[1] == 0])
+    public_vals = [pubs_by_prestige[each][0] for each in public_keys]
+
+    regr_public = LinearRegression()
+    regr_public.fit(np.array(public_keys).reshape(-1, 1), np.array(public_vals).reshape(-1, 1))
+    x = np.array([min(public_keys), max(public_keys)])
+
+    r2_public = regr_public.score(np.array(public_keys).reshape(-1, 1), np.array(public_vals).reshape(-1, 1))
+    print "Line of best fit for public schools has a slope of %.4f and a r^2 of %.4f" % (regr_public.coef_[0], r2_public)
+
+    ax.plot(x, x*regr_public.coef_[0] + regr_public.intercept_, ':', color=ACCENT_COLOR_1)
+
+
+    private_fit = "[Private] Slope: %.4f, R^2: %.4f" % (regr_private.coef_[0], r2_private)
+    public_fit = "[Public] Slope: %.4f, R^2: %.4f" % (regr_public.coef_[0], r2_public)
 
     fake_line_all = Line2D(range(1), range(1), color=LIGHT_COLOR, marker='o', linestyle='None', markeredgecolor='w')
     fake_line_t = Line2D(range(1), range(1), color=ACCENT_COLOR_1, marker='o', linestyle='None', markeredgecolor='w')
-    fake_line_fit = Line2D(range(1), range(1), color=ALMOST_BLACK, linestyle=':', linewidth=2)
+    fake_line_private_fit = Line2D(range(1), range(1), color=ALMOST_BLACK, linestyle=':', linewidth=2)
+    fake_line_public_fit = Line2D(range(1), range(1), color=ACCENT_COLOR_1, linestyle=':', linewidth=2)
 
     label = "" 
     if function == np.average:
@@ -96,9 +106,7 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
     elif function == np.median:
         label = 'Median'
 
-    fit = "Slope: %.4f, R^2: %.4f" % (regr.coef_[0], r2)
-
-    plt.legend((fake_line_all,fake_line_t, fake_line_fit),('25-75th Percentile', label, fit), 
+    plt.legend((fake_line_all, fake_line_t, fake_line_private_fit, fake_line_public_fit),('25-75th Percentile', label, private_fit, public_fit), 
            numpoints=1, loc='upper right', frameon=False, fontsize=LABEL_SIZE-2, ncol=1)
 
     ax.set_ylim(ymin=0)
