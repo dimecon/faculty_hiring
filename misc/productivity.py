@@ -36,24 +36,10 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
 
         pubs_by_prestige[inst[name]['pi']] = (function(counts), inst[name]['private'])
 
-    fig, ax = plt.subplots(1,1, figsize=SINGLE_FIG_SIZE)
+    fig, ax = plt.subplots(1,1, figsize=(6,4))
 
     sorted_keys = sorted(pubs_by_prestige.keys())
     sorted_vals = [pubs_by_prestige[each][0] for each in sorted_keys]
-
-    """
-    x = []
-    for i, key in enumerate(sorted_keys):
-    vect = np.zeros(3, dtype=float)
-        vect[0] = sorted_vals[i]
-        vect[1] = key
-        vect[2] = pubs_by_prestige[key][1]
-        x.append(vect)
-
-    df = pd.DataFrame(np.array(x), columns=["pubs", "prestige", "private"])
-    lm = smf.ols(formula='pubs ~ prestige + private', data=df).fit()
-    print(lm.summary())
-    """
 
     (_, _, p25, p75) = upper_lower_percentiles(data, inst)
     if percentiles:
@@ -74,7 +60,7 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
     r2_private = regr_private.score(np.array(private_keys).reshape(-1, 1), np.array(private_vals).reshape(-1, 1))
     print "Line of best fit for private schools has a slope of %.4f and a r^2 of %.4f" % (regr_private.coef_[0], r2_private)
 
-    ax.plot(x, x*regr_private.coef_[0] + regr_private.intercept_, '-', color=ALMOST_BLACK, linewidth=LINE_WIDTH)
+    private_fit, = ax.plot(x, x*regr_private.coef_[0] + regr_private.intercept_, '-', color=ALMOST_BLACK, linewidth=LINE_WIDTH)
 
     # Pick out the public universities
     public_keys = sorted([key for key, data in pubs_by_prestige.items() if data[1] == 0])
@@ -88,11 +74,10 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
     r2_public = regr_public.score(np.array(public_keys).reshape(-1, 1), np.array(public_vals).reshape(-1, 1))
     print "Line of best fit for public schools has a slope of %.4f and a r^2 of %.4f" % (regr_public.coef_[0], r2_public)
 
-    ax.plot(x, x*regr_public.coef_[0] + regr_public.intercept_, '--', color=ACCENT_COLOR_2, linewidth=LINE_WIDTH, dashes=(12, 6))
+    public_fit, = ax.plot(x, x*regr_public.coef_[0] + regr_public.intercept_, '--', color=ACCENT_COLOR_2, linewidth=LINE_WIDTH, dashes=(12, 6))
 
-
-    private_fit = r"Slope: %.4f, $r^{2}$: %.4f" % (regr_private.coef_[0], r2_private)
-    public_fit = r"Slope: %.4f, $r^{2}$: %.4f" % (regr_public.coef_[0], r2_public)
+    private_fit = r"Slope: %.3f" % (regr_private.coef_[0])
+    public_fit = r"Slope: %.3f" % (regr_public.coef_[0])
 
     fake_line_all = Line2D(range(1), range(1), color=LIGHT_COLOR, marker='o', linestyle='None', markeredgecolor='w')
     fake_line_private_median = Line2D(range(1), range(1), color=ALMOST_BLACK, marker='o', linestyle='None', markeredgecolor='w', alpha = 1.0)
@@ -100,35 +85,30 @@ def plot_pubs_versus_prestige(data, ylabel, function=np.average, percentiles=Fal
     fake_line_private_fit = Line2D(range(1), range(1), color=ALMOST_BLACK, linestyle='-', linewidth=LINE_WIDTH)
     fake_line_public_fit = Line2D(range(1), range(1), color=ACCENT_COLOR_2, linestyle='--', linewidth=LINE_WIDTH, dashes=(12, 6))
 
-    label = "" 
-    if function == np.average:
-        label = 'Average'
-    elif function == np.median:
-        label = 'Median'
-
     plt.legend(
         (
             fake_line_all, 
             fake_line_private_median, 
-            fake_line_public_median, 
-            fake_line_private_fit, 
+            fake_line_public_median,
+            fake_line_private_fit,
             fake_line_public_fit
         ),(
             '25-75th percentile', 
-            label + " private", 
-            label + " public", 
-            private_fit, 
+            "Private", 
+            "Public",
+            private_fit,
             public_fit
         ), numpoints=1, loc='upper right', frameon=False, fontsize=LEGEND_SIZE, ncol=1)
 
-    ax.set_ylim(ymin=0)
+    ax.set_ylim(0, 200)
     ax.set_xlim(min(sorted_keys), max(sorted_keys))
     ax.set_xlabel('University rank', fontsize=LABEL_SIZE)
     ax.set_ylabel(ylabel, fontsize=LABEL_SIZE)
 
     finalize(ax)
 
-    fig.savefig("pubs_v_rank.pdf")
+    fig.savefig("pubs_v_rank.pdf", bbox_inches='tight')
+    plt.show()
 
 # Find 25th and 75th percentiles
 def upper_lower_percentiles(data, inst):
