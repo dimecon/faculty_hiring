@@ -1,0 +1,10422 @@
+(dp0
+S'Syracuse University'
+p1
+(lp2
+(S'Susan Older'
+p3
+F1.0766512823137868
+tp4
+a(S'Jian Tang'
+p5
+F13.136209052477716
+tp6
+a(S'Heng Yin'
+p7
+F0.9925804923989955
+tp8
+asS'Brown University'
+p9
+(lp10
+(S'Ugur Cetintemel'
+p11
+F6.136490232340278
+tp12
+a(S'Eugene Charniak'
+p13
+F4.9307268827643265
+tp14
+a(S'Thomas Doeppner'
+p15
+F0.5190242827788669
+tp16
+a(S'Amy Greenwald'
+p17
+F6.033562356615969
+tp18
+a(S'Maurice Herlihy'
+p19
+F7.629801944537739
+tp20
+a(S'Chad Jenkins'
+p21
+F6.339279171932022
+tp22
+a(S'Shriram Krishnamurthi'
+p23
+F5.999283765731134
+tp24
+a(S'David H. Laidlaw'
+p25
+F4.891119038865236
+tp26
+a(S'Anna Lysyanskaya'
+p27
+F5.080029756555808
+tp28
+a(S'Ben Raphael'
+p29
+F3.6963931855198604
+tp30
+a(S'Steven Reiss'
+p31
+F3.3005519233837317
+tp32
+a(S'Erik Sudderth'
+p33
+F3.9936175424794684
+tp34
+a(S'Roberto Tamassia'
+p35
+F13.907932479886545
+tp36
+asS'Michigan Technological University'
+p37
+(lp38
+(S'Laura E. Brown'
+p39
+F0.0
+tp40
+a(S'Steven M. Carr'
+p41
+F3.2840762271368162
+tp42
+a(S'Ali Ebnenasir'
+p43
+F1.498254282382495
+tp44
+a(S'Scott A. Kuhl'
+p45
+F0.3410985242944955
+tp46
+a(S'Jean A. Mayo'
+p47
+F0.8088029149817473
+tp48
+a(S'Nilufer Onder'
+p49
+F0.26681525730689476
+tp50
+a(S'Linda M. Ott'
+p51
+F0.0
+tp52
+a(S'Robert Pastel'
+p53
+F0.8440153790024951
+tp54
+a(S'David A. Poplawski'
+p55
+F0.41981581033971455
+tp56
+a(S'Steven R. Seidel'
+p57
+F0.0
+tp58
+a(S'Charles R. Wallace'
+p59
+F1.4624887704322855
+tp60
+a(S'Chaoli Wang'
+p61
+F5.319877051571955
+tp62
+a(S'Zhenlin Wang'
+p63
+F1.5642728443195932
+tp64
+asS'Rice University'
+p65
+(lp66
+(S'Luay Nakhleh'
+p67
+F6.778714917922706
+tp68
+a(S'Devika Subramanian'
+p69
+F3.5131351137841618
+tp70
+asS'University of Connecticut'
+p71
+(lp72
+(S'Jun-Hong Cui'
+p73
+F6.42497918163061
+tp74
+a(S'Steven Demurjian'
+p75
+F2.642929229669878
+tp76
+a(S'Chun-Hsi Huang'
+p77
+F4.283158242319321
+tp78
+a(S'Mohammad Khan'
+p79
+F3.910965908787945
+tp80
+a(S'Robert McCartney'
+p81
+F0.41981581033971455
+tp82
+a(S'Ion Mandoiu'
+p83
+F8.211896083582623
+tp84
+a(S'Laurent Michel'
+p85
+F6.382880624612975
+tp86
+a(S'Sanguthevar Rajasekaran'
+p87
+F4.686513061509963
+tp88
+a(S'Alexander Russell'
+p89
+F8.03060483317384
+tp90
+a(S'Yufeng Wu'
+p91
+F4.898938386817572
+tp92
+asS'State University of New York, Albany'
+p93
+(lp94
+(S'Seth Chaiken'
+p95
+F0.0
+tp96
+a(S'Jeong-Hyon Hwang'
+p97
+F2.257157308155187
+tp98
+a(S'Siwei Lyu'
+p99
+F3.286017511739428
+tp100
+a(S'Lenore Mullin'
+p101
+F0.94610049095159
+tp102
+asS'University of Florida'
+p103
+(lp104
+(S'Abdelsalam Sumi Helal'
+p105
+F2.849000814611487
+tp106
+a(S'Ahmed Helmy'
+p107
+F6.366185248731181
+tp108
+a(S'Alin Dobra'
+p109
+F2.4453362675261476
+tp110
+a(S'Alper Ungor'
+p111
+F3.122656382922867
+tp112
+a(S'Anand Rangarajan'
+p113
+F6.82410999790748
+tp114
+a(S'Benjamin C. Lok'
+p115
+F4.067805384524257
+tp116
+a(S'Beverly A. Sanders'
+p117
+F2.0452317588338453
+tp118
+a(S'Daisy Zhe Wang'
+p119
+F1.9554829543939725
+tp120
+a(S'Douglas D. Dankel II'
+p121
+F0.6796307323707611
+tp122
+a(S'Jonathan C.L. Liu'
+p123
+F2.240867467543481
+tp124
+a(S'Jose A.B. Fortes'
+p125
+F6.520282619490071
+tp126
+a(S'Manuel E. Bermudez'
+p127
+F1.6254159484941308
+tp128
+a(S'Meera Sitharam'
+p129
+F0.9220075100086973
+tp130
+a(S'My T. Thai'
+p131
+F7.326865349445006
+tp132
+a(S'Paul Fishwick'
+p133
+F2.338703598402422
+tp134
+a(S'Prabhat Mishra'
+p135
+F5.536141976546274
+tp136
+a(S'Richard E. Newman'
+p137
+F1.888527307424474
+tp138
+a(S'Sartaj K. Sahni'
+p139
+F15.083085244034518
+tp140
+a(S'Shigang Chen'
+p141
+F5.662470882831029
+tp142
+a(S'Su-Shing Chen'
+p143
+F0.0
+tp144
+a(S'Tamer Kahveci'
+p145
+F4.846916037045778
+tp146
+a(S'Ye Xia'
+p147
+F3.281919861623094
+tp148
+asS'UC Santa Barbara'
+p149
+(lp150
+(S'Divyakant Agrawal'
+p151
+F7.086410252891669
+tp152
+a(S'Tevfik Bultan'
+p153
+F5.6062466836565195
+tp154
+a(S'Peter Cappello'
+p155
+F2.5113227053892033
+tp156
+a(S'John Gilbert'
+p157
+F0.4900715556402549
+tp158
+a(S'Teofilo Gonzalez'
+p159
+F5.530975477425501
+tp160
+a(S'Ben Hardekopf'
+p161
+F2.3040009862894726
+tp162
+a(S'Tobias Hollerer'
+p163
+F5.261354066346908
+tp164
+a(S'Richard A. Kemmerer'
+p165
+F4.082564578892702
+tp166
+a(S'Chandra Krintz'
+p167
+F5.216692944122533
+tp168
+a(S'Ambuj K. Singh'
+p169
+F5.499368277038984
+tp170
+a(S'Yuan-Fang Wang'
+p171
+F3.772056124921634
+tp172
+a(S'Richard Wolski'
+p173
+F10.847483283017038
+tp174
+a(S'Xifeng Yan'
+p175
+F8.091395745449743
+tp176
+a(S'Ben Y. Zhao'
+p177
+F6.977287799681669
+tp178
+a(S'Heather Zheng'
+p179
+F6.657371069254618
+tp180
+asS'State University of New York, Binghamton'
+p181
+(lp182
+(S'Kenneth Chiu'
+p183
+F6.9807263853776504
+tp184
+a(S'Richard  Eckert'
+p185
+F0.0
+tp186
+a(S'Kanad Ghose'
+p187
+F2.485420604046076
+tp188
+a(S'Kartik Gopalan'
+p189
+F5.135408652714858
+tp190
+a(S'Kyoung-Don Kang'
+p191
+F3.123322828839243
+tp192
+a(S'Michael J. Lewis'
+p193
+F1.4976639744407354
+tp194
+a(S'David Liu'
+p195
+F0.2619256001287238
+tp196
+a(S'Patrick H. Madden'
+p197
+F2.7992287055961
+tp198
+a(S'Weiyi Meng'
+p199
+F3.793283820170482
+tp200
+a(S'Lijun Yin'
+p201
+F6.580306789974877
+tp202
+a(S'Yu David Liu'
+p203
+F0.8599257234895384
+tp204
+a(S'Zhongfei  Zhang'
+p205
+F5.271949615247766
+tp206
+a(S'Ting Zhu'
+p207
+F4.888707385984931
+tp208
+asS'State University of New York, Stony Brook'
+p209
+(lp210
+(S'Michael Bender'
+p211
+F8.349464176134315
+tp212
+a(S'Yejin Choi'
+p213
+F4.9220951701894515
+tp214
+a(S'Jie Gao'
+p215
+F14.061219128600744
+tp216
+a(S'Himanshu Gupta'
+p217
+F4.9327650653542605
+tp218
+a(S'Klaus Mueller'
+p219
+F5.767642276541999
+tp220
+a(S'Dimitris Samaras'
+p221
+F2.857873657234536
+tp222
+a(S'R. Sekar'
+p223
+F1.0593965462209032
+tp224
+a(S'Radu Sion'
+p225
+F5.797113502015505
+tp226
+a(S'Scott Smolka'
+p227
+F3.462513089531101
+tp228
+a(S'Jennifer Wong'
+p229
+F2.496853978844801
+tp230
+asS'University of Waterloo'
+p231
+(lp232
+(S'Joanne M. Atlee'
+p233
+F2.4450839115386396
+tp234
+a(S'Gladimir V. G. Baranoski'
+p235
+F3.981034696017587
+tp236
+a(S'Daniel M. Berry'
+p237
+F0.8850273329545011
+tp238
+a(S'Therese Biedl'
+p239
+F8.053785544146013
+tp240
+a(S'Daniel G. Brown'
+p241
+F2.8457068948742967
+tp242
+a(S'Jonathan F. Buss'
+p243
+F2.0117402292203703
+tp244
+a(S'Charles L. A. Clarke'
+p245
+F5.4278049418740695
+tp246
+a(S'Robin Cohen'
+p247
+F2.027294709174998
+tp248
+a(S'Gordon V. Cormack'
+p249
+F1.937452441243817
+tp250
+a(S'Nancy Day'
+p251
+F2.3812287246169364
+tp252
+a(S'Chrysanne DiMarco'
+p253
+F1.2817103721461434
+tp254
+a(S'Michael W. Godfrey'
+p255
+F2.1197784125505814
+tp256
+a(S'Ian Goldberg'
+p257
+F4.516173481426115
+tp258
+a(S'Urs Hengartner'
+p259
+F4.297316740443782
+tp260
+a(S'Jesse Hoey'
+p261
+F3.9332244315909586
+tp262
+a(S'Reid Holmes'
+p263
+F3.4554829543939727
+tp264
+a(S'Richard C. Holt'
+p265
+F9.796770295685333
+tp266
+a(S'George Labahn'
+p267
+F1.8112712830688924
+tp268
+a(S'Ondrej Lhotak'
+p269
+F4.829328326325681
+tp270
+a(S'Ming Li'
+p271
+F10.701417476708253
+tp272
+a(S'Daniel J. Lizotte'
+p273
+F0.9777414771969862
+tp274
+a(S'Alejandro Lopez-Ortiz'
+p275
+F4.570443586455644
+tp276
+a(S'Anna Lubiw'
+p277
+F4.0219735857991825
+tp278
+a(S'Richard Mann'
+p279
+F1.985942496047325
+tp280
+a(S'Stephen Mann'
+p281
+F1.7757520638642297
+tp282
+a(S'Naomi Nishimura'
+p283
+F3.479881927536701
+tp284
+a(S'M. Tamer Ozsu'
+p285
+F1.7890563221382128
+tp286
+a(S'Pascal Poupart'
+p287
+F4.5866316463828
+tp288
+a(S'Kenneth Salem'
+p289
+F2.9008203646258703
+tp290
+a(S'David J. Taylor'
+p291
+F4.046855085234433
+tp292
+a(S'Michael Terry'
+p293
+F3.916413655938571
+tp294
+a(S'David Toman'
+p295
+F3.325487397257601
+tp296
+a(S'Frank W. Tompa'
+p297
+F1.9933600129000268
+tp298
+a(S'Richard Trefler'
+p299
+F1.8261977225643569
+tp300
+a(S'Peter Van Beek'
+p301
+F3.4248464802033944
+tp302
+a(S'John Watrous'
+p303
+F4.290603300729499
+tp304
+a(S'Grant E. Weddell'
+p305
+F1.853189729620436
+tp306
+a(S'Bernard Wong'
+p307
+F3.910965908787945
+tp308
+a(S'Johnny W. Wong'
+p309
+F3.5795372366851517
+tp310
+asS'MIT'
+p311
+(lp312
+(S'Saman Amarasinghe'
+p313
+F3.174679935855825
+tp314
+a(S'Hari Balakrishnan'
+p315
+F9.887472749729277
+tp316
+a(S'Regina Barzilay'
+p317
+F6.283454884155989
+tp318
+a(S'Konstantinos Daskalakis'
+p319
+F8.359740056458241
+tp320
+a(S'Erik Demaine'
+p321
+F28.909946373447504
+tp322
+a(S'Srini Devadas'
+p323
+F23.356882552580863
+tp324
+a(S'Dave Gifford'
+p325
+F5.776099546622866
+tp326
+a(S'Piotr Indyk'
+p327
+F12.461082272108364
+tp328
+a(S'Daniel Jackson'
+p329
+F4.529657186336607
+tp330
+a(S'Dina Katabi'
+p331
+F4.201656994778437
+tp332
+a(S'Manolis Kellis'
+p333
+F0.6558409214060414
+tp334
+a(S'Charles Leiserson'
+p335
+F5.083321889861212
+tp336
+a(S'Barbara Liskov'
+p337
+F7.811435082749666
+tp338
+a(S'Samuel Madden'
+p339
+F13.786269081146159
+tp340
+a(S'Silvio Micali'
+p341
+F10.201893997518505
+tp342
+a(S'Rob Miller'
+p343
+F5.726672916771024
+tp344
+a(S'Li-Shiuan Peh'
+p345
+F8.497876377702791
+tp346
+a(S'Martin Rinard'
+p347
+F4.870193576694168
+tp348
+a(S'Armando Solar-Lezama'
+p349
+F1.978087160557144
+tp350
+a(S'Russ Tedrake'
+p351
+F3.3289564811423262
+tp352
+a(S'Nickolai Zeldovich'
+p353
+F5.985935835432645
+tp354
+a(S'Munther Dahleh'
+p355
+F0.35244751757606047
+tp356
+a(S'Asuman Ozdaglar'
+p357
+F2.6376624663282113
+tp358
+a(S'John Tsitsiklis'
+p359
+F2.5843254517450087
+tp360
+a(S'Carl Hewitt'
+p361
+F7.396602375866607
+tp362
+asS'Kansas State University'
+p363
+(lp364
+(S'Daniel A. Andresen'
+p365
+F4.275057090576719
+tp366
+a(S'Doina Caragea'
+p367
+F5.630352557941492
+tp368
+a(S'Patrice Chalin'
+p369
+F2.2524576061620225
+tp370
+a(S'David A. Gustafson'
+p371
+F0.0
+tp372
+a(S'John Hatcliff'
+p373
+F5.1849738261940175
+tp374
+a(S'Rodney R. Howell'
+p375
+F4.814689713716195
+tp376
+a(S'William H. Hsu'
+p377
+F2.9780486259468746
+tp378
+a(S'Masaaki Mizuno'
+p379
+F1.4392507836945005
+tp380
+a(S'Mitchell L. Neilsen'
+p381
+F2.7514449831080006
+tp382
+a(S'Xinming (Simon) Ou'
+p383
+F1.4530950657805328
+tp384
+a(S'Robby'
+p385
+F4.89083895215568
+tp386
+a(S'David A. Schmidt'
+p387
+F2.74745416517431
+tp388
+a(S'Gurdip Singh'
+p389
+F4.503899626227791
+tp390
+a(S'Eugene Y. Vasserman'
+p391
+F1.9888707385984932
+tp392
+a(S'Virgil Wallentine'
+p393
+F0.0
+tp394
+asS'Pace University'
+p395
+(lp396
+(S'D. Paul Benjamin'
+p397
+F0.6651226111568695
+tp398
+a(S'Sung-Hyuk Cha'
+p399
+F6.840453233952533
+tp400
+a(S'Constantine Coutras'
+p401
+F0.5179015486004379
+tp402
+a(S'Richard Kline'
+p403
+F0.7203613082210462
+tp404
+a(S'Francis T. Marchese'
+p405
+F0.0
+tp406
+a(S'Lixin Tao'
+p407
+F1.0584788644951035
+tp408
+asS'University of Memphis'
+p409
+(lp410
+(S'Scott Fleming'
+p411
+F2.9332244315909586
+tp412
+a(S'Max H. Garzon'
+p413
+F0.8606997193135175
+tp414
+a(S'Santosh Kumar'
+p415
+F4.74109160879688
+tp416
+a(S'King-lp David Lin'
+p417
+F0.0
+tp418
+a(S'Vinhthuy Phan'
+p419
+F1.7962768108845992
+tp420
+a(S'Vasile Rus'
+p421
+F3.3364662271532537
+tp422
+a(S'Qishi Wu'
+p423
+F11.943248347541502
+tp424
+asS'State University of New York, Buffalo'
+p425
+(lp426
+(S'Aidong Zhang'
+p427
+F8.617678185448884
+tp428
+a(S'Geoffrey Werner Challen'
+p429
+F0.0
+tp430
+a(S'Jan Chomicki'
+p431
+F4.290970728888306
+tp432
+a(S'Jason J. Corso'
+p433
+F6.330851402661871
+tp434
+a(S'Murat Demirbas'
+p435
+F6.5831938788793325
+tp436
+a(S'Yun Raymond Fu'
+p437
+F0.0
+tp438
+a(S'Steven Ko'
+p439
+F1.9888707385984932
+tp440
+a(S'Tevfik Kosar'
+p441
+F4.236814091562677
+tp442
+a(S'Dimitrios Koutsonikolas'
+p443
+F5.866448863181917
+tp444
+a(S'Russ Miller'
+p445
+F5.769956705665171
+tp446
+a(S'Hung Ngo'
+p447
+F0.0
+tp448
+a(S'Chunming Qiao'
+p449
+F4.177102256637433
+tp450
+a(S'William J. Rapaport'
+p451
+F2.890376998192735
+tp452
+a(S'Atri Rudra'
+p453
+F7.342666167522576
+tp454
+a(S'Alan L. Selman'
+p455
+F5.568216561293122
+tp456
+a(S'Rohini K. Srihari'
+p457
+F4.9284195439729075
+tp458
+a(S'Sargur N. Srihari'
+p459
+F4.185579256338233
+tp460
+a(S'Satish Tripathi'
+p461
+F5.632299849888229
+tp462
+a(S'Sheng Zhong'
+p463
+F9.816993017475324
+tp464
+asS'UC Irvine'
+p465
+(lp466
+(S'Elaheh Bozorgzadeh'
+p467
+F6.9353388999597225
+tp468
+a(S'Michael Carey'
+p469
+F12.747142724906041
+tp470
+a(S'Nikil Dutt'
+p471
+F5.150203093786138
+tp472
+a(S'Charless Fowlkes'
+p473
+F4.2212158745931445
+tp474
+a(S'Michael Goodrich'
+p475
+F9.793576726349958
+tp476
+a(S'Dan Hirschberg'
+p477
+F10.586475497717686
+tp478
+a(S'Alexander Ihler'
+p479
+F5.042062902446853
+tp480
+a(S'Stanislaw Jarecki'
+p481
+F4.474401756695592
+tp482
+a(S'Richard Lathrop'
+p483
+F3.3237554953368402
+tp484
+a(S'Chen Li'
+p485
+F5.7116871833708185
+tp486
+a(S'Aditi Majumder'
+p487
+F3.330791772101218
+tp488
+a(S'Gopi Meenakshisundaram'
+p489
+F3.272111732842677
+tp490
+a(S'Eric Mjolsness'
+p491
+F1.1845320395203278
+tp492
+a(S'Padhraic Smyth'
+p493
+F9.928313995518614
+tp494
+a(S'Harry Xu'
+p495
+F1.9554829543939725
+tp496
+asS'North Carolina State University'
+p497
+(lp498
+(S'Annie I. Anton'
+p499
+F2.0822573707933314
+tp500
+a(S'Kemafor Anyanwu'
+p501
+F3.0308023279888765
+tp502
+a(S'Kristy Elizabeth Boyer'
+p503
+F5.866448863181917
+tp504
+a(S'Rudra Dutta'
+p505
+F2.3316625329663436
+tp506
+a(S'William Enck'
+p507
+F1.9554829543939725
+tp508
+a(S'Vincent W. Freeh'
+p509
+F1.9484403310826397
+tp510
+a(S'Christopher G. Healey'
+p511
+F3.3263504786244886
+tp512
+a(S'Xuxian Jiang'
+p513
+F7.467284287213785
+tp514
+a(S'James C. Lester'
+p515
+F5.088945612108384
+tp516
+a(S'Xiaosong Ma'
+p517
+F4.711212236044908
+tp518
+a(S'David F. McAllister'
+p519
+F0.0
+tp520
+a(S'Peng Ning'
+p521
+F10.040711542730381
+tp522
+a(S'Douglas S. Reeves'
+p523
+F1.5066190764581546
+tp524
+a(S'Injong Rhee'
+p525
+F5.86897936486846
+tp526
+a(S'Munindar P. Singh'
+p527
+F14.779300249987998
+tp528
+a(S'Ben Watson'
+p529
+F4.0348445057135605
+tp530
+a(S'Laurie Williams'
+p531
+F10.373475691062522
+tp532
+a(S'Tao Xie'
+p533
+F17.794554322922004
+tp534
+a(S'R. Michael Young'
+p535
+F1.2576831730628775
+tp536
+a(S'Ting Yu'
+p537
+F9.910726232497407
+tp538
+asS'University of Arkansas, Fayetteville'
+p539
+(lp540
+(S'David Andrews'
+p541
+F0.6182967787863765
+tp542
+a(S'Nilanjan Banerjee'
+p543
+F6.010184974482267
+tp544
+a(S'Russell Deaton'
+p545
+F0.29356221393355775
+tp546
+a(S'Jia Di'
+p547
+F2.4166458634500243
+tp548
+a(S'John M. Gauch'
+p549
+F1.3745849814168836
+tp550
+a(S'Susan Gauch'
+p551
+F2.940508699064681
+tp552
+a(S'Miaoqing Huang'
+p553
+F3.985852351518306
+tp554
+a(S'Wing-Ning Li'
+p555
+F0.0
+tp556
+a(S'Dale R. Thompson'
+p557
+F0.4968638119243483
+tp558
+asS'Arizona State University'
+p559
+(lp560
+(S'Gail-Joon Ahn'
+p561
+F8.71403819626448
+tp562
+a(S'Robert K. Atkinson'
+p563
+F0.2445352329727875
+tp564
+a(S'Chitta Baral'
+p565
+F5.632335436410264
+tp566
+a(S'Rida A. Bazzi'
+p567
+F1.9634727021464606
+tp568
+a(S'Winslow S. Burleson'
+p569
+F5.1534301066139205
+tp570
+a(S'Kasim Selcuk Candan'
+p571
+F9.336041774301998
+tp572
+a(S'Karamvir S. Chatha'
+p573
+F4.154707229695956
+tp574
+a(S'Yi Chen'
+p575
+F11.634001605597874
+tp576
+a(S'Charles J. Colbourn'
+p577
+F5.9058899744812745
+tp578
+a(S'James S. Collofello'
+p579
+F1.1498541459145912
+tp580
+a(S'Partha Dasgupta'
+p581
+F1.6620385270828475
+tp582
+a(S'Hasan Davulcu'
+p583
+F6.7310112174090735
+tp584
+a(S'Georgios E. Fainekos'
+p585
+F3.3272965591729595
+tp586
+a(S'Sandeep K. S. Gupta'
+p587
+F6.497828786101468
+tp588
+a(S'Dijiang Huang'
+p589
+F5.5565971085644685
+tp590
+a(S'Subbarao Kambhampati'
+p591
+F6.092940701376605
+tp592
+a(S'Joohyung Lee'
+p593
+F3.19707547697289
+tp594
+a(S'Brian C. Nelson'
+p595
+F0.6337413482105756
+tp596
+a(S'Andrea W. Richa'
+p597
+F2.366570073582708
+tp598
+a(S'Hessam S. Sarjoughian'
+p599
+F2.859532354531969
+tp600
+a(S'Aviral Shrivastava'
+p601
+F9.135057664561804
+tp602
+a(S'Violet R. Syrotiuk'
+p603
+F3.253415641814802
+tp604
+a(S'Kurt A. VanLehn'
+p605
+F2.8942735263185737
+tp606
+a(S'Sarma B. K. Vrudhula'
+p607
+F0.0
+tp608
+a(S'Yalin Wang'
+p609
+F2.4666122157954793
+tp610
+a(S'Jieping Ye'
+p611
+F14.169223464378394
+tp612
+a(S'Nong Ye'
+p613
+F0.6408551860730717
+tp614
+asS'Polytechnic Institute of NYU'
+p615
+(lp616
+(S'Juliana Freire'
+p617
+F5.7749230034207875
+tp618
+a(S'John Iacono'
+p619
+F5.664919532133126
+tp620
+asS'University of Iowa'
+p621
+(lp622
+(S'Octav Chipara'
+p623
+F1.9554829543939725
+tp624
+a(S'James F. Cremer'
+p625
+F1.51066651153201
+tp626
+a(S'Ted Herman'
+p627
+F2.646662835731868
+tp628
+a(S'Juan Pablo Hourcade'
+p629
+F4.183912643785493
+tp630
+a(S'Douglas W. Jones'
+p631
+F1.5607086157655012
+tp632
+a(S'Joseph K. Kearney'
+p633
+F1.324878020725865
+tp634
+a(S'Suely Oliveira'
+p635
+F0.8344147941356941
+tp636
+a(S'Sriram V. Pemmaraju'
+p637
+F1.5410310878480455
+tp638
+a(S'Alberto Maria Segre'
+p639
+F1.4771583630678957
+tp640
+a(S'Aaron D. Stump'
+p641
+F4.62207726083729
+tp642
+a(S'Cesare Tinelli'
+p643
+F2.448936918646123
+tp644
+a(S'Kasturi R. Varadarajan'
+p645
+F5.321377137153396
+tp646
+a(S'Christopher R. Wyman'
+p647
+F2.406191196982463
+tp648
+a(S'Hantao Zhang'
+p649
+F7.681355886201442
+tp650
+a(S'Gregg C. Oden'
+p651
+F0.8040299115000232
+tp652
+asS'University of South Florida'
+p653
+(lp654
+(S'Kenneth Christensen'
+p655
+F4.701408871404328
+tp656
+a(S'Lawrence Hall'
+p657
+F2.050284499988126
+tp658
+a(S'Adriana Iamnitchi'
+p659
+F3.633076563635862
+tp660
+a(S'Abraham Kandel'
+p661
+F12.257399884373728
+tp662
+a(S'Rangachar Kasturi'
+p663
+F0.9542498570526025
+tp664
+a(S'Jay Ligatti'
+p665
+F2.087569964680049
+tp666
+a(S'Luther Palmer'
+p667
+F1.333679016693491
+tp668
+a(S'Xiaoning Qian'
+p669
+F6.319877051571955
+tp670
+a(S'Nagarajan Ranganathan'
+p671
+F6.499245159232716
+tp672
+a(S'Dewey Rundus'
+p673
+F0.0
+tp674
+a(S'Sudeep Sarkar'
+p675
+F3.3183177253684724
+tp676
+a(S'Yu Sun'
+p677
+F2.0006913667203152
+tp678
+a(S'Rahul Tripathi'
+p679
+F2.368952518894568
+tp680
+a(S'Murali Varanasi'
+p681
+F0.0
+tp682
+a(S'Hao Zheng'
+p683
+F1.3156531257273207
+tp684
+asS'Stanford University'
+p685
+(lp686
+(S'Alex Aiken'
+p687
+F6.103980993217104
+tp688
+a(S'Serafim Batzoglou'
+p689
+F2.7991441885436292
+tp690
+a(S'Dan Boneh'
+p691
+F9.328840252066488
+tp692
+a(S'David Cheriton'
+p693
+F0.6796307323707611
+tp694
+a(S'Bill Dally'
+p695
+F0.0
+tp696
+a(S'David Dill'
+p697
+F6.554135312454937
+tp698
+a(S'Dawson Engler'
+p699
+F4.272911239747048
+tp700
+a(S'Ron Fedkiw'
+p701
+F5.046553986897539
+tp702
+a(S'Hector Garcia-Molina'
+p703
+F4.512698175295482
+tp704
+a(S'Jeff Heer'
+p705
+F8.616804213620581
+tp706
+a(S'John Hennessy'
+p707
+F3.0273630302158563
+tp708
+a(S'Mark Horowitz'
+p709
+F6.440129732395642
+tp710
+a(S'Sachin Katti'
+p711
+F3.281396780126301
+tp712
+a(S'Scott Klemmer'
+p713
+F5.000654079303866
+tp714
+a(S'Daphne Koller'
+p715
+F11.918429732698966
+tp716
+a(S'Christos Kozyrakis'
+p717
+F5.2014253416519285
+tp718
+a(S'Monica Lam'
+p719
+F8.23073703293808
+tp720
+a(S'Jure Leskovec'
+p721
+F9.950137546953913
+tp722
+a(S'Philip Levis'
+p723
+F8.1030129526497
+tp724
+a(S'Marc Levoy'
+p725
+F3.392178298497851
+tp726
+a(S'Chris Manning'
+p727
+F0.27517240036795787
+tp728
+a(S'David Mazieres'
+p729
+F4.842540333867115
+tp730
+a(S'Nick McKeown'
+p731
+F5.8043144502903905
+tp732
+a(S'Teresa Meng'
+p733
+F2.8106800317657217
+tp734
+a(S'John Ousterhout'
+p735
+F7.338418922128272
+tp736
+a(S'Tim Roughgarden'
+p737
+F7.8924814220169095
+tp738
+a(S'Yoav Shoham'
+p739
+F9.70945828311618
+tp740
+a(S'Jennifer Widom'
+p741
+F15.920078321845128
+tp742
+a(S'Terry Winograd'
+p743
+F2.5366869828516525
+tp744
+asS'University of Pittsburgh'
+p745
+(lp746
+(S'Bruce Childers'
+p747
+F4.810983250533639
+tp748
+a(S'Sangyeun Cho'
+p749
+F3.414855974282007
+tp750
+a(S'Robert Daley'
+p751
+F7.005867995153603
+tp752
+a(S'Milos Hauskrecht'
+p753
+F2.4506718272694017
+tp754
+a(S'Rebecca Hwa'
+p755
+F3.1584550011937473
+tp756
+a(S'Adam Lee'
+p757
+F6.300332128049799
+tp758
+a(S'Diane J. Litman'
+p759
+F3.055757651948958
+tp760
+a(S'Rami Melhem'
+p761
+F5.601283239765124
+tp762
+a(S'Daniel Mosse'
+p763
+F5.046762104248129
+tp764
+a(S'Jingtao Wang'
+p765
+F2.988870738598493
+tp766
+a(S'Youtao Zhang'
+p767
+F7.117055572925324
+tp768
+a(S'Taieb Znati'
+p769
+F1.7350494980238882
+tp770
+asS'University of Michigan'
+p771
+(lp772
+(S'Mark S. Ackerman'
+p773
+F3.60538830361874
+tp774
+a(S'Daniel Atkins'
+p775
+F7.364751589353119
+tp776
+a(S'Satinder Baveja'
+p777
+F8.15201669591585
+tp778
+a(S'Valeria Bertacco'
+p779
+F6.802992597054155
+tp780
+a(S'Chandrasekhar Boyapati'
+p781
+F0.6442376299520796
+tp782
+a(S'Peter Chen'
+p783
+F3.6212206819875674
+tp784
+a(S'Edmund Durfee'
+p785
+F5.71424621183013
+tp786
+a(S'Alfred Hero'
+p787
+F1.3316248684987229
+tp788
+a(S'John Laird'
+p789
+F3.659433633144792
+tp790
+a(S'Sugih Jamin'
+p791
+F1.8707583413073272
+tp792
+a(S'Mingyan Liu'
+p793
+F4.074306833040945
+tp794
+a(S'Zhuoqing Mao'
+p795
+F8.101785201524464
+tp796
+a(S'Igor Markov'
+p797
+F13.498506206623912
+tp798
+a(S'Pinaki Mazumder'
+p799
+F6.853968964147787
+tp800
+a(S'Trevor Mudge'
+p801
+F0.0
+tp802
+a(S'Atul Prakash'
+p803
+F2.756911671869402
+tp804
+a(S'Dragomir R. Radev'
+p805
+F7.946503117484255
+tp806
+a(S'Quentin Stout'
+p807
+F0.6308298631357242
+tp808
+a(S'Martin Strauss'
+p809
+F3.4904805006923696
+tp810
+a(S'Gregory Wakefield'
+p811
+F0.8080617832449928
+tp812
+a(S'Michael Wellman'
+p813
+F8.693949048818334
+tp814
+a(S'Thomas Wenisch'
+p815
+F4.0260823991859365
+tp816
+a(S'Satish Narayanasamy'
+p817
+F2.739648526158848
+tp818
+a(S'Farnam Jahanian'
+p819
+F7.422704782732391
+tp820
+a(S'Benjamin Kuipers'
+p821
+F1.9678586377899863
+tp822
+a(S'J. Alex Halderman'
+p823
+F3.780989957245773
+tp824
+a(S'Georg Essl'
+p825
+F3.4307956268820363
+tp826
+a(S'Zeeshan Syed'
+p827
+F3.993271859119311
+tp828
+a(S'Kristen LeFevre'
+p829
+F4.01852728090995
+tp830
+a(S'Toby Teorey'
+p831
+F5.718930241819067
+tp832
+a(S'Terry Weymouth'
+p833
+F0.7838626356356628
+tp834
+asS'University of Pennsylvania'
+p835
+(lp836
+(S'Norman Badler'
+p837
+F2.2098453842185366
+tp838
+a(S'Susan Davidson'
+p839
+F3.5855366616596074
+tp840
+a(S'Jean Gallier'
+p841
+F6.056185127544345
+tp842
+a(S'Insup Lee'
+p843
+F4.548504326322981
+tp844
+a(S'Boon Thau Loo'
+p845
+F8.707942418435875
+tp846
+a(S'Milo Martin'
+p847
+F3.0832592978786004
+tp848
+a(S'Ani Nenkova'
+p849
+F5.741360893199767
+tp850
+a(S'Amir Roth'
+p851
+F3.5309720670876588
+tp852
+a(S'Alla Safonova'
+p853
+F1.6246156881397855
+tp854
+a(S'Jianbo Shi'
+p855
+F4.480100428528075
+tp856
+a(S'Jonathan Smith'
+p857
+F4.966255232402179
+tp858
+a(S'Ben Taskar'
+p859
+F7.284024615504107
+tp860
+a(S'Steve Zdancewic'
+p861
+F4.8338265113093115
+tp862
+asS'University of Arizona'
+p863
+(lp864
+(S'Gregory Andrews'
+p865
+F2.6732294054395975
+tp866
+a(S'Sandiway Fong'
+p867
+F0.4573294202638241
+tp868
+a(S'John Hartman'
+p869
+F1.7945850270835464
+tp870
+a(S'John Kececioglu'
+p871
+F4.923322164867642
+tp872
+a(S'Stephen Kobourov'
+p873
+F9.899199972735506
+tp874
+a(S'David Lowenthal'
+p875
+F1.6470136341424062
+tp876
+a(S'Richard Snodgrass'
+p877
+F4.245905614145802
+tp878
+a(S'Beichuan Zhang'
+p879
+F4.0831513607527485
+tp880
+asS'Virginia Commonwealth University'
+p881
+(lp882
+(S'Preetam Ghosh'
+p883
+F6.026203114105373
+tp884
+a(S'Branson Murrill'
+p885
+F0.979708658720925
+tp886
+a(S'Kayvan Najarian'
+p887
+F3.381192718796791
+tp888
+asS'University of Rochester'
+p889
+(lp890
+(S'James Allen'
+p891
+F6.881949952327266
+tp892
+a(S'Jeffrey Bigham'
+p893
+F7.31245754397095
+tp894
+a(S'Chris Brown'
+p895
+F3.5089893615430157
+tp896
+a(S'Daniel Gildea'
+p897
+F3.3600169579849344
+tp898
+a(S'Engin Ipek'
+p899
+F2.682542731949148
+tp900
+a(S'Robert Jacobs'
+p901
+F1.9116902418774804
+tp902
+a(S'T. Florian Jaeger'
+p903
+F1.78748936731606
+tp904
+a(S'David C. Knill'
+p905
+F0.0
+tp906
+a(S'Chris Pal'
+p907
+F3.274561241053145
+tp908
+a(S'Lenhart Schubert'
+p909
+F6.338380506241526
+tp910
+a(S'Michael Scott'
+p911
+F3.6129570301051706
+tp912
+a(S'Joel Seiferas'
+p913
+F10.716442110573226
+tp914
+a(S'Daniel Stefankovic'
+p915
+F5.36089363831998
+tp916
+asS'University of British Columbia'
+p917
+(lp918
+(S'Uri Ascher'
+p919
+F0.7366151280728455
+tp920
+a(S'Robert Bridson'
+p921
+F3.1352484182858236
+tp922
+a(S'Giuseppe Carenini'
+p923
+F3.9548478516589127
+tp924
+a(S'Cristina Conati'
+p925
+F2.7120629182501417
+tp926
+a(S'Anne Condon'
+p927
+F3.343408215062079
+tp928
+a(S'William Evans'
+p929
+F3.593183810279613
+tp930
+a(S'Mike Feeley'
+p931
+F2.6484212441943233
+tp932
+a(S'Michael Friedlander'
+p933
+F1.294660562244313
+tp934
+a(S'Joel Friedman'
+p935
+F4.194639143461396
+tp936
+a(S'Ronald Garcia'
+p937
+F2.9332244315909586
+tp938
+a(S'Mark Greenstreet'
+p939
+F1.8690092441541641
+tp940
+a(S'Nick Harvey'
+p941
+F0.0
+tp942
+a(S'Alan Hu'
+p943
+F2.4200700320180983
+tp944
+a(S'Norm Hutchinson'
+p945
+F3.746498931498345
+tp946
+a(S'David Kirkpatrick'
+p947
+F2.899906504314391
+tp948
+a(S'Kevin Leyton-Brown'
+p949
+F3.0566973598225813
+tp950
+a(S'Jim Little'
+p951
+F0.0
+tp952
+a(S'David Lowe'
+p953
+F3.0737198377749397
+tp954
+a(S'Karon MacLean'
+p955
+F2.6479997579262844
+tp956
+a(S'Joanna McGrenere'
+p957
+F2.514224518929219
+tp958
+a(S'Ian Mitchell'
+p959
+F2.4906468750671826
+tp960
+a(S'Tamara Munzner'
+p961
+F5.016496535381501
+tp962
+a(S'Gail Murphy'
+p963
+F5.211822750268253
+tp964
+a(S'Kevin Murphy'
+p965
+F3.9260916595207815
+tp966
+a(S'Raymond T. Ng'
+p967
+F7.176929966362927
+tp968
+a(S'Dinesh Pai'
+p969
+F4.424447844832093
+tp970
+a(S'Rachel Pottinger'
+p971
+F1.5200736979286613
+tp972
+a(S'Ronald Rensink'
+p973
+F0.6949201598953347
+tp974
+a(S'Michiel van de Panne'
+p975
+F1.8078026916847043
+tp976
+a(S'Son Vuong'
+p977
+F1.9110985758945678
+tp978
+a(S'Alan Wagner'
+p979
+F0.7356407493270585
+tp980
+a(S'Eric Wohlstadter'
+p981
+F3.0900407626430932
+tp982
+asS'University of Manitoba'
+p983
+(lp984
+(S'John Anderson'
+p985
+F0.0
+tp986
+a(S'Stephane Durocher'
+p987
+F6.654593118345919
+tp988
+a(S'Peter Graham'
+p989
+F0.550885250706673
+tp990
+a(S'Parimala Thulasiraman'
+p991
+F3.578584176478555
+tp992
+a(S'James Young'
+p993
+F1.9666122157954793
+tp994
+a(S'John van Rees'
+p995
+F0.5516127773463795
+tp996
+asS'UC Riverside'
+p997
+(lp998
+(S'Victor B. Zordan'
+p999
+F2.508894211800942
+tp1000
+a(S'Neal E. Young'
+p1001
+F5.417493687799096
+tp1002
+a(S'Frank N. Vahid'
+p1003
+F7.92417104444188
+tp1004
+a(S'Vassilis J. Tsotras'
+p1005
+F1.7666562339704392
+tp1006
+a(S'Tamar T. Shinar'
+p1007
+F0.0
+tp1008
+a(S'Christian R. Shelton'
+p1009
+F2.0220122445615663
+tp1010
+a(S'Chinya V. Ravishankar'
+p1011
+F0.0
+tp1012
+a(S'Walid A. Najjar'
+p1013
+F4.1758364123894305
+tp1014
+a(S'Harsha V. Madhyastha'
+p1015
+F2.9666122157954793
+tp1016
+a(S'Stefano Lonardi'
+p1017
+F8.58948616770536
+tp1018
+a(S'Srikanth V. Krishnamurthy'
+p1019
+F10.122394904116058
+tp1020
+a(S'Eamonn Keogh'
+p1021
+F13.113246565948987
+tp1022
+a(S'Tao Jiang'
+p1023
+F0.0
+tp1024
+a(S'Vagelis Hristidis'
+p1025
+F6.295060260198286
+tp1026
+a(S'Rajiv Gupta'
+p1027
+F17.692107407745976
+tp1028
+a(S'Michalis Faloutsos'
+p1029
+F4.908258519896846
+tp1030
+a(S'Gianfranco Ciardo'
+p1031
+F5.097459131012671
+tp1032
+a(S'Philip Brisk'
+p1033
+F10.451539614551558
+tp1034
+a(S'Laxmi N. Bhuyan'
+p1035
+F8.49793917135835
+tp1036
+asS'Missouri University of Science and Technology'
+p1037
+(lp1038
+(S'Ali Hurson'
+p1039
+F1.882606459877298
+tp1040
+a(S'Sriram Chellappan'
+p1041
+F3.531249219765891
+tp1042
+a(S'Maggie Cheng'
+p1043
+F3.8349706395278234
+tp1044
+a(S'Jennifer Leopold'
+p1045
+F0.9457283771938065
+tp1046
+a(S'Bruce M. McMillin'
+p1047
+F2.797085986837515
+tp1048
+a(S'Sahra Sedigh Sarvestani'
+p1049
+F1.744973901736556
+tp1050
+a(S'Donald Wunsch'
+p1051
+F0.0
+tp1052
+a(S'Zhaozheng Yin'
+p1053
+F4.888707385984931
+tp1054
+asS'Wright State University'
+p1055
+(lp1056
+(S'Keke Chen'
+p1057
+F4.0254067753781575
+tp1058
+a(S'Soon Chung'
+p1059
+F5.337730667528825
+tp1060
+a(S'Travis Doom'
+p1061
+F1.8000835687855854
+tp1062
+a(S'Meilin Liu'
+p1063
+F2.998472306593552
+tp1064
+a(S'Yong Pei'
+p1065
+F4.949401504950069
+tp1066
+a(S'Michael Raymer'
+p1067
+F2.666755183878456
+tp1068
+a(S'Mateen M. Rizki'
+p1069
+F0.7663864635019959
+tp1070
+a(S'Bin Wang'
+p1071
+F1.7140254050448611
+tp1072
+asS'University of New Brunswick'
+p1073
+(lp1074
+(S'Weichang Du'
+p1075
+F0.0
+tp1076
+a(S'Wei Song'
+p1077
+F0.32591382573232874
+tp1078
+a(S'Huajie Zhang'
+p1079
+F1.418214455580116
+tp1080
+asS'University of Kansas, Lawrence'
+p1081
+(lp1082
+(S'Arvin Agah'
+p1083
+F5.568240529115153
+tp1084
+a(S'Perry Alexander'
+p1085
+F1.2381281312289503
+tp1086
+a(S'Xue-Wen Chen'
+p1087
+F0.0
+tp1088
+a(S'Joseph Evans'
+p1089
+F1.9576148310540966
+tp1090
+a(S'Jun Huan'
+p1091
+F7.411406537920736
+tp1092
+a(S'Nancy Kinnersley'
+p1093
+F0.7220467043988513
+tp1094
+a(S'Prasad Kulkarni'
+p1095
+F2.035285164908742
+tp1096
+a(S'Fengjun Li'
+p1097
+F2.9554829543939727
+tp1098
+a(S'Bo Luo'
+p1099
+F2.728797078444321
+tp1100
+a(S'Douglas Niehaus'
+p1101
+F1.5440297328624522
+tp1102
+a(S'Jeffrey S. Vitter'
+p1103
+F7.898764691609806
+tp1104
+asS'University of Texas, Dallas'
+p1105
+(lp1106
+(S'Farokh B. Bastani'
+p1107
+F1.6302521009681037
+tp1108
+a(S'Lawrence Chung'
+p1109
+F1.4887644010002983
+tp1110
+a(S'Jorge Arturo Cobb'
+p1111
+F3.6345724453632813
+tp1112
+a(S'Kendra M. L. Cooper'
+p1113
+F7.136163756551187
+tp1114
+a(S'Ovidiu Daescu'
+p1115
+F4.597276683580224
+tp1116
+a(S'Mark Gabel'
+p1117
+F0.0
+tp1118
+a(S'Vibhav Gogate'
+p1119
+F3.910965908787945
+tp1120
+a(S'Xiaohu Guo'
+p1121
+F4.346946699524557
+tp1122
+a(S'Gopal Gupta'
+p1123
+F7.8405180038636
+tp1124
+a(S'Kevin W. Hamlen'
+p1125
+F3.5024526036342514
+tp1126
+a(S'Sanda Maria Harabagiu'
+p1127
+F7.397560371333187
+tp1128
+a(S'Vasileios Hatzivassiloglou'
+p1129
+F0.6547339116935834
+tp1130
+a(S'Jason P. Jue'
+p1131
+F4.184513930710986
+tp1132
+a(S'Murat Kantarcioglu'
+p1133
+F8.136697395030561
+tp1134
+a(S'Latifur Khan'
+p1135
+F5.810417607830815
+tp1136
+a(S'Zhiqiang Lin'
+p1137
+F1.9554829543939725
+tp1138
+a(S'Yang Liu'
+p1139
+F8.754424059789168
+tp1140
+a(S'Neeraj Mittal'
+p1141
+F4.0937008766639
+tp1142
+a(S'Dan I. Moldovan'
+p1143
+F1.1401805453278488
+tp1144
+a(S'Simeon C. Ntafos'
+p1145
+F2.445334036315169
+tp1146
+a(S'Vincent Ng'
+p1147
+F2.6103553032455764
+tp1148
+a(S'Ravi Prakash'
+p1149
+F6.406519789544023
+tp1150
+a(S'Kamil Sarac'
+p1151
+F4.759737631749964
+tp1152
+a(S'Edwin (Hsing Mean) Sha'
+p1153
+F12.027257858455437
+tp1154
+a(S'Yuke Wang'
+p1155
+F3.2467701005110583
+tp1156
+a(S'I-Ling Yen'
+p1157
+F4.988637485085464
+tp1158
+a(S'Rym Zalila-Wenkstern'
+p1159
+F0.0
+tp1160
+a(S'Si Qing Zheng'
+p1161
+F2.6223220085609693
+tp1162
+asS'University of Kentucky'
+p1163
+(lp1164
+(S'Kenneth Leonard Calvert'
+p1165
+F2.542571354802694
+tp1166
+a(S'Fuhua (Frank) Cheng'
+p1167
+F1.1912550149959908
+tp1168
+a(S'Zongming Fei'
+p1169
+F2.6660267665643524
+tp1170
+a(S'Raphael A. Finkel'
+p1171
+F2.7453203701422324
+tp1172
+a(S'Tingjian Ge'
+p1173
+F1.9932718591193106
+tp1174
+a(S'Judy Goldsmith'
+p1175
+F3.3304446745402094
+tp1176
+a(S'Jane E. Hayes'
+p1177
+F0.0
+tp1178
+a(S'Nathan Jacobs'
+p1179
+F2.4777414771969863
+tp1180
+a(S'Forbes D. Lewis'
+p1181
+F5.80385700129201
+tp1182
+a(S'Jinze Liu'
+p1183
+F2.2628087409109643
+tp1184
+a(S'Dakshnamoorthy (Mani) Manivannan'
+p1185
+F0.0
+tp1186
+a(S'William (Brent) B. Seales'
+p1187
+F1.89254987018499
+tp1188
+a(S'Mukesh Singhal'
+p1189
+F5.141029438734119
+tp1190
+a(S'Ruigang Yang'
+p1191
+F8.888719970718014
+tp1192
+a(S'Jun Zhang'
+p1193
+F1.7707222208051587
+tp1194
+asS'Southern Methodist University'
+p1195
+(lp1196
+(S'Joseph Camp'
+p1197
+F0.9925804923989955
+tp1198
+a(S'James G. Dunham'
+p1199
+F3.2664733546965246
+tp1200
+a(S'Jennifer Dworak'
+p1201
+F1.912986574281429
+tp1202
+a(S'Delores M. Etter'
+p1203
+F1.6592048281067158
+tp1204
+a(S'Ping Gui'
+p1205
+F0.0
+tp1206
+a(S'Richard V. Helgason'
+p1207
+F1.2616597262714484
+tp1208
+a(S'Mitchell A. Thornton'
+p1209
+F1.6806536330036246
+tp1210
+asS'Temple University'
+p1211
+(lp1212
+(S'Frank L. Friedman'
+p1213
+F0.0
+tp1214
+a(S'Yuhong Guo'
+p1215
+F3.9710133363162967
+tp1216
+a(S'Elliot B. Koffman'
+p1217
+F7.3097239082664895
+tp1218
+a(S'Shan Lin'
+p1219
+F2.9554829543939727
+tp1220
+a(S'Haibin Ling'
+p1221
+F10.731667517332477
+tp1222
+a(S'Vasilis Megalooikonomou'
+p1223
+F3.587075944503276
+tp1224
+a(S'Zoran Obradovic'
+p1225
+F1.912591485071357
+tp1226
+a(S'Slobodan Vucetic'
+p1227
+F3.4172531549725504
+tp1228
+a(S'Jie Wu'
+p1229
+F3.7884777365034004
+tp1230
+a(S'Alexander Yates'
+p1231
+F3.048801715313893
+tp1232
+asS'University of Louisiana, Lafayette'
+p1233
+(lp1234
+(S'Gui-Liang Feng'
+p1235
+F4.446548896241485
+tp1236
+a(S'Miao Jin'
+p1237
+F5.596978927317359
+tp1238
+a(S'Arun Lakhotia'
+p1239
+F2.4352098684682795
+tp1240
+a(S'Anthony S. Maida'
+p1241
+F1.7938814777320318
+tp1242
+a(S'Vijay V. Raghavan'
+p1243
+F0.0
+tp1244
+a(S'Nian-Feng Tzeng'
+p1245
+F6.96196658153806
+tp1246
+a(S'Hongyi Wu'
+p1247
+F6.214298105063806
+tp1248
+asS'University of Tulsa'
+p1249
+(lp1250
+(S'J. C. Diaz'
+p1251
+F0.0
+tp1252
+a(S'John C. Hale'
+p1253
+F3.443561413213009
+tp1254
+a(S'Roger Mailler'
+p1255
+F1.500259262520118
+tp1256
+a(S'Dale A. Schoenefeld'
+p1257
+F0.0
+tp1258
+a(S'Sandip Sen'
+p1259
+F8.571320356345957
+tp1260
+a(S'Sujeet Shenoi'
+p1261
+F1.073209221190233
+tp1262
+asS'Boston University'
+p1263
+(lp1264
+(S'Jonathan Appavoo'
+p1265
+F1.0003456833601576
+tp1266
+a(S'Azer Bestavros'
+p1267
+F2.5976468415232548
+tp1268
+a(S'John Byers'
+p1269
+F5.706940523812578
+tp1270
+a(S'Mark E. Crovella'
+p1271
+F4.3460789804655215
+tp1272
+a(S'Sharon Goldberg'
+p1273
+F1.4777414771969863
+tp1274
+a(S'George Kollios'
+p1275
+F5.5499764671456635
+tp1276
+a(S'Ibrahim Matta'
+p1277
+F5.033117483510255
+tp1278
+a(S'Leonid Reyzin'
+p1279
+F4.340746555648268
+tp1280
+a(S'Stan Sclaroff'
+p1281
+F3.316108826561962
+tp1282
+a(S'Richard West'
+p1283
+F3.858888366721112
+tp1284
+a(S'Hongwei Xi'
+p1285
+F4.488475096998451
+tp1286
+asS'UC Santa Cruz'
+p1287
+(lp1288
+(S'Scott A. Brandt'
+p1289
+F4.648857402277595
+tp1290
+a(S'Luca de Alfaro'
+p1291
+F7.902875062968755
+tp1292
+a(S'Cormac Flanagan'
+p1293
+F6.119527360888872
+tp1294
+a(S'Bob Levinson'
+p1295
+F0.38319323175099795
+tp1296
+a(S'Darrell Long'
+p1297
+F7.291683400824203
+tp1298
+a(S'Michael Mateas'
+p1299
+F6.3963501581712325
+tp1300
+a(S'Charlie McDowell'
+p1301
+F2.7749956437471246
+tp1302
+a(S'Ethan L. Miller'
+p1303
+F4.609186809487826
+tp1304
+a(S'Alex Pang'
+p1305
+F1.6614725805561705
+tp1306
+a(S'Neoklis Polyzotis'
+p1307
+F3.7777344425402077
+tp1308
+a(S'Wang-Chiew Tan'
+p1309
+F4.163431735572637
+tp1310
+asS'UC Davis'
+p1311
+(lp1312
+(S'Nina Amenta'
+p1313
+F4.250790768198854
+tp1314
+a(S'Matthew Bishop'
+p1315
+F0.0
+tp1316
+a(S'Premkumar T. Devanbu'
+p1317
+F5.237266298483868
+tp1318
+a(S"Raissa D'Souza"
+p1319
+F0.6496140037919449
+tp1320
+a(S'Matthew K. Farrens'
+p1321
+F5.2401862533591865
+tp1322
+a(S'Matthew Franklin'
+p1323
+F3.7216629180544762
+tp1324
+a(S'Dipak Ghosal'
+p1325
+F2.2595367645939026
+tp1326
+a(S'Todd J. Green'
+p1327
+F2.4554829543939727
+tp1328
+a(S'Daniel M. Gusfield'
+p1329
+F2.5661686867557227
+tp1330
+a(S'Bernd Hamann'
+p1331
+F3.854080077796231
+tp1332
+a(S'Charles U. Martel'
+p1333
+F1.691793322674228
+tp1334
+a(S'Norman S. Matloff'
+p1335
+F0.0
+tp1336
+a(S'Nelson Max'
+p1337
+F1.8691994939395744
+tp1338
+a(S'Prasant Mohapatra'
+p1339
+F6.601818631300558
+tp1340
+a(S'Biswanath Mukherjee'
+p1341
+F7.007057418871422
+tp1342
+a(S'Michael Neff'
+p1343
+F2.312453877062171
+tp1344
+a(S'Ronald A. Olsson'
+p1345
+F4.264314361940793
+tp1346
+a(S'Raju Pandey'
+p1347
+F3.5262310859583685
+tp1348
+a(S'Phillip W. Rogaway'
+p1349
+F4.392936622587496
+tp1350
+a(S'Zhendong Su'
+p1351
+F3.3768175885201233
+tp1352
+a(S'Ilias Tagkopoulos'
+p1353
+F0.6518276514646575
+tp1354
+a(S'S. Felix Wu'
+p1355
+F2.2124927733897146
+tp1356
+asS'Texas Tech University'
+p1357
+(lp1358
+(S'Noe Lopez-Benitez'
+p1359
+F0.598656040963834
+tp1360
+a(S'Susan A. Mengel'
+p1361
+F0.0
+tp1362
+a(S'Michael Eonsuk Shin'
+p1363
+F2.521169012270496
+tp1364
+a(S'Akbar Siami-Namin'
+p1365
+F2.652173334824815
+tp1366
+a(S'Mohan Sridharan'
+p1367
+F4.037091664153625
+tp1368
+a(S'Richard Watson'
+p1369
+F2.74337857622104
+tp1370
+a(S'Eunseog Youn'
+p1371
+F1.2381782118376885
+tp1372
+a(S'Yu Zhuang'
+p1373
+F0.7217612345507421
+tp1374
+asS'University of Illinois, Urbana Champaign'
+p1375
+(lp1376
+(S'Eyal Amir'
+p1377
+F6.3208725657824285
+tp1378
+a(S'Brian Bailey'
+p1379
+F4.730282281296804
+tp1380
+a(S'Matthew Caesar'
+p1381
+F6.224806574031138
+tp1382
+a(S'Jeff Erickson'
+p1383
+F5.669167259174104
+tp1384
+a(S'Margaret Fleck'
+p1385
+F1.9873047143059968
+tp1386
+a(S'William Gropp'
+p1387
+F0.46417830141234767
+tp1388
+a(S'Indranil Gupta'
+p1389
+F9.53063404932851
+tp1390
+a(S'Anil Hirani'
+p1391
+F0.6388612561122141
+tp1392
+a(S'Laxmikant Kale'
+p1393
+F6.430393472745891
+tp1394
+a(S'Darko Marinov'
+p1395
+F5.781221081091332
+tp1396
+a(S'Dan Roth'
+p1397
+F9.501484941753606
+tp1398
+a(S'Marianne Winslett'
+p1399
+F4.95345711546672
+tp1400
+asS'Mississippi State University'
+p1401
+(lp1402
+(S'Ioana Banicescu'
+p1403
+F0.8092955750361348
+tp1404
+a(S'Cindy L. Bethel'
+p1405
+F1.9554829543939725
+tp1406
+a(S'David A. Dampier'
+p1407
+F0.9601439185212381
+tp1408
+a(S'Yoginder S. Dandass'
+p1409
+F1.5696908334334012
+tp1410
+a(S'T.J. Jankun-Kelly'
+p1411
+F2.4799159773185906
+tp1412
+a(S'Nan Niu'
+p1413
+F5.61542148017995
+tp1414
+a(S'Andy D. Perkins'
+p1415
+F1.7796565423114568
+tp1416
+a(S'Mahalingam Ramkumar'
+p1417
+F5.625524561799486
+tp1418
+a(S'Donna S. Reese'
+p1419
+F0.6182967787863765
+tp1420
+a(S'J. Edward Swan II'
+p1421
+F4.586949492937772
+tp1422
+asS'University of Central Florida'
+p1423
+(lp1424
+(S'Charles E. Hughes'
+p1425
+F9.149941688579576
+tp1426
+a(S'Cliff C. Zou'
+p1427
+F3.4647876598099585
+tp1428
+a(S'Gary T. Leavens'
+p1429
+F2.1158214172232848
+tp1430
+a(S'Gita R. Sukthankar'
+p1431
+F7.0180234710626
+tp1432
+a(S'Joseph J. LaViola'
+p1433
+F11.944353692992465
+tp1434
+a(S'Kenneth O. Stanley'
+p1435
+F8.917393299319313
+tp1436
+a(S'Ladislau Boloni'
+p1437
+F4.9271124602333645
+tp1438
+a(S'Marshall F. Tappen'
+p1439
+F2.502452603634251
+tp1440
+a(S'Mostafa A. Bassiouni'
+p1441
+F2.8574670884590025
+tp1442
+a(S'Mubarak Shah'
+p1443
+F2.7269495713077
+tp1444
+a(S'Ratan K. Guha'
+p1445
+F3.485008851316877
+tp1446
+asS'University of Massachusetts, Lowell'
+p1447
+(lp1448
+(S'Fred G. Martin'
+p1449
+F0.6657628906543451
+tp1450
+a(S'Guanling Chen'
+p1451
+F3.789821714844617
+tp1452
+a(S'Georges G. Grinstein'
+p1453
+F0.0
+tp1454
+a(S'Jesse M. Heines'
+p1455
+F0.8473715331633457
+tp1456
+a(S'Byung Guk Kim'
+p1457
+F0.0
+tp1458
+a(S'Haim Levkowitz'
+p1459
+F1.3438392672419461
+tp1460
+a(S'Benyuan Liu'
+p1461
+F2.6553436127939927
+tp1462
+asS'Oregon State University'
+p1463
+(lp1464
+(S'Michael J. Bailey'
+p1465
+F0.9283566028246953
+tp1466
+a(S'Glencora Borradaile'
+p1467
+F2.6828884153093058
+tp1468
+a(S'Bella Bose'
+p1469
+F3.204270084749248
+tp1470
+a(S'Timothy A. Budd'
+p1471
+F3.2332228118878596
+tp1472
+a(S'Margaret Burnett'
+p1473
+F5.18432530010997
+tp1474
+a(S'Thomas Glen Dietterich'
+p1475
+F7.885651268388919
+tp1476
+a(S'Xiaoli Z. Fern'
+p1477
+F2.5269639180115204
+tp1478
+a(S'Alex David Groce'
+p1479
+F1.9434166793761136
+tp1480
+a(S'Bechir Hamdaoui'
+p1481
+F6.447136837055739
+tp1482
+a(S'Carlos Jensen'
+p1483
+F1.4836478747093236
+tp1484
+a(S'Ronald A. Metoyer'
+p1485
+F1.1647955488105275
+tp1486
+a(S'Cherri M. Pancake'
+p1487
+F2.1465671313982226
+tp1488
+a(S'Raviv Raich'
+p1489
+F4.668266363192776
+tp1490
+a(S'Christopher Scaffidi'
+p1491
+F3.9936175424794684
+tp1492
+a(S'Prasad Tadepalli'
+p1493
+F2.8298511225911924
+tp1494
+a(S'Sinisa Todorovic'
+p1495
+F6.789202866648292
+tp1496
+a(S'Weng-Keen Wong'
+p1497
+F1.8776063801578027
+tp1498
+a(S'Eugene Zhang'
+p1499
+F2.3733388761072662
+tp1500
+asS'Florida Institute of Technology'
+p1501
+(lp1502
+(S'William Allen'
+p1503
+F2.004986512556151
+tp1504
+a(S'Rhoda Baggs'
+p1505
+F0.0
+tp1506
+a(S'Philip K. Chan'
+p1507
+F2.14683142831335
+tp1508
+a(S'Liam M. Mayron'
+p1509
+F1.9554829543939725
+tp1510
+a(S'J. Richard Newman'
+p1511
+F0.0
+tp1512
+a(S'Scott Tilley'
+p1513
+F4.783928913985406
+tp1514
+asS'Dalhousie University'
+p1515
+(lp1516
+(S'Michael A. Shepherd'
+p1517
+F0.9283566028246953
+tp1518
+a(S'J. Blustein'
+p1519
+F0.7222308808971089
+tp1520
+a(S'Abdel-Aziz Farrag'
+p1521
+F1.5693955055927085
+tp1522
+a(S'Kirstie Hawkey'
+p1523
+F7.821931817575889
+tp1524
+a(S'Meng He'
+p1525
+F0.0
+tp1526
+a(S'Andrew Rau-Chaplin'
+p1527
+F4.08171139414131
+tp1528
+a(S'Derek F. Reilly'
+p1529
+F2.9332244315909586
+tp1530
+a(S'Norbert Zeh'
+p1531
+F4.984853608447881
+tp1532
+a(S'Jacob Slonim'
+p1533
+F1.1015336228135695
+tp1534
+a(S'Anatoliy Gruzd'
+p1535
+F0.9888707385984932
+tp1536
+a(S'Raymond Klein'
+p1537
+F0.0
+tp1538
+a(S'Peter Selinger'
+p1539
+F1.3054951545443996
+tp1540
+asS'New York University'
+p1541
+(lp1542
+(S'Christoph Bregler'
+p1543
+F2.733513392974087
+tp1544
+a(S'Yevgeniy Dodis'
+p1545
+F9.444279170151
+tp1546
+a(S'Benjamin Goldberg'
+p1547
+F2.676420759283353
+tp1548
+a(S'Robert Grimm'
+p1549
+F1.8315280296926346
+tp1550
+a(S'Ralph Grishman'
+p1551
+F6.034077737796023
+tp1552
+a(S'Subhash Khot'
+p1553
+F8.139674199753417
+tp1554
+a(S'Jinyang Li'
+p1555
+F3.112027298725873
+tp1556
+a(S'Dennis Shasha'
+p1557
+F0.0
+tp1558
+a(S'Lakshminarayanan Subramanian'
+p1559
+F6.132710300494914
+tp1560
+a(S'Chee Yap'
+p1561
+F4.440982412079674
+tp1562
+asS'University of Nebraska, Omaha'
+p1563
+(lp1564
+(S'Hesham H. Ali'
+p1565
+F0.33885347264785337
+tp1566
+a(S'Azad Azadmanesh'
+p1567
+F0.0
+tp1568
+a(S'Sanjukta Bhowmick'
+p1569
+F1.7963927764372656
+tp1570
+a(S'Zhengxin Chen'
+p1571
+F1.0584788644951035
+tp1572
+a(S'Parvathi Chundi'
+p1573
+F1.5807198123941628
+tp1574
+a(S'Prithviraj Dasgupta'
+p1575
+F3.508302546144491
+tp1576
+a(S'Haifeng Guo'
+p1577
+F3.9480268588104837
+tp1578
+a(S'Harvey Siy'
+p1579
+F2.101240336057499
+tp1580
+a(S'Mahadevan Subramaniam'
+p1581
+F2.683823617643477
+tp1582
+a(S'Stanley A. Wileman'
+p1583
+F0.0
+tp1584
+a(S'Victor Winter'
+p1585
+F2.841737203831283
+tp1586
+a(S'Jong-Hoon Youn'
+p1587
+F2.4972909203469795
+tp1588
+a(S'Qiuming Zhu'
+p1589
+F1.1510405099068528
+tp1590
+asS'McMaster University'
+p1591
+(lp1592
+(S'Christopher K. Anand'
+p1593
+F0.22568936696537917
+tp1594
+a(S'Mark Lawford'
+p1595
+F0.25895077430021896
+tp1596
+a(S'Spencer Smith'
+p1597
+F0.23164005329844492
+tp1598
+asS'University of Texas, San Antonio'
+p1599
+(lp1600
+(S'Rajendra V. Boppana'
+p1601
+F4.861784600976797
+tp1602
+a(S'Tom Bylander'
+p1603
+F4.821436759377173
+tp1604
+a(S'Anthony T. Chronopoulos'
+p1605
+F2.895801925653488
+tp1606
+a(S'Daniel A. Jimenez'
+p1607
+F3.19758982093149
+tp1608
+a(S'Turgay Korkmaz'
+p1609
+F4.833206132104523
+tp1610
+a(S'John P. Quarles'
+p1611
+F1.667358033386982
+tp1612
+a(S'Kay A. Robbins'
+p1613
+F0.0
+tp1614
+a(S'Steven Robbins'
+p1615
+F0.0
+tp1616
+a(S'Jianhua Ruan'
+p1617
+F2.434394710618122
+tp1618
+a(S'Ravi Sandhu'
+p1619
+F0.440883908973803
+tp1620
+a(S'Macneil Shonle'
+p1621
+F1.6444081438636529
+tp1622
+a(S'Ali Saman Tosun'
+p1623
+F3.1116734706736926
+tp1624
+a(S'Jeffery von Ronne'
+p1625
+F1.688068446910664
+tp1626
+a(S'R. Clint Whaley'
+p1627
+F0.22568936696537917
+tp1628
+a(S'Qing Yi'
+p1629
+F0.8699269969174587
+tp1630
+a(S'Weining Zhang'
+p1631
+F2.486556915812998
+tp1632
+a(S'Dakai Zhu'
+p1633
+F3.6271854161396093
+tp1634
+asS'Illinois Institute of Technology'
+p1635
+(lp1636
+(S'Mustafa Bilgic'
+p1637
+F1.9777414771969863
+tp1638
+a(S'Gruia Calinescu'
+p1639
+F7.761657628453858
+tp1640
+a(S'Zhiling Lan'
+p1641
+F2.534013062134034
+tp1642
+a(S'Xiang-Yang Li'
+p1643
+F13.013362887255218
+tp1644
+a(S'Ioan Raicu'
+p1645
+F2.9443536929924656
+tp1646
+a(S'Shangping Ren'
+p1647
+F4.155219612182141
+tp1648
+a(S'Peng-Jun Wan'
+p1649
+F9.31793414148742
+tp1650
+a(S'Martha Evens'
+p1651
+F0.0
+tp1652
+asS'University of Illinois, Chicago'
+p1653
+(lp1654
+(S'Tanya Y. Berger-Wolf'
+p1655
+F2.9562846940207557
+tp1656
+a(S'Daniel J. Bernstein'
+p1657
+F1.343869093023344
+tp1658
+a(S'Bhaskar DasGupta'
+p1659
+F4.787478296152723
+tp1660
+a(S'Tom DeFanti'
+p1661
+F0.0
+tp1662
+a(S'Jakob Eriksson'
+p1663
+F2.3191856848516395
+tp1664
+a(S'Andrew Johnson'
+p1665
+F5.3165260273469
+tp1666
+a(S'Robert V. Kenyon'
+p1667
+F0.0
+tp1668
+a(S'Peter C. Nelson'
+p1669
+F2.161297488093352
+tp1670
+a(S'Prasad Sistla'
+p1671
+F7.593427899318821
+tp1672
+a(S'Robert H. Sloan'
+p1673
+F3.637531208676397
+tp1674
+a(S'V.N. Venkatakrishnan'
+p1675
+F2.80854895783282
+tp1676
+asS'Harvard University'
+p1677
+(lp1678
+(S'David Brooks'
+p1679
+F5.017788423601883
+tp1680
+a(S'Yiling Chen'
+p1681
+F5.799257975635603
+tp1682
+a(S'Krzysztof Gajos'
+p1683
+F2.9784328439173016
+tp1684
+a(S'Steven Gortler'
+p1685
+F2.180542181308624
+tp1686
+a(S'Harry Lewis'
+p1687
+F8.70779997254923
+tp1688
+a(S'Michael Mitzenmacher'
+p1689
+F13.067578421957714
+tp1690
+a(S'John Morrisett'
+p1691
+F5.428399569376028
+tp1692
+a(S'Radhika Nagpal'
+p1693
+F4.791389830481917
+tp1694
+a(S'David Parkes'
+p1695
+F8.177930591671018
+tp1696
+a(S'Margo Seltzer'
+p1697
+F4.564880903312393
+tp1698
+a(S'Stuart Shieber'
+p1699
+F2.135119109026308
+tp1700
+a(S'Mike Smith'
+p1701
+F4.773567427190086
+tp1702
+a(S'Salil Vadhan'
+p1703
+F7.629283508130095
+tp1704
+a(S'Jonathan Zittrain'
+p1705
+F0.47582607524825865
+tp1706
+asS'Florida State University'
+p1707
+(lp1708
+(S'Sudhir Aggarwal'
+p1709
+F0.8040299115000232
+tp1710
+a(S'Theodore P. Baker'
+p1711
+F5.070037014815699
+tp1712
+a(S'Zhenhai Duan'
+p1713
+F4.46192607153626
+tp1714
+a(S'Piyush Kumar'
+p1715
+F1.3164839041587482
+tp1716
+a(S'Xiuwen Liu'
+p1717
+F7.980466029102843
+tp1718
+a(S'Daniel Schwartz'
+p1719
+F0.0
+tp1720
+a(S'Gary Tyson'
+p1721
+F6.129863935831889
+tp1722
+a(S'An-I Andy Wang'
+p1723
+F1.9653285101360123
+tp1724
+a(S'David Whalley'
+p1725
+F5.006539144196017
+tp1726
+a(S'Zhenghao Zhang'
+p1727
+F5.857806313824694
+tp1728
+asS'Ohio State University'
+p1729
+(lp1730
+(S'Gagan Agrawal'
+p1731
+F5.634889540448066
+tp1732
+a(S'Anish Arora'
+p1733
+F3.769016395086684
+tp1734
+a(S'Mikhail Belkin'
+p1735
+F3.638214395100371
+tp1736
+a(S'Michael D. Bond'
+p1737
+F1.9554829543939725
+tp1738
+a(S'Roger Crawfis'
+p1739
+F3.281772232751213
+tp1740
+a(S'Jim Davis'
+p1741
+F4.395958079321576
+tp1742
+a(S'Eric Fosler-Lussier'
+p1743
+F3.9983697336583406
+tp1744
+a(S'Raghu Machiraju'
+p1745
+F2.799515233809258
+tp1746
+a(S'Dhabaleswar K.  Pandapanda'
+p1747
+F5.16187536041877
+tp1748
+a(S'Srinivasan Parthasarathy'
+p1749
+F8.65982949230879
+tp1750
+a(S'Feng Qin'
+p1751
+F3.3518101414879693
+tp1752
+a(S'Atanas Rountev'
+p1753
+F5.695528033513612
+tp1754
+a(S'Luis Rademacher'
+p1755
+F1.3566289062168198
+tp1756
+a(S'P. Sadayappan'
+p1757
+F1.7236257324314912
+tp1758
+a(S'Han-Wei Shen'
+p1759
+F4.176236709656456
+tp1760
+a(S'Ness B. Shroff'
+p1761
+F4.598249823893068
+tp1762
+a(S'Prasun Sinha'
+p1763
+F5.11817697292045
+tp1764
+a(S'Paolo A. G. Sivilotti'
+p1765
+F2.0682545675137556
+tp1766
+a(S'Christopher Stewart'
+p1767
+F0.6744318576278289
+tp1768
+a(S'Radu Teodorescu'
+p1769
+F1.0063609694279703
+tp1770
+a(S'DeLiang Wang'
+p1771
+F2.5433791294059196
+tp1772
+a(S'Yusu Wang'
+p1773
+F5.1631138460867705
+tp1774
+a(S'Bruce W. Weide'
+p1775
+F4.517746269480659
+tp1776
+a(S'Rephael Wenger'
+p1777
+F3.508809974284034
+tp1778
+a(S'Dong Xuan'
+p1779
+F6.344790567926455
+tp1780
+a(S'Stuart Zweben'
+p1781
+F1.5406450395728686
+tp1782
+asS'University of Minnesota, Minneapolis'
+p1783
+(lp1784
+(S'Arindam Banerjee'
+p1785
+F4.697404935763872
+tp1786
+a(S'David Hung-Chang Du'
+p1787
+F0.5516127773463795
+tp1788
+a(S'Victoria Interrante'
+p1789
+F1.8311334742286114
+tp1790
+a(S'Ravi Janardan'
+p1791
+F4.430211481180518
+tp1792
+a(S'George Karypis'
+p1793
+F13.423547308357763
+tp1794
+a(S'Daniel F. Keefe'
+p1795
+F3.2807306947256545
+tp1796
+a(S'Yongdae Kim'
+p1797
+F4.839454899649759
+tp1798
+a(S'Joseph A. Konstan'
+p1799
+F3.789801009799863
+tp1800
+a(S'Rui Kuang'
+p1801
+F2.872414568361848
+tp1802
+a(S'Vipin Kumar'
+p1803
+F6.000249756399019
+tp1804
+a(S'Mohamed F. Mokbel'
+p1805
+F8.979876726159123
+tp1806
+a(S'Chad L. Myers'
+p1807
+F2.7854804355323286
+tp1808
+a(S'John Riedl'
+p1809
+F4.5530734173407215
+tp1810
+a(S'Stergios I. Roumeliotis'
+p1811
+F6.8936545974384416
+tp1812
+a(S'Shashi Shekhar'
+p1813
+F6.833171123671247
+tp1814
+a(S'Eric Van Wyk'
+p1815
+F2.790771965765572
+tp1816
+a(S'Jon B. Weissman'
+p1817
+F2.800868125513772
+tp1818
+a(S'Pen-Chung Yew'
+p1819
+F12.538805200289316
+tp1820
+a(S'Antonia Bingheng Zhai'
+p1821
+F3.0044730468897956
+tp1822
+a(S'Zhi-Li Zhang'
+p1823
+F8.243801768690727
+tp1824
+asS'Lehigh University'
+p1825
+(lp1826
+(S'Brian Y. Chen'
+p1827
+F1.4888707385984932
+tp1828
+a(S'Liang Cheng'
+p1829
+F6.651838982122814
+tp1830
+a(S'Brian D. Davison'
+p1831
+F4.76259257637254
+tp1832
+a(S'Jeff Heflin'
+p1833
+F3.270419503788518
+tp1834
+a(S'Xiaolei Huang'
+p1835
+F7.096895744149888
+tp1836
+a(S'Henry F. Korth'
+p1837
+F6.522333512088591
+tp1838
+a(S'Daniel P. Lopresti'
+p1839
+F2.712604448149275
+tp1840
+a(S'Michael F. Spear'
+p1841
+F3.682888415309307
+tp1842
+a(S'John R. Spletzer'
+p1843
+F2.9274353271000906
+tp1844
+asS'Drexel University'
+p1845
+(lp1846
+(S'David E. Breen'
+p1847
+F2.236328484642426
+tp1848
+a(S'Yuanfang Cai'
+p1849
+F4.14551218099822
+tp1850
+a(S'Bruce W. Char'
+p1851
+F1.597663606400591
+tp1852
+a(S'Rachel Greenstadt'
+p1853
+F2.786017511739427
+tp1854
+a(S'Jeremy R. Johnson'
+p1855
+F1.003976083804723
+tp1856
+a(S'Spiros Mancoridis'
+p1857
+F1.9205582969832604
+tp1858
+a(S'William C. Regli'
+p1859
+F7.390196095651167
+tp1860
+a(S'Dario D. Salvucci'
+p1861
+F3.569449124715091
+tp1862
+a(S'Giuseppe (Peppo) Valetto'
+p1863
+F2.4496921696045124
+tp1864
+a(S'Paul J. Diefenbach'
+p1865
+F1.2474801495653107
+tp1866
+a(S'Thomas T. Hewett'
+p1867
+F0.0
+tp1868
+a(S'Moshe Kam'
+p1869
+F2.320842192732051
+tp1870
+a(S'Jichen Zhu'
+p1871
+F4.9220951701894515
+tp1872
+asS'UC Berkeley'
+p1873
+(lp1874
+(S'Bjorn Hartmann'
+p1875
+F9.833061078977394
+tp1876
+a(S'Daniel Klein'
+p1877
+F8.657666153968622
+tp1878
+a(S'David Culler'
+p1879
+F5.106873045472364
+tp1880
+a(S'David Wagner'
+p1881
+F12.193767407824911
+tp1882
+a(S'Dawn Song'
+p1883
+F7.31857146300492
+tp1884
+a(S'George Necula'
+p1885
+F4.646958938669128
+tp1886
+a(S'Ion Stoica'
+p1887
+F9.857094504115173
+tp1888
+a(S'Jitendra Malik'
+p1889
+F2.7250278791286613
+tp1890
+a(S'John Kubiatowicz'
+p1891
+F5.038509847481855
+tp1892
+a(S'John Canny'
+p1893
+F10.557886329232357
+tp1894
+a(S'Katherine Yelick'
+p1895
+F5.0750751678668795
+tp1896
+a(S'Ken Goldberg'
+p1897
+F7.8762404393185035
+tp1898
+a(S'Lior Pachter'
+p1899
+F4.035094739373038
+tp1900
+a(S'Michael Jordan'
+p1901
+F3.1903156391981966
+tp1902
+a(S'Michael Stonebraker'
+p1903
+F11.086401740726483
+tp1904
+a(S'Pieter Abbeel'
+p1905
+F5.509009248129738
+tp1906
+a(S'Randy Katz'
+p1907
+F12.894867232185195
+tp1908
+a(S'Rastislav Bodik'
+p1909
+F2.7429993699299104
+tp1910
+a(S'Ravi Ramamoorthi'
+p1911
+F7.551205323311578
+tp1912
+a(S'Robert Wilensky'
+p1913
+F7.514693083142207
+tp1914
+a(S'Stuart Russell'
+p1915
+F5.222567040787018
+tp1916
+a(S'Susan Graham'
+p1917
+F8.289878485595034
+tp1918
+a(S'Yun Song'
+p1919
+F2.4488165562473823
+tp1920
+asS'Wayne State University'
+p1921
+(lp1922
+(S'Marwan Abi-Antoun'
+p1923
+F1.682197048588991
+tp1924
+a(S'Hamidreza Chitsaz'
+p1925
+F0.0
+tp1926
+a(S'Ming Dong'
+p1927
+F5.676682167506203
+tp1928
+a(S'Nathan W. Fisher'
+p1929
+F0.2046591145766973
+tp1930
+a(S'Farshad Fotouhi'
+p1931
+F3.1413899044050786
+tp1932
+a(S'Daniel Grosu'
+p1933
+F6.488694310732903
+tp1934
+a(S'Jing Hua'
+p1935
+F7.618108693868905
+tp1936
+a(S'Zaki Malik'
+p1937
+F3.7401670511990845
+tp1938
+a(S'Andrian Marcus'
+p1939
+F6.511372647859214
+tp1940
+a(S'Chandan Reddy'
+p1941
+F5.46937906843298
+tp1942
+a(S'Robert G.Reynolds'
+p1943
+F0.5516127773463795
+tp1944
+a(S'Loren Schwiebert'
+p1945
+F2.304673534786166
+tp1946
+a(S'Hongwei Zhang'
+p1947
+F6.460047448838379
+tp1948
+asS'Toyota Technological Institute at Chicago'
+p1949
+(lp1950
+(S'Yury Makarychev'
+p1951
+F3.9554829543939727
+tp1952
+a(S'Gregory Shakhnarovich'
+p1953
+F1.274110462777566
+tp1954
+a(S'Madhur Tulsiani'
+p1955
+F2.9332244315909586
+tp1956
+a(S'Jinbo Xu'
+p1957
+F6.825069821612786
+tp1958
+asS'University of Colorado, Denver'
+p1959
+(lp1960
+(S'Gita Alaghband'
+p1961
+F1.5020272128290544
+tp1962
+a(S'Tom Altman'
+p1963
+F0.4006694038846649
+tp1964
+a(S'Min-Hyung Choi'
+p1965
+F1.2750295595109253
+tp1966
+a(S'Ilkyeun Ra'
+p1967
+F2.336941710283817
+tp1968
+asS'Brandeis University'
+p1969
+(lp1970
+(S'Timothy J. Hickey'
+p1971
+F1.954049551997565
+tp1972
+a(S'Pengyu Hong'
+p1973
+F1.5205884715850488
+tp1974
+a(S'Olga Papaemmanouil'
+p1975
+F1.333679016693491
+tp1976
+a(S'Jordan B. Pollack'
+p1977
+F2.6385131799099577
+tp1978
+a(S'Nianwen Xue'
+p1979
+F4.653556068265446
+tp1980
+asS'Vanderbilt University'
+p1981
+(lp1982
+(S'Julie A. Adams'
+p1983
+F2.129748998302872
+tp1984
+a(S'Gautam Biswas'
+p1985
+F5.682016851568816
+tp1986
+a(S'Robert E. Bodenheimer'
+p1987
+F2.60671622891309
+tp1988
+a(S'Lawrence W. Dowdy'
+p1989
+F2.317316081290787
+tp1990
+a(S'Aniruddha S. Gokhale'
+p1991
+F14.286764311429803
+tp1992
+a(S'Douglas C. Schmidt'
+p1993
+F11.720632023224464
+tp1994
+a(S'Yuan Xue'
+p1995
+F9.098395267241148
+tp1996
+asS'University of Colorado, Boulder'
+p1997
+(lp1998
+(S'Kenneth M. Anderson'
+p1999
+F5.687872719298773
+tp2000
+a(S'John R. Black'
+p2001
+F0.23164005329844492
+tp2002
+a(S'Elizabeth Bradley'
+p2003
+F0.9009836763781994
+tp2004
+a(S'Bor-Yuh Evan Chang'
+p2005
+F1.6444081438636529
+tp2006
+a(S'Aaron Clauset'
+p2007
+F0.0
+tp2008
+a(S'Michael A. Eisenberg'
+p2009
+F4.312558582036605
+tp2010
+a(S'Debra S. Goldberg'
+p2011
+F0.8335190972609912
+tp2012
+a(S'Dirk C. Grunwald'
+p2013
+F2.3373770394641236
+tp2014
+a(S'Richard Y. Han'
+p2015
+F5.381588025778089
+tp2016
+a(S'Qin (Christine) Lv'
+p2017
+F3.0174783466663304
+tp2018
+a(S'James H. Martin'
+p2019
+F1.695277074028637
+tp2020
+a(S'Michael C. Mozer'
+p2021
+F5.386240968671946
+tp2022
+a(S'Leysia A. Palen'
+p2023
+F2.158402256821618
+tp2024
+a(S'Sriram Sankaranarayanan'
+p2025
+F8.298655578849415
+tp2026
+a(S'Douglas C. Sicker'
+p2027
+F1.6350201487486942
+tp2028
+a(S'Katie A. Siek'
+p2029
+F3.742303876373633
+tp2030
+a(S'Tamara R. Sumner'
+p2031
+F0.0
+tp2032
+a(S'Harold N. (Hal) Gabow'
+p2033
+F6.999221242181531
+tp2034
+asS'Brigham Young University'
+p2035
+(lp2036
+(S'Robert P. Burton'
+p2037
+F1.1083326799455255
+tp2038
+a(S'Mark J. Clement'
+p2039
+F4.350888955326501
+tp2040
+a(S'David W. Embley'
+p2041
+F1.9982748543442939
+tp2042
+a(S'J. Kelly Flanagan'
+p2043
+F2.6986378507741406
+tp2044
+a(S'Michael A. Goodrich'
+p2045
+F3.966846685423962
+tp2046
+a(S'Michael D. Jones'
+p2047
+F1.854436531388389
+tp2048
+a(S'Charles D. Knutson'
+p2049
+F2.4082171476260923
+tp2050
+a(S'Tony R. Martinez'
+p2051
+F1.8399201875791653
+tp2052
+a(S'Jay A. McCarthy'
+p2053
+F1.5299343559984373
+tp2054
+a(S'Bryan S. Morse'
+p2055
+F3.1934485858637482
+tp2056
+a(S'Yiu-Kai Dennis Ng'
+p2057
+F1.6160272288190831
+tp2058
+a(S'Dan R. Olsen, Jr.'
+p2059
+F2.5113227053892033
+tp2060
+a(S'Eric K. Ringger'
+p2061
+F1.4885471637984755
+tp2062
+a(S'Thomas W. Sederberg'
+p2063
+F6.539610076752043
+tp2064
+a(S'Kevin D. Seppi'
+p2065
+F3.862656985789793
+tp2066
+a(S'Quinn Snell'
+p2067
+F4.988193725860066
+tp2068
+a(S'Dan A. Ventura'
+p2069
+F0.0
+tp2070
+a(S'Sean C. Warnick'
+p2071
+F0.8693942996982009
+tp2072
+a(S'Scott N. Woodfield'
+p2073
+F1.6961598187418052
+tp2074
+a(S'Daniel M. A. Zappala'
+p2075
+F1.0288393008322647
+tp2076
+asS'University of Wisconsin, Madison'
+p2077
+(lp2078
+(S'Aditya Akell'
+p2079
+F6.599068040103694
+tp2080
+a(S'Andrea Arpaci-Dusseau'
+p2081
+F5.3043000788109165
+tp2082
+a(S'Remzi Arpaci-Dusseau'
+p2083
+F5.297677883462258
+tp2084
+a(S'Suman Banerjee'
+p2085
+F11.6398879370436
+tp2086
+a(S'Paul Barford'
+p2087
+F4.732871660226277
+tp2088
+a(S'Jin-Yi Cai'
+p2089
+F9.105358405298194
+tp2090
+a(S'Shuchi Chawla'
+p2091
+F3.9625628891677005
+tp2092
+a(S'AnHai Doan'
+p2093
+F6.705841237265176
+tp2094
+a(S'Charles Dyer'
+p2095
+F6.59090332632969
+tp2096
+a(S'Michael Gleicher'
+p2097
+F4.076177803610589
+tp2098
+a(S'Somesh Jha'
+p2099
+F7.768659030093646
+tp2100
+a(S'Bilge Mutlu'
+p2101
+F3.6454451939441257
+tp2102
+a(S'Ben Recht'
+p2103
+F4.956174321114287
+tp2104
+a(S'Thomas Reps'
+p2105
+F5.617974283849878
+tp2106
+a(S'Karthikeyan Sankaralingam'
+p2107
+F2.7075725115358895
+tp2108
+a(S'Jude Shavlik'
+p2109
+F6.885522366062463
+tp2110
+a(S'Eftychios Sifakis'
+p2111
+F0.9777414771969862
+tp2112
+a(S'Benjamin Snyder'
+p2113
+F0.9777414771969862
+tp2114
+a(S'Michael Swift'
+p2115
+F4.159711775677897
+tp2116
+a(S'Li Zhang'
+p2117
+F2.268136058828697
+tp2118
+a(S'Xiaojin Zhu'
+p2119
+F0.0
+tp2120
+a(S'Robert Meyer'
+p2121
+F1.9933600129000268
+tp2122
+a(S'Marvin Solomon'
+p2123
+F2.6779055867150547
+tp2124
+asS'New Mexico State University'
+p2125
+(lp2126
+(S'Jonathan Cook'
+p2127
+F1.8396183292125763
+tp2128
+a(S'Yuho Jin'
+p2129
+F0.0
+tp2130
+a(S'Satyajayant Misra'
+p2131
+F4.660629892506293
+tp2132
+a(S'Inna V. Pivkina'
+p2133
+F1.1475907820464737
+tp2134
+a(S'Enrico Pontelli'
+p2135
+F12.84116802161132
+tp2136
+a(S'Karen Villaverda'
+p2137
+F1.2199565735630884
+tp2138
+asS'Northeastern University'
+p2139
+(lp2140
+(S'Amal Ahmed'
+p2141
+F2.3191856848516395
+tp2142
+a(S'Javed A. Aslam'
+p2143
+F3.222636201520273
+tp2144
+a(S'Albert-Laszlo Barabasi'
+p2145
+F0.0
+tp2146
+a(S'Timothy W. Bickmore'
+p2147
+F4.889223462004414
+tp2148
+a(S'Agnes H. Chan'
+p2149
+F1.8567662683336994
+tp2150
+a(S'Peter J. Desnoyers'
+p2151
+F2.6677037167471394
+tp2152
+a(S'Harriet J. Fell'
+p2153
+F0.0
+tp2154
+a(S'Matthias Felleisen'
+p2155
+F5.8065340920566
+tp2156
+a(S'Matthew S. Goodwin'
+p2157
+F0.0
+tp2158
+a(S'David M. Lazer'
+p2159
+F0.25153663461257547
+tp2160
+a(S'Panagiotis Manolios'
+p2161
+F4.42471360626261
+tp2162
+a(S'Alan E. Mislove'
+p2163
+F2.652519018184973
+tp2164
+a(S'Rupal Patel'
+p2165
+F0.2445352329727875
+tp2166
+a(S'Rajmohan Rajaraman'
+p2167
+F5.203277504200701
+tp2168
+a(S'William Robertson'
+p2169
+F0.0
+tp2170
+a(S'Magy Seif El-Nasr'
+p2171
+F3.597653764328033
+tp2172
+a(S'Amy Sliva'
+p2173
+F3.910965908787945
+tp2174
+a(S'Emanuele Viola'
+p2175
+F5.810905762077347
+tp2176
+a(S'Marsette A. Vona'
+p2177
+F0.4888707385984931
+tp2178
+a(S'Thomas Wahl'
+p2179
+F3.910965908787945
+tp2180
+a(S'Robert P. Futrelle'
+p2181
+F1.720787289057919
+tp2182
+asS'College of William and Mary'
+p2183
+(lp2184
+(S'Isil Dillig'
+p2185
+F3.910965908787945
+tp2186
+a(S'Tom Dillig'
+p2187
+F3.910965908787945
+tp2188
+a(S'Weizhen Mao'
+p2189
+F0.6408551860730717
+tp2190
+a(S'Robert  Noonan'
+p2191
+F2.092504840930599
+tp2192
+a(S'Denys Poshyvanyk'
+p2193
+F9.009749933356368
+tp2194
+a(S'Xipeng Shen'
+p2195
+F6.017636068433196
+tp2196
+a(S'Evgenia Smirni'
+p2197
+F3.782184654424115
+tp2198
+a(S'Andreas Stathopoulos'
+p2199
+F1.862311091594539
+tp2200
+asS'University of Louisville'
+p2201
+(lp2202
+(S'Adel S. Elmaghraby'
+p2203
+F0.5516127773463795
+tp2204
+a(S'Ahmed Desoky'
+p2205
+F0.0
+tp2206
+a(S'Hichem Frigui'
+p2207
+F2.0353985773304224
+tp2208
+a(S'Ibrahim Imam'
+p2209
+F0.0
+tp2210
+a(S'Adrian Peter Lauf'
+p2211
+F0.0
+tp2212
+a(S'Olfa Nasraoui'
+p2213
+F4.756331813261936
+tp2214
+a(S'Ming Ouyang'
+p2215
+F1.4381782118376885
+tp2216
+a(S'Eric Rouchka'
+p2217
+F3.19276449757154
+tp2218
+a(S'Roman V. Yampolskiy'
+p2219
+F5.731445357146088
+tp2220
+asS'Carnegie Mellon University'
+p2221
+(lp2222
+(S'Jonathan Aldrich'
+p2223
+F6.019715532303529
+tp2224
+a(S'David G. Andersen'
+p2225
+F5.047303137837846
+tp2226
+a(S'John Anderson'
+p2227
+F0.0
+tp2228
+a(S'Ziv Bar-Joseph'
+p2229
+F3.610752195541463
+tp2230
+a(S'Randal Bryant'
+p2231
+F2.471174227858767
+tp2232
+a(S'Jaime Cardonell'
+p2233
+F15.82572893578876
+tp2234
+a(S'Edmund Clarke'
+p2235
+F6.849902205025987
+tp2236
+a(S'Albert Corbett'
+p2237
+F0.0
+tp2238
+a(S'William Eddy'
+p2239
+F1.6080598230000465
+tp2240
+a(S'Christos Faloutsos'
+p2241
+F7.4896859099708255
+tp2242
+a(S'Jodi Forlizzi'
+p2243
+F4.346501998038479
+tp2244
+a(S'Venkatesan Guruswami'
+p2245
+F11.317209450285016
+tp2246
+a(S'Mor Harchol-Balter'
+p2247
+F4.9824415955589085
+tp2248
+a(S'Jason Hong'
+p2249
+F6.581220421650488
+tp2250
+a(S'Bonnie John'
+p2251
+F7.129377334939463
+tp2252
+a(S'Matthew Kam'
+p2253
+F3.5479431118681517
+tp2254
+a(S'Robert Kass'
+p2255
+F0.0
+tp2256
+a(S'Aniket Kittur'
+p2257
+F7.283125196927089
+tp2258
+a(S'Roberta Klatzky'
+p2259
+F0.0
+tp2260
+a(S'Robert Kraut'
+p2261
+F0.0
+tp2262
+a(S'Tai-Sing Lee'
+p2263
+F1.0782790198408905
+tp2264
+a(S'Peter Lee'
+p2265
+F3.656358598638196
+tp2266
+a(S'Jennifer Mankoff'
+p2267
+F4.425005908987073
+tp2268
+a(S'Tom Mitchell'
+p2269
+F4.0632173777192175
+tp2270
+a(S'David Mostow'
+p2271
+F5.409501806869644
+tp2272
+a(S'Todd Mowry'
+p2273
+F1.458318849134009
+tp2274
+a(S'Robert Murphy'
+p2275
+F0.0
+tp2276
+a(S'Onur Mutlu'
+p2277
+F13.997420059441191
+tp2278
+a(S"Ryan O'Donnell"
+p2279
+F6.877303484204575
+tp2280
+a(S'Eric Paulos'
+p2281
+F7.5031482525751425
+tp2282
+a(S'Carolyn Rose'
+p2283
+F11.144884936851783
+tp2284
+a(S'Tuomas Sandholm'
+p2285
+F9.925819881221065
+tp2286
+a(S'Srinivasan Seshan'
+p2287
+F7.706750502452219
+tp2288
+a(S'Mary Shaw'
+p2289
+F6.354099066217051
+tp2290
+a(S'Kenji Shimada'
+p2291
+F2.912852361518977
+tp2292
+a(S'Aarti Singh'
+p2293
+F2.3114204938904774
+tp2294
+a(S'Noah Smith'
+p2295
+F8.835845948403689
+tp2296
+a(S'Peter Spirtes'
+p2297
+F0.7531169214607253
+tp2298
+a(S'Peter Steenkiste'
+p2299
+F3.7617632107479344
+tp2300
+a(S'George Stetten'
+p2301
+F3.281525917158582
+tp2302
+a(S'Adrien Treuille'
+p2303
+F0.7558238932208716
+tp2304
+a(S'Maria Veloso'
+p2305
+F5.211833240617702
+tp2306
+a(S'Luis Von Ahn'
+p2307
+F4.244978730957468
+tp2308
+a(S'Jeannette Wing'
+p2309
+F3.8881353738367856
+tp2310
+a(S'Poe Xing'
+p2311
+F10.57582824862023
+tp2312
+a(S'Eugene Fink'
+p2313
+F1.9235500933301388
+tp2314
+asS'University of New Hampshire'
+p2315
+(lp2316
+(S'Philip J. Hatcher'
+p2317
+F1.9765784652855125
+tp2318
+a(S'Wheeler Ruml'
+p2319
+F5.6218529455749175
+tp2320
+a(S'Ted M. Sparr'
+p2321
+F0.0
+tp2322
+a(S'Elizabeth Varki'
+p2323
+F0.7773026662196892
+tp2324
+asS'Pennsylvania State University'
+p2325
+(lp2326
+(S'Jesse L. Barlow'
+p2327
+F1.3925349042370432
+tp2328
+a(S'Guohong Cao'
+p2329
+F8.703548365623245
+tp2330
+a(S'Patrick D. McDaniel'
+p2331
+F11.114933668733977
+tp2332
+a(S'Vijaykrishnan Narayanan'
+p2333
+F14.846840395625819
+tp2334
+a(S'Padma Raghavan'
+p2335
+F1.1470231183898352
+tp2336
+a(S'Anand Sivasubramaniam'
+p2337
+F5.859120957053683
+tp2338
+a(S'Lee D. Coraor'
+p2339
+F0.0
+tp2340
+a(S'Dennis F. Dunn'
+p2341
+F1.8345933017816034
+tp2342
+a(S'John Hannan'
+p2343
+F1.9485420011001149
+tp2344
+a(S'Bhuvan Urgaonkar'
+p2345
+F5.084225811150701
+tp2346
+a(S'Yuan Xie'
+p2347
+F13.78244741285693
+tp2348
+a(S'Sencun Zhu'
+p2349
+F8.861512413676762
+tp2350
+a(S'Daniel Kifer'
+p2351
+F2.524369725297684
+tp2352
+a(S'Kamesh Madduri'
+p2353
+F4.888707385984931
+tp2354
+a(S'Sofya Raskhodnikova'
+p2355
+F3.0405813504672126
+tp2356
+a(S'Suzanne M. Shontz'
+p2357
+F1.634236356524159
+tp2358
+a(S'Kyusun Choi'
+p2359
+F0.0
+tp2360
+a(S'Don Eric Heller'
+p2361
+F0.6796307323707611
+tp2362
+a(S'Kuo-Chuan (Martin) Yeh'
+p2363
+F0.32591382573232874
+tp2364
+asS'Georgia State University'
+p2365
+(lp2366
+(S'Raheem Beyah'
+p2367
+F4.848497481851728
+tp2368
+a(S'Anu Bourgeois'
+p2369
+F3.1585506938639605
+tp2370
+a(S'Xiaolin Hu'
+p2371
+F7.351636916277437
+tp2372
+a(S'Sushil Prasad'
+p2373
+F3.8162917795583824
+tp2374
+a(S'WenZhan Song'
+p2375
+F5.983549249521015
+tp2376
+a(S'Michael Weeks'
+p2377
+F3.1895440192042734
+tp2378
+asS'Case Western Reserve University'
+p2379
+(lp2380
+(S'Michael Branicky'
+p2381
+F2.216288698414679
+tp2382
+a(S'Mehmet Koyuturk'
+p2383
+F4.645638993650325
+tp2384
+a(S'Michael Lewicki'
+p2385
+F1.5327380461531266
+tp2386
+asS'University of Missouri, Columbia'
+p2387
+(lp2388
+(S'Michele Becchi'
+p2389
+F1.4888707385984932
+tp2390
+a(S'Jianlin Jack Cheng'
+p2391
+F2.859232649707492
+tp2392
+a(S'Ye Duan'
+p2393
+F2.6829270071576583
+tp2394
+a(S'William L. Harrison'
+p2395
+F1.3428309915504826
+tp2396
+a(S'Dmitry Korkin'
+p2397
+F1.414407004695771
+tp2398
+a(S'Dale Musser'
+p2399
+F0.0
+tp2400
+a(S'Yi Shang'
+p2401
+F5.54999499973248
+tp2402
+a(S'Gordon Springer'
+p2403
+F0.0
+tp2404
+asS'University of Ottawa'
+p2405
+(lp2406
+(S'Daniel Amyot'
+p2407
+F4.828198122968865
+tp2408
+a(S'Gregor V. Bochmann'
+p2409
+F6.015930331219929
+tp2410
+a(S'Diana Zaiu Inkpen'
+p2411
+F3.761077075238999
+tp2412
+a(S'Timothy C. Lethbridge'
+p2413
+F3.366197507397139
+tp2414
+a(S'Dimitrios Makrakis'
+p2415
+F3.5469597525310035
+tp2416
+a(S'Yongyi Mao'
+p2417
+F1.7670734749320218
+tp2418
+a(S'Lucia Moura'
+p2419
+F0.4968638119243483
+tp2420
+a(S'Nancy Samaan'
+p2421
+F1.6059332565402442
+tp2422
+a(S'Shervin Shirmohammadi'
+p2423
+F10.953166484240606
+tp2424
+a(S'Thomas T. Tran'
+p2425
+F1.9885153277011323
+tp2426
+a(S'Marcel Turcotte'
+p2427
+F0.755022641885582
+tp2428
+a(S'Tuncer Oren'
+p2429
+F0.0
+tp2430
+asS'McGill University'
+p2431
+(lp2432
+(S'David Avis'
+p2433
+F4.559824543321677
+tp2434
+a(S'Mathieu Blanchette'
+p2435
+F3.2050551301058525
+tp2436
+a(S'Luc P. Devroye'
+p2437
+F7.085791156301044
+tp2438
+a(S'Michael Trevor Hallett'
+p2439
+F4.4306494082542685
+tp2440
+a(S'Hamed Hatami'
+p2441
+F0.9888707385984932
+tp2442
+a(S'Wenbo He'
+p2443
+F5.556156021270672
+tp2444
+a(S'Laurie J. Hendren'
+p2445
+F6.609451967522267
+tp2446
+a(S'Paul G. Kry'
+p2447
+F1.7799343559984375
+tp2448
+a(S'Michael Langer'
+p2449
+F1.9323910723778337
+tp2450
+a(S'Muthucumaru Maheswaran'
+p2451
+F6.967983643474847
+tp2452
+a(S'Prakash Panangaden'
+p2453
+F5.696733059706772
+tp2454
+a(S'Brigitte Pientka'
+p2455
+F2.689522289475961
+tp2456
+a(S'Doina Precup'
+p2457
+F4.347230415352582
+tp2458
+a(S'Martin P. Robillard'
+p2459
+F5.456598173985865
+tp2460
+a(S'Derek Ruths'
+p2461
+F0.6592471590656621
+tp2462
+a(S'Kaleem Siddiqi'
+p2463
+F7.552682948342252
+tp2464
+a(S'Mohit Singh'
+p2465
+F4.944353692992466
+tp2466
+a(S'Clark Verbrugge'
+p2467
+F3.290608387827111
+tp2468
+a(S'Dana Louigi Addario-Berry'
+p2469
+F2.0003456833601576
+tp2470
+a(S'Daniel J. Levitin'
+p2471
+F0.23791303762412933
+tp2472
+a(S'Dirk Schlimm'
+p2473
+F1.0003456833601576
+tp2474
+a(S'Raja Sengupta'
+p2475
+F0.46955309092257425
+tp2476
+a(S'Renee E. Sieber'
+p2477
+F0.0
+tp2478
+a(S'Jackie Vogel'
+p2479
+F0.0
+tp2480
+a(S'Godfried T. Toussaint'
+p2481
+F17.02799550254624
+tp2482
+asS'Naval Postgraduate School'
+p2483
+(lp2484
+(S'Valdis Berzins'
+p2485
+F0.5516127773463795
+tp2486
+a(S'Robert Beverly'
+p2487
+F2.326605192452644
+tp2488
+a(S'Rudy Darken'
+p2489
+F3.590522962727364
+tp2490
+a(S'Ted Huffmire'
+p2491
+F2.05791108395891
+tp2492
+a(S'Cynthia E. Irvine'
+p2493
+F3.0765809758524876
+tp2494
+a(S'G.M. Lundy'
+p2495
+F1.0301544628717672
+tp2496
+a(S'Zachary N. J.  Peterson'
+p2497
+F1.9666122157954793
+tp2498
+a(S'Alan Shaffer'
+p2499
+F0.4190809602059581
+tp2500
+a(S'Man-Tak Shing'
+p2501
+F3.132478967938185
+tp2502
+a(S'Geoffrey Xie'
+p2503
+F2.2826467952339646
+tp2504
+a(S'Joel Young'
+p2505
+F0.0
+tp2506
+asS'Iowa State University'
+p2507
+(lp2508
+(S'Pavan Aduri'
+p2509
+F0.22568936696537917
+tp2510
+a(S'Samik Basu'
+p2511
+F5.552275593495901
+tp2512
+a(S'Ying Cai'
+p2513
+F5.404317325037465
+tp2514
+a(S'Carl K. Chang'
+p2515
+F0.8415533128584679
+tp2516
+a(S'Vasant Honavar'
+p2517
+F1.0323004854280593
+tp2518
+a(S'Xiaoqiu Huang'
+p2519
+F1.7023813163183443
+tp2520
+a(S'Yan-Bin Jia'
+p2521
+F1.7632369440896127
+tp2522
+a(S'Jack H. Lutz'
+p2523
+F3.729732495788318
+tp2524
+a(S'Leslie Miller'
+p2525
+F0.4900715556402549
+tp2526
+a(S'Andrew S. Miner'
+p2527
+F3.0968643231957427
+tp2528
+a(S'Gurpur M. Prabhu'
+p2529
+F0.0
+tp2530
+a(S'Hridesh Rajan'
+p2531
+F4.057533897681686
+tp2532
+a(S'Lu Ruan'
+p2533
+F3.9551305200718803
+tp2534
+a(S'Guang Song'
+p2535
+F0.0
+tp2536
+a(S'Wallapak Tavanapong'
+p2537
+F2.9809124075540394
+tp2538
+a(S'Jin Tian'
+p2539
+F2.759753558910218
+tp2540
+a(S'Wensheng Zhang'
+p2541
+F7.422146804228666
+tp2542
+a(S'Arthur E. Oldehoeft'
+p2543
+F3.265590098561778
+tp2544
+asS'Montana State University'
+p2545
+(lp2546
+(S'Clem Izurieta'
+p2547
+F1.3410985242944955
+tp2548
+a(S'Brendan Mumey'
+p2549
+F0.5034860072730065
+tp2550
+a(S'John Paxton'
+p2551
+F0.0
+tp2552
+a(S'Rockford J. Ross'
+p2553
+F0.46417830141234767
+tp2554
+a(S'Denbigh Starkey'
+p2555
+F0.8850273329545011
+tp2556
+a(S'Mike P. Wittie'
+p2557
+F0.9777414771969862
+tp2558
+asS'Johns Hopkins University'
+p2559
+(lp2560
+(S'Yanif Ahmad'
+p2561
+F1.4777414771969863
+tp2562
+a(S'Vladimir Braverman'
+p2563
+F0.9777414771969862
+tp2564
+a(S'Randal Burns'
+p2565
+F4.264285463281558
+tp2566
+a(S'Jason M. Eisner'
+p2567
+F1.9445578347380728
+tp2568
+a(S'Gregory D. Hager'
+p2569
+F4.180349216305247
+tp2570
+a(S'Susan Hohenberger Waters'
+p2571
+F0.0
+tp2572
+a(S'S. Rao Kosaraju'
+p2573
+F11.203064608984572
+tp2574
+a(S'Gerald M. Masson'
+p2575
+F5.30032452574307
+tp2576
+a(S'Suchi Saria'
+p2577
+F1.9554829543939725
+tp2578
+a(S'Scott F. Smith'
+p2579
+F2.4745723745564066
+tp2580
+a(S'Andreas Terzis'
+p2581
+F4.6730703010896395
+tp2582
+a(S'David Yarowsky'
+p2583
+F1.5694336118146655
+tp2584
+asS'Ohio University'
+p2585
+(lp2586
+(S'Razvan C. Bunescu'
+p2587
+F2.0257135524465
+tp2588
+a(S'David Chelberg'
+p2589
+F1.089224578670041
+tp2590
+a(S'David Juedes'
+p2591
+F2.391725800688412
+tp2592
+a(S'Chang Liu'
+p2593
+F10.523030430686436
+tp2594
+a(S'Jundong Liu'
+p2595
+F1.6184357611894284
+tp2596
+a(S'Shawn Ostermann'
+p2597
+F0.0
+tp2598
+a(S'Lonnie Welch'
+p2599
+F4.42172911624562
+tp2600
+asS'University of Massachusetts, Boston'
+p2601
+(lp2602
+(S'Wei Ding'
+p2603
+F7.992815329900852
+tp2604
+a(S'Peter Fejer'
+p2605
+F0.0
+tp2606
+a(S'Bo Sheng'
+p2607
+F6.433224431590959
+tp2608
+asS'Georgia Tech'
+p2609
+(lp2610
+(S'Mostafa Ammar'
+p2611
+F6.246907133744617
+tp2612
+a(S'Ronald Arkin'
+p2613
+F5.246490065312502
+tp2614
+a(S'David Bader'
+p2615
+F4.111517627850853
+tp2616
+a(S'Tucker Balch'
+p2617
+F7.122737107238651
+tp2618
+a(S'Michael Best'
+p2619
+F0.8693942996982009
+tp2620
+a(S'Amy Bruckman'
+p2621
+F3.1756707291456143
+tp2622
+a(S'Thomas Conte'
+p2623
+F5.553930304718856
+tp2624
+a(S'Frank Dellaert'
+p2625
+F6.749374737589166
+tp2626
+a(S'Constantine Dovrolis'
+p2627
+F6.12394426368891
+tp2628
+a(S'Eric Gilbert'
+p2629
+F0.0
+tp2630
+a(S'Guy Lebanon'
+p2631
+F4.25628394119926
+tp2632
+a(S'Wenke Lee'
+p2633
+F6.794826551668391
+tp2634
+a(S'Karen Liu'
+p2635
+F3.3217721062155663
+tp2636
+a(S'Blair MacIntyre'
+p2637
+F4.498371831012846
+tp2638
+a(S'Shamkant Navathe'
+p2639
+F5.810262554941123
+tp2640
+a(S'Edward Omiecinski'
+p2641
+F0.9542498570526025
+tp2642
+a(S'Haesun Park'
+p2643
+F1.9041574313675782
+tp2644
+a(S'Milos Prvulovic'
+p2645
+F3.3550089488492754
+tp2646
+a(S'Prasad Raghavendra'
+p2647
+F5.9220951701894515
+tp2648
+a(S'Mark Riedl'
+p2649
+F8.066379233985039
+tp2650
+a(S'Thad Starner'
+p2651
+F7.95465997049611
+tp2652
+a(S'Santosh Vempala'
+p2653
+F8.323599111718428
+tp2654
+a(S'Richard Vuduc'
+p2655
+F5.083449809240859
+tp2656
+a(S'Jun Xu'
+p2657
+F4.306296097362362
+tp2658
+asS'Oakland University (Michigan)'
+p2659
+(lp2660
+(S'Dae-Kyoo Kim'
+p2661
+F3.526675700636079
+tp2662
+a(S'Nilesh Patel'
+p2663
+F1.6055035955745651
+tp2664
+a(S'Guangzhi (Mark) Qu'
+p2665
+F3.6352391916159887
+tp2666
+a(S'Tao Shu'
+p2667
+F0.0
+tp2668
+a(S'Chingseh (Mike) Wu'
+p2669
+F0.0
+tp2670
+asS'Rutgers University'
+p2671
+(lp2672
+(S'Eric Allender'
+p2673
+F6.528298655057834
+tp2674
+a(S'Abhishek Bhattacharjee'
+p2675
+F1.4777414771969863
+tp2676
+a(S'Alex Borgida'
+p2677
+F9.8397396573035
+tp2678
+a(S'Douglas DeCarlo'
+p2679
+F2.7067165423162267
+tp2680
+a(S'Tina Eliassi-Rad'
+p2681
+F5.955482954393973
+tp2682
+a(S'Vinod Ganapathy'
+p2683
+F4.468727156517717
+tp2684
+a(S'Liviu Iftode'
+p2685
+F8.729194133008619
+tp2686
+a(S'Amelie Marian'
+p2687
+F2.1337945757205263
+tp2688
+a(S'Richard Martin'
+p2689
+F2.6950936455680576
+tp2690
+a(S'L. Thorne McCarty'
+p2691
+F0.0
+tp2692
+a(S'Dimitris Metaxas'
+p2693
+F8.605546928548659
+tp2694
+a(S'Thu D. Nguyen'
+p2695
+F4.686344912278119
+tp2696
+a(S'Vladimir Pavlovic'
+p2697
+F4.816919825757427
+tp2698
+a(S'Michael Pazzani'
+p2699
+F6.17941301687239
+tp2700
+a(S'Matthew Stone'
+p2701
+F2.0098064090594034
+tp2702
+asS'Duke University'
+p2703
+(lp2704
+(S'Owen Astrachan'
+p2705
+F3.3486823016845078
+tp2706
+a(S'Jeffrey Chase'
+p2707
+F2.487665173757672
+tp2708
+a(S'Vincent Conitzer'
+p2709
+F16.201386150137058
+tp2710
+a(S'Jeffrey Forbes'
+p2711
+F0.0
+tp2712
+a(S'Ronald Parr'
+p2713
+F4.658520320932431
+tp2714
+a(S'John Reif'
+p2715
+F11.73346821049223
+tp2716
+a(S'Susan Rodger'
+p2717
+F1.3585696239370755
+tp2718
+a(S'Carlo Tomasi'
+p2719
+F2.83540676968328
+tp2720
+a(S'Jun Yang'
+p2721
+F3.721798237719276
+tp2722
+a(S'Carla Ellis'
+p2723
+F1.8132725036178279
+tp2724
+asS'Virginia Tech'
+p2725
+(lp2726
+(S'Godmar Back'
+p2727
+F2.582859590867441
+tp2728
+a(S'Osman Balci'
+p2729
+F2.1492763837469706
+tp2730
+a(S'Doug A. Bowman'
+p2731
+F5.471583198532386
+tp2732
+a(S'Kirk W. Cameron'
+p2733
+F1.48311376906052
+tp2734
+a(S'Yong Cao'
+p2735
+F5.4782676366206955
+tp2736
+a(S'Ed Fox'
+p2737
+F5.958574170252184
+tp2738
+a(S'Denis Gracanin'
+p2739
+F2.745033601926913
+tp2740
+a(S'Lenwood S Heath'
+p2741
+F3.3625546215171283
+tp2742
+a(S'Dennis G. Kafura'
+p2743
+F3.1487048625729153
+tp2744
+a(S'Wenjing Lou'
+p2745
+F7.142875759864426
+tp2746
+a(S'Chang-Tien Lu'
+p2747
+F4.186289107457587
+tp2748
+a(S'T. M. Murali'
+p2749
+F1.5652571367909425
+tp2750
+a(S'Christopher L. North'
+p2751
+F5.801197422491991
+tp2752
+a(S'Francis Quek'
+p2753
+F1.8274434295072468
+tp2754
+a(S'Naren Ramakrishnan'
+p2755
+F5.578278682368544
+tp2756
+a(S'Calvin J. Ribbens'
+p2757
+F4.485804652355105
+tp2758
+a(S'Adrian Sandu'
+p2759
+F0.5104874089127944
+tp2760
+a(S'Cliff Shaffer'
+p2761
+F4.917395584283887
+tp2762
+a(S'Srinidhi Varadarajan'
+p2763
+F1.0008001625163871
+tp2764
+a(S'Danfeng Yao'
+p2765
+F6.614172793292994
+tp2766
+asS'University of South Carolina'
+p2767
+(lp2768
+(S'Max Alekseyev'
+p2769
+F1.6747775409879866
+tp2770
+a(S'Jason B. Bakos'
+p2771
+F1.9286027639245713
+tp2772
+a(S'John B. Bowles'
+p2773
+F0.0
+tp2774
+a(S'Robert L. Cannon'
+p2775
+F0.8850273329545011
+tp2776
+a(S'Csilla Farkas'
+p2777
+F4.320711638689794
+tp2778
+a(S'Kirk Fiedler'
+p2779
+F0.0
+tp2780
+a(S'Jianjun Hu'
+p2781
+F3.46346210331851
+tp2782
+a(S'Chin-Tser Huang'
+p2783
+F3.750048096278237
+tp2784
+a(S'Michael N. Huhns'
+p2785
+F0.0
+tp2786
+a(S'Manton M. Matthews'
+p2787
+F1.4184281584649503
+tp2788
+a(S'Srihari Nelakuditi'
+p2789
+F2.9907221031930704
+tp2790
+a(S"Jason O'Kane"
+p2791
+F3.4785358608630332
+tp2792
+a(S'John R. Rose'
+p2793
+F0.32626913850901607
+tp2794
+a(S'Larry M. Stephens'
+p2795
+F0.0
+tp2796
+a(S'Jijun Tang'
+p2797
+F3.899106794430766
+tp2798
+a(S'Homayoun Valafar'
+p2799
+F1.741515550697772
+tp2800
+a(S'Marco Valtorta'
+p2801
+F4.2834223450736975
+tp2802
+a(S'Jose M. Vidal'
+p2803
+F3.1225357188417098
+tp2804
+a(S'Wenyan Xu'
+p2805
+F0.0
+tp2806
+asS'University of Houston'
+p2807
+(lp2808
+(S'Zhigang Deng'
+p2809
+F5.403761369669034
+tp2810
+a(S'Victoria Hilford'
+p2811
+F0.0
+tp2812
+a(S'Shou-Hsuan Stephen Huang'
+p2813
+F3.016091764865541
+tp2814
+a(S'Ioannis Kakadiaris'
+p2815
+F3.386851838699667
+tp2816
+a(S'Carlos Ordonez'
+p2817
+F8.86707995982707
+tp2818
+a(S'Jehan-Francois Paris'
+p2819
+F0.0
+tp2820
+a(S'Shishir Shah'
+p2821
+F0.0
+tp2822
+a(S'Nikolaos V Tsekos'
+p2823
+F0.4894496722367048
+tp2824
+a(S'Rakesh Verma'
+p2825
+F3.199450309413983
+tp2826
+a(S'Ricardo Vilalta'
+p2827
+F5.1210857022130245
+tp2828
+a(S'Rong Zheng'
+p2829
+F7.49200006869369
+tp2830
+asS'University of Texas, Austin'
+p2831
+(lp2832
+(S'Lorenzo Alvisi'
+p2833
+F4.107391401302658
+tp2834
+a(S'Chandrajit Bajaj'
+p2835
+F5.789680682822329
+tp2836
+a(S'Dana Ballard'
+p2837
+F1.6890572444545242
+tp2838
+a(S'Kenneth Barker'
+p2839
+F4.929170345948051
+tp2840
+a(S'William Cook'
+p2841
+F3.4996351567143273
+tp2842
+a(S'Michael Dahlin'
+p2843
+F3.529806983885692
+tp2844
+a(S'Inderjit Dhillon'
+p2845
+F2.930972451195184
+tp2846
+a(S'Anna Gal'
+p2847
+F2.4372824513756273
+tp2848
+a(S'Mohamed Gouda'
+p2849
+F7.281244196489725
+tp2850
+a(S'Kristen Grauman'
+p2851
+F8.877063551687481
+tp2852
+a(S'Matt Kaufmann'
+p2853
+F0.6796307323707611
+tp2854
+a(S'Simon S. Lam'
+p2855
+F5.903621353568132
+tp2856
+a(S'Risto Miikkulainen'
+p2857
+F3.889753292571605
+tp2858
+a(S'Raymond Mooney'
+p2859
+F5.813773959526089
+tp2860
+a(S'Gordon Novak'
+p2861
+F1.7710104084635732
+tp2862
+a(S'William Press'
+p2863
+F0.0
+tp2864
+a(S'Vijaya Ramachandran'
+p2865
+F4.06103163247209
+tp2866
+a(S'Peter Stone'
+p2867
+F19.864331713980135
+tp2868
+a(S'Robert Van de Geijn'
+p2869
+F0.7196253918472503
+tp2870
+a(S'Brent Waters'
+p2871
+F9.57522037838772
+tp2872
+a(S'David Zuckerman'
+p2873
+F4.067545760979694
+tp2874
+asS'University of Maryland, Baltimore County'
+p2875
+(lp2876
+(S'Tulay Adali'
+p2877
+F2.7355769781598025
+tp2878
+a(S'Chein-I Chang'
+p2879
+F1.1350251524270445
+tp2880
+a(S'Richard Chang'
+p2881
+F3.7722599865399835
+tp2882
+a(S'Marie desJardins'
+p2883
+F3.2231901371773213
+tp2884
+a(S'Tim Finin'
+p2885
+F2.7105627616800927
+tp2886
+a(S'Anupam Joshi'
+p2887
+F7.157992926405458
+tp2888
+a(S'Tim Oates'
+p2889
+F5.242104097180089
+tp2890
+a(S'Marc Olano'
+p2891
+F1.5989183861664276
+tp2892
+a(S'Dhananjay S. Phatak'
+p2893
+F1.4832276270863478
+tp2894
+a(S'Alan T. Sherman'
+p2895
+F1.1350251524270445
+tp2896
+a(S'Yelena Yesha'
+p2897
+F3.6141291918768514
+tp2898
+asS'University of Nebraska, Lincoln'
+p2899
+(lp2900
+(S'Jitender S. Deogun'
+p2901
+F2.215184101520672
+tp2902
+a(S'Carrick Detweiler'
+p2903
+F3.988870738598493
+tp2904
+a(S'Matthew B. Dwyer'
+p2905
+F5.047870371089253
+tp2906
+a(S'Sebastian Elbaum'
+p2907
+F5.0031001259438685
+tp2908
+a(S'Ying Lu'
+p2909
+F0.43469714984910046
+tp2910
+a(S'Byrav Ramamurthy'
+p2911
+F4.836808500443507
+tp2912
+a(S'Stephen E. Reichenbach'
+p2913
+F1.6826927398897993
+tp2914
+a(S'Peter Z. Revesz'
+p2915
+F2.824531453341545
+tp2916
+a(S'Gregg Rothermel'
+p2917
+F6.84880371390612
+tp2918
+a(S'Anita Sarma'
+p2919
+F3.30434666964963
+tp2920
+a(S'Stephen D. Scott'
+p2921
+F1.4836276394044337
+tp2922
+a(S'Sharad C. Seth'
+p2923
+F0.0
+tp2924
+a(S'Richard F. Sincovec'
+p2925
+F0.0
+tp2926
+a(S'Leen-Kiat Soh'
+p2927
+F9.534922242174703
+tp2928
+a(S'Witawas Srisa-an'
+p2929
+F4.384140006432712
+tp2930
+a(S'Mehmet Can Vuran'
+p2931
+F6.855372042835908
+tp2932
+a(S'Lisong Xu'
+p2933
+F4.087378479769707
+tp2934
+a(S'Ziguo Zhong'
+p2935
+F3.910965908787945
+tp2936
+asS'University of Texas, Arlington'
+p2937
+(lp2938
+(S'Vassilis Athitsos'
+p2939
+F5.935749059613926
+tp2940
+a(S'Hao Che'
+p2941
+F4.126838567280528
+tp2942
+a(S'Christoph Csallner'
+p2943
+F2.7685458320768124
+tp2944
+a(S'Sajal K. Das'
+p2945
+F7.7938302840014035
+tp2946
+a(S'Gautam Das'
+p2947
+F4.327930955706434
+tp2948
+a(S'Jean X. Gao'
+p2949
+F6.105474697733827
+tp2950
+a(S'Gutemberg B. Guerra-Filho'
+p2951
+F2.425460169137654
+tp2952
+a(S'Junzhou Huang'
+p2953
+F16.621605112348764
+tp2954
+a(S'Manfred Huber'
+p2955
+F2.3816983709633033
+tp2956
+a(S'Farhad Kamangar'
+p2957
+F0.0
+tp2958
+a(S'Chengkai Li'
+p2959
+F2.40660145988128
+tp2960
+a(S'Donggang Liu'
+p2961
+F4.938785870183741
+tp2962
+a(S'Yonghe Liu'
+p2963
+F5.864117458011805
+tp2964
+a(S'Bob P. Weems'
+p2965
+F1.5852014434049928
+tp2966
+a(S'Matthew Wright'
+p2967
+F2.7316230325882183
+tp2968
+a(S'Gergely V. Zaruba'
+p2969
+F4.223441585346576
+tp2970
+a(S'Fillia Makedon'
+p2971
+F1.9220426773097963
+tp2972
+a(S'Ramez A. Elmasri'
+p2973
+F2.839455178719263
+tp2974
+asS'Queens University'
+p2975
+(lp2976
+(S'Patrick Martin'
+p2977
+F1.2613691231981825
+tp2978
+a(S'James R. Cordy'
+p2979
+F2.405686657629372
+tp2980
+a(S'Janice Glasgow'
+p2981
+F0.9542498570526025
+tp2982
+a(S'Glenn H. MacEwen'
+p2983
+F2.3766761713713516
+tp2984
+a(S'Thomas Dean'
+p2985
+F5.004543352816734
+tp2986
+a(S'Suzanne Fortier'
+p2987
+F0.0
+tp2988
+a(S'Susan Lederman'
+p2989
+F0.0
+tp2990
+a(S'Ying Zou'
+p2991
+F4.037981669366891
+tp2992
+a(S'Karen Rudie'
+p2993
+F0.29356221393355775
+tp2994
+asS'University of Calgary'
+p2995
+(lp2996
+(S'Ken Barker'
+p2997
+F2.3401892366412467
+tp2998
+a(S'Mario Costa Sousa'
+p2999
+F4.110658692026588
+tp3000
+a(S'Philip W. L. Fong'
+p3001
+F1.5532438653588314
+tp3002
+a(S'Marina Gavrilova'
+p3003
+F7.1464860265102015
+tp3004
+a(S'Saul Greenberg'
+p3005
+F4.975275944418005
+tp3006
+a(S'Rob Kremer'
+p3007
+F1.538876366426027
+tp3008
+a(S'Zongpeng Li'
+p3009
+F5.997698337786277
+tp3010
+a(S'Michael Locasto'
+p3011
+F5.944353692992466
+tp3012
+a(S'Payman Mohassel'
+p3013
+F2.667358033386982
+tp3014
+a(S'Jon Rokne'
+p3015
+F8.55455220018033
+tp3016
+a(S'Renate Scheidler'
+p3017
+F1.4894912000532703
+tp3018
+a(S'Anthony Tang'
+p3019
+F1.9554829543939725
+tp3020
+a(S'Robert J. Walker'
+p3021
+F1.8255773433595688
+tp3022
+a(S'Mea Wang'
+p3023
+F1.785758249219309
+tp3024
+asS'University of North Carolina, Chapel Hill'
+p3025
+(lp3026
+(S'Ron Alterovitz'
+p3027
+F7.002765466881262
+tp3028
+a(S'Prasun Dewan'
+p3029
+F2.2927886378095605
+tp3030
+a(S'Jasleen Kaur'
+p3031
+F2.093268029429476
+tp3032
+a(S'Svetlana Lazebnik'
+p3033
+F3.8885222933574632
+tp3034
+a(S'Marc Niethammer'
+p3035
+F7.061424287117584
+tp3036
+a(S'Jan Prins'
+p3037
+F2.357464771320768
+tp3038
+a(S'Montek Singh'
+p3039
+F2.7837127759126945
+tp3040
+a(S'John B. Smith'
+p3041
+F2.8915710710448073
+tp3042
+a(S'David Stotts'
+p3043
+F3.1814832679366676
+tp3044
+a(S'Wei Wang'
+p3045
+F12.077635593404969
+tp3046
+asS'Washington State University, Pullman'
+p3047
+(lp3048
+(S'Diane J. Cook'
+p3049
+F5.790037744757511
+tp3050
+a(S'Zhe Dang'
+p3051
+F7.959743971693001
+tp3052
+a(S'Jose G. Delgado-Frias'
+p3053
+F2.4445118682839024
+tp3054
+a(S'Lawrence B. Holder'
+p3055
+F2.858866420163852
+tp3056
+a(S'Chris D. Hundhausen'
+p3057
+F4.162069247055939
+tp3058
+a(S'Ananth Kalyanaraman'
+p3059
+F2.9324906389066543
+tp3060
+a(S'Min Sik Kim'
+p3061
+F1.9081052087551469
+tp3062
+a(S'Partha Pratim Pande'
+p3063
+F5.61320840854646
+tp3064
+asS'Colorado School of Mines'
+p3065
+(lp3066
+(S'Tracy Camp'
+p3067
+F2.0794627950865503
+tp3068
+a(S'Zizhong Chen'
+p3069
+F3.9555134544261406
+tp3070
+a(S'Irene Polycarpou'
+p3071
+F1.041600693607043
+tp3072
+a(S'Andrzej Szymczak'
+p3073
+F2.9242491235504677
+tp3074
+asS'Rochester Institute of Technology'
+p3075
+(lp3076
+(S'Manjeet Rege'
+p3077
+F3.531267770932753
+tp3078
+a(S'Xumin Liu'
+p3079
+F6.296927162048625
+tp3080
+a(S'Minseok Kwon'
+p3081
+F1.1123395632384383
+tp3082
+a(S'Christopher M. Homan'
+p3083
+F1.7736445404698755
+tp3084
+a(S'James Heliotis'
+p3085
+F0.0
+tp3086
+a(S'Joe Geigel'
+p3087
+F1.1525718781517775
+tp3088
+a(S'Reynold Bailey'
+p3089
+F3.0654504219158447
+tp3090
+a(S'Ivona Bezakova'
+p3091
+F2.123206624741902
+tp3092
+a(S'Zack J. Butler'
+p3093
+F2.0165239719557215
+tp3094
+a(S'Roxanne L. Canosa'
+p3095
+F1.5762400490401163
+tp3096
+a(S'Matthew Fluet'
+p3097
+F2.3495550819759727
+tp3098
+asS'California Institute of Technology'
+p3099
+(lp3100
+(S'Yaser Abu-Mostafa'
+p3101
+F2.698943688118182
+tp3102
+a(S'Alan Barr'
+p3103
+F3.83137332408196
+tp3104
+a(S'Andreas Krause'
+p3105
+F0.0
+tp3106
+a(S'Katrina Ligett'
+p3107
+F1.9554829543939725
+tp3108
+a(S'Daniel Meiron'
+p3109
+F0.0
+tp3110
+a(S'Peter Schroder'
+p3111
+F3.3362900143552614
+tp3112
+a(S'Chris Umans'
+p3113
+F3.6580991800604146
+tp3114
+a(S'Adam Wierman'
+p3115
+F6.042446590119779
+tp3116
+a(S'Erik Winfree'
+p3117
+F2.5578524650006242
+tp3118
+asS'University of Bridgeport'
+p3119
+(lp3120
+(S'Zhengping Wu'
+p3121
+F5.7220600534752775
+tp3122
+a(S'Miad Faezipour'
+p3123
+F1.9554829543939725
+tp3124
+a(S'Jeongkyu Lee'
+p3125
+F2.0777567272130706
+tp3126
+a(S'Xingguo (Michael) Xiong'
+p3127
+F1.0904964559811994
+tp3128
+a(S'Navarun Gupta'
+p3129
+F0.0
+tp3130
+a(S'Lawrence V. Hmurcik'
+p3131
+F0.0
+tp3132
+asS'Clarkson University'
+p3133
+(lp3134
+(S'Alexis Maciel'
+p3135
+F2.445729701088415
+tp3136
+a(S'Jeanna N. Matthews'
+p3137
+F0.46328010659688984
+tp3138
+a(S'Joachim S. Stahl'
+p3139
+F0.7796750934783192
+tp3140
+a(S'Christino Tamon'
+p3141
+F3.3258758929183307
+tp3142
+asS'York University'
+p3143
+(lp3144
+(S'Robert Allison'
+p3145
+F2.1625107640231898
+tp3146
+a(S'John Amanatides'
+p3147
+F1.45398114038963
+tp3148
+a(S'Melanie Baljko'
+p3149
+F1.0956163638828378
+tp3150
+a(S'Nick Cercone'
+p3151
+F1.7882020724850967
+tp3152
+a(S'Suprakash Datta'
+p3153
+F2.0267682391966435
+tp3154
+a(S'Jeff Edmonds'
+p3155
+F3.4255443240512973
+tp3156
+a(S'James Elder'
+p3157
+F1.697846699843484
+tp3158
+a(S'Parke Godfrey'
+p3159
+F1.5335675957632888
+tp3160
+a(S'Jarek Gryz'
+p3161
+F4.269036297581527
+tp3162
+a(S'Michael R. M. Jenkin'
+p3163
+F4.117776007380526
+tp3164
+a(S'Mariana Kant'
+p3165
+F0.0
+tp3166
+a(S'Yves Lesperance'
+p3167
+F3.7518076223389274
+tp3168
+a(S'Andranik Mirzaian'
+p3169
+F1.4184281584649503
+tp3170
+a(S'Jonathan S. Ostroff'
+p3171
+F2.6414684150160186
+tp3172
+a(S'Eric Ruppert'
+p3173
+F2.219444512018812
+tp3174
+a(S'Minas E. Spetsakis'
+p3175
+F2.352773570780084
+tp3176
+a(S'Vassilios Tzerpos'
+p3177
+F2.530833123268934
+tp3178
+a(S'Natalija Vlajic'
+p3179
+F0.7210897255351497
+tp3180
+a(S'Richard Wildes'
+p3181
+F0.35244751757606047
+tp3182
+asS'University of Nevada, Reno'
+p3183
+(lp3184
+(S'George Bebis'
+p3185
+F4.457067060159394
+tp3186
+a(S'Kostas E. Bekris'
+p3187
+F3.95574221691409
+tp3188
+a(S'Bobby Bryant'
+p3189
+F2.312710343000398
+tp3190
+a(S'Sergiu Dascalu'
+p3191
+F7.756109643814023
+tp3192
+a(S'Mehmet Hadi Gunes'
+p3193
+F3.484620971665193
+tp3194
+a(S'Frederick C. Harris Jr.'
+p3195
+F1.1850536697779774
+tp3196
+a(S'Sushil J. Louis'
+p3197
+F1.7171408284993064
+tp3198
+a(S'Mircea Nicolescu'
+p3199
+F4.218682726783854
+tp3200
+a(S'Monica Nicolescu'
+p3201
+F2.880930027861067
+tp3202
+a(S'Murat Yuksel'
+p3203
+F6.707545846863693
+tp3204
+asS'Worcester Polytechnic Institute'
+p3205
+(lp3206
+(S'Craig E. Wills'
+p3207
+F1.9487439372862592
+tp3208
+a(S'Emmanuel Agu'
+p3209
+F3.833797797760974
+tp3210
+a(S'David C. Brown'
+p3211
+F2.870979133880029
+tp3212
+a(S'Sonia Chernova'
+p3213
+F5.4109659087879445
+tp3214
+a(S'Mark Claypool'
+p3215
+F3.797843577081049
+tp3216
+a(S'Mohamed Y. Eltabakh'
+p3217
+F1.9554829543939725
+tp3218
+a(S'Michael A. Gennert'
+p3219
+F1.1537863253453904
+tp3220
+a(S'Neil T. Heffernan'
+p3221
+F4.077390353536353
+tp3222
+a(S'George T. Heineman'
+p3223
+F3.017719790444138
+tp3224
+a(S'Robert E. Kinicki'
+p3225
+F1.2193976311171935
+tp3226
+a(S'Karen A. Lemone'
+p3227
+F0.5516127773463795
+tp3228
+a(S'Robert W. Lindeman'
+p3229
+F2.232511961017116
+tp3230
+a(S'Carolina Ruiz'
+p3231
+F1.1273823805672927
+tp3232
+a(S'Elke A. Rundensteiner'
+p3233
+F21.445973869524188
+tp3234
+a(S'Stanley M. Selkow'
+p3235
+F3.6990170673535467
+tp3236
+a(S'Craig A. Shue'
+p3237
+F3.910965908787945
+tp3238
+a(S'Eduardo Torres-Jara'
+p3239
+F1.0
+tp3240
+asS'Oregon Health and Science University'
+p3241
+(lp3242
+(S'Peter A. Heeman'
+p3243
+F2.674573573319028
+tp3244
+a(S'John-Paul Hosom'
+p3245
+F1.4033800954502493
+tp3246
+a(S'Alexander Kain'
+p3247
+F3.0783758746319743
+tp3248
+a(S'Todd K. Leen'
+p3249
+F2.6528643302220556
+tp3250
+a(S'Misha Pavel'
+p3251
+F0.0
+tp3252
+a(S'Brian E. Roark'
+p3253
+F5.783141753549634
+tp3254
+a(S'Izhak Shafran'
+p3255
+F2.7784013297604266
+tp3256
+a(S'Xubo Song'
+p3257
+F0.5113504902796823
+tp3258
+asS'University of Saskatchewan'
+p3259
+(lp3260
+(S'Rick Bunt'
+p3261
+F0.0
+tp3262
+a(S'Jim A. Carter'
+p3263
+F0.0
+tp3264
+a(S'Christopher Dutchyn'
+p3265
+F0.6393562644257977
+tp3266
+a(S'Mark G. Eramian'
+p3267
+F1.3914545060036687
+tp3268
+a(S'Jim Greer'
+p3269
+F4.271798508832603
+tp3270
+a(S'Michael Horsch'
+p3271
+F1.4765251054685873
+tp3272
+a(S'Regan Mandryk'
+p3273
+F6.01910504394354
+tp3274
+a(S'Nathaniel Osgood'
+p3275
+F0.4093182291533946
+tp3276
+a(S'Chanchal Roy'
+p3277
+F12.710639203560818
+tp3278
+a(S'Kevin G. Stanley'
+p3279
+F1.5961853664211707
+tp3280
+asS'University of Southern California'
+p3281
+(lp3282
+(S'Leonard Adleman'
+p3283
+F8.310314967113083
+tp3284
+a(S'Jernej Barbic'
+p3285
+F1.3414442076546529
+tp3286
+a(S'Leana Golubchik'
+p3287
+F5.888253915410005
+tp3288
+a(S'Ellis Horowitz'
+p3289
+F12.680005779728639
+tp3290
+a(S'Laurent Itti'
+p3291
+F3.128135722531127
+tp3292
+a(S'Sven Koenig'
+p3293
+F7.116742310746716
+tp3294
+a(S'Yan Liu'
+p3295
+F2.4777414771969863
+tp3296
+a(S'Maja Mataric'
+p3297
+F8.4456485078254
+tp3298
+a(S'Paul Rosenbloom'
+p3299
+F3.4961345099040173
+tp3300
+a(S'Fei Sha'
+p3301
+F4.9795748660046755
+tp3302
+a(S'Gaurav Sukhatme'
+p3303
+F20.283611284991853
+tp3304
+a(S'Shang-Hua Teng'
+p3305
+F10.749648143187901
+tp3306
+a(S'Jelena Mirkovic'
+p3307
+F4.44586486665939
+tp3308
+asS'Columbia University'
+p3309
+(lp3310
+(S'Peter Belhumeur'
+p3311
+F4.323672051027069
+tp3312
+a(S'Shih-Fu Chang'
+p3313
+F12.305930324267152
+tp3314
+a(S'Michael Collins'
+p3315
+F6.275136481003097
+tp3316
+a(S'Luis Gravano'
+p3317
+F8.395309524076325
+tp3318
+a(S'Tony Jebara'
+p3319
+F3.655762355021019
+tp3320
+a(S'Gail Kaiser'
+p3321
+F12.541428724112915
+tp3322
+a(S'Angelos Keromytis'
+p3323
+F12.640601319642556
+tp3324
+a(S'Tal Malkin'
+p3325
+F3.8077883222670166
+tp3326
+a(S'Kathleen McKeown'
+p3327
+F4.458069248761989
+tp3328
+a(S'Vishal Misra'
+p3329
+F7.701725310131633
+tp3330
+a(S'Shree Nayar'
+p3331
+F7.366292549581341
+tp3332
+a(S'Steven Nowick'
+p3333
+F5.636733699281409
+tp3334
+a(S'David Waltz'
+p3335
+F2.41208973450007
+tp3336
+a(S'Junfeng Yang'
+p3337
+F4.252092651327809
+tp3338
+asS'University of Miami'
+p3339
+(lp3340
+(S'Victor Milenkovic'
+p3341
+F2.9598904804241446
+tp3342
+a(S'Dimitris Papamichali'
+p3343
+F0.614867798020712
+tp3344
+a(S'Burton Rosenberg'
+p3345
+F0.9688333423791903
+tp3346
+a(S'Dilip Sarkar'
+p3347
+F3.1778579060369117
+tp3348
+asS'University of North Texas, Denton'
+p3349
+(lp3350
+(S'Barrett Bryant'
+p3351
+F2.3260892306404637
+tp3352
+a(S'Ram Dantu'
+p3353
+F3.7550342554827565
+tp3354
+a(S'Song Fu'
+p3355
+F4.979056340964439
+tp3356
+a(S'Mahadevan Gomathisankaran'
+p3357
+F1.6747775409879866
+tp3358
+a(S'Krishna Kavi'
+p3359
+F2.0833686659732686
+tp3360
+a(S'Armin R. Mikler'
+p3361
+F3.143630030412799
+tp3362
+a(S'Saraju P. Mohanty'
+p3363
+F8.755863654765298
+tp3364
+a(S'JungHwan Oh'
+p3365
+F5.458371416137418
+tp3366
+a(S'Robert J. Renka'
+p3367
+F2.6722228785747593
+tp3368
+a(S'Farhad Shahrokhi'
+p3369
+F2.178449157340082
+tp3370
+a(S'Costas Tsatsoulis'
+p3371
+F2.581864376663285
+tp3372
+asS'Oklahoma State University'
+p3373
+(lp3374
+(S'Eric Chan-Tin'
+p3375
+F1.9554829543939725
+tp3376
+a(S'Tingting Chen'
+p3377
+F5.866448863181917
+tp3378
+a(S'Blayne E. Mayfield'
+p3379
+F0.7343557485423797
+tp3380
+asS'Louisiana State University'
+p3381
+(lp3382
+(S'Gerald Baumgartner'
+p3383
+F1.8386753258391568
+tp3384
+a(S'Peter Pin-Shan Chen'
+p3385
+F5.322207124957992
+tp3386
+a(S'Rajgopal Kannan'
+p3387
+F5.505873415160819
+tp3388
+a(S'Sukhamay Kundu'
+p3389
+F4.405449747400096
+tp3390
+a(S'Seung-Jong Park'
+p3391
+F1.9726010568458203
+tp3392
+a(S'Rahul Shah'
+p3393
+F5.9795119634210625
+tp3394
+a(S'Brygg Ullmer'
+p3395
+F2.3584741607159345
+tp3396
+a(S'Jian Zhang'
+p3397
+F1.2802121696854178
+tp3398
+a(S'Donald H. Kraft'
+p3399
+F8.099065241781677
+tp3400
+a(S'John Tyler'
+p3401
+F0.0
+tp3402
+asS'Long Island University'
+p3403
+(lp3404
+(S'Ping-Tsai Chung'
+p3405
+F1.4023862884420382
+tp3406
+a(S'Christopher League'
+p3407
+F0.9281743994067788
+tp3408
+asS'Southern Illinois University, Carbondale'
+p3409
+(lp3410
+(S'Mengxia (Michelle) Zhu'
+p3411
+F5.013728428108311
+tp3412
+a(S'Shahram Rahimi'
+p3413
+F6.764540046448259
+tp3414
+a(S'Wen-Chi Hou'
+p3415
+F3.49255242119646
+tp3416
+asS'University of Victoria'
+p3417
+(lp3418
+(S'Mantis Cheng'
+p3419
+F0.0
+tp3420
+a(S'Bruce Gooch'
+p3421
+F7.111581121728039
+tp3422
+a(S'Amy Gooch'
+p3423
+F3.0958981772062764
+tp3424
+a(S'R. Nigel Horspool'
+p3425
+F3.3087354498507793
+tp3426
+a(S'Bruce M. Kapron'
+p3427
+F1.1952726893647287
+tp3428
+a(S'Valerie King'
+p3429
+F3.4576739389759283
+tp3430
+a(S'Hausi A. Muller'
+p3431
+F0.8415533128584679
+tp3432
+a(S'Wendy Myrvold'
+p3433
+F0.33885347264785337
+tp3434
+a(S'Micaela Serra'
+p3435
+F1.5548409627667592
+tp3436
+a(S'George Tzanetakis'
+p3437
+F8.466820804020864
+tp3438
+a(S'Sue Whitesides'
+p3439
+F1.3592614647415222
+tp3440
+asS'Nova Southeastern University'
+p3441
+(lp3442
+(S'James D. Cannady'
+p3443
+F1.217953537459498
+tp3444
+a(S'Maxine S. Cohen'
+p3445
+F0.577632207333336
+tp3446
+a(S'Laurie P. Dringus'
+p3447
+F0.5877807246220991
+tp3448
+a(S'Yair Levy'
+p3449
+F1.3321000938018905
+tp3450
+a(S'Wei Li'
+p3451
+F2.1440146261809994
+tp3452
+a(S'James L. Parrish'
+p3453
+F1.0066202319480886
+tp3454
+a(S'Souren Paul'
+p3455
+F0.25153663461257547
+tp3456
+a(S'Gregory E. Simco'
+p3457
+F0.0
+tp3458
+a(S'Steven R. Terrell'
+p3459
+F0.0
+tp3460
+asS'University of Virginia'
+p3461
+(lp3462
+(S'James Cohoon'
+p3463
+F0.8396316206794291
+tp3464
+a(S'Jack Davidson'
+p3465
+F2.952782908881202
+tp3466
+a(S'David Evans'
+p3467
+F2.7636243685581445
+tp3468
+a(S'Sudhanva Gurumurthi'
+p3469
+F3.19707547697289
+tp3470
+a(S'Kim Hazelwood'
+p3471
+F2.7885284874141094
+tp3472
+a(S'Marty Humphrey'
+p3473
+F2.429610042468248
+tp3474
+a(S'Jason Lawrence'
+p3475
+F3.1408530664215237
+tp3476
+a(S'Mary Lou Soffa'
+p3477
+F2.023427542617217
+tp3478
+a(S'Paul Reynolds'
+p3479
+F2.0797328985443686
+tp3480
+a(S'Gabriel Robins'
+p3481
+F7.271080349583033
+tp3482
+a(S'Kevin Skadron'
+p3483
+F5.888775284804952
+tp3484
+a(S'Sang Son'
+p3485
+F9.929435546022995
+tp3486
+a(S'Worthy Martin'
+p3487
+F2.6147465237918084
+tp3488
+a(S'Abhi Shelat'
+p3489
+F3.7032138137213435
+tp3490
+a(S'Westley Weimer'
+p3491
+F6.587189378387366
+tp3492
+a(S'Kamin Whitehouse'
+p3493
+F6.652146814458453
+tp3494
+asS'University of Southern Mississippi'
+p3495
+(lp3496
+(S'Ahmed A. Abukmail'
+p3497
+F1.0533173167301173
+tp3498
+a(S'Amer Dawoud'
+p3499
+F0.5
+tp3500
+a(S'Nan Wang'
+p3501
+F0.0
+tp3502
+a(S'Shaoen Wu'
+p3503
+F4.30434666964963
+tp3504
+a(S'Zhaoxian Zhou'
+p3505
+F0.0
+tp3506
+a(S'A. Louise Perkins'
+p3507
+F0.33885347264785337
+tp3508
+a(S'Sumanth Yenduri'
+p3509
+F2.3576849975584495
+tp3510
+a(S'Adel L. Ali'
+p3511
+F0.0
+tp3512
+asS'George Washington University'
+p3513
+(lp3514
+(S'Michael Clarkson'
+p3515
+F0.0
+tp3516
+a(S'James K. Hahn'
+p3517
+F0.9913917496658856
+tp3518
+a(S'Rachelle S. Heller'
+p3519
+F0.0
+tp3520
+a(S'Dianne Martin'
+p3521
+F1.1350251524270445
+tp3522
+a(S'Bhagirath Narahari'
+p3523
+F2.556799763987878
+tp3524
+a(S'Gabriel A. Parmer'
+p3525
+F1.3110748105303196
+tp3526
+a(S'Rahul Simha'
+p3527
+F2.9672153092130658
+tp3528
+a(S'Timothy Wood'
+p3529
+F3.910965908787945
+tp3530
+a(S'Abdou Youssef'
+p3531
+F3.6436030301063185
+tp3532
+a(S'Nan Zhang'
+p3533
+F4.700591506771616
+tp3534
+a(S'John L. Sibert'
+p3535
+F0.0
+tp3536
+asS'UC San Diego'
+p3537
+(lp3538
+(S'Kamalika Chaudhuri'
+p3539
+F2.4666122157954793
+tp3540
+a(S'Garrison Cottrell'
+p3541
+F1.1350251524270445
+tp3542
+a(S'William Griswold'
+p3543
+F3.48623602890421
+tp3544
+a(S'Andrew B. Kahng'
+p3545
+F8.865890068585502
+tp3546
+a(S'Ryan Kastner'
+p3547
+F8.651762560337417
+tp3548
+a(S'David Kriegman'
+p3549
+F5.384390398622798
+tp3550
+a(S'Daniele Micciancio'
+p3551
+F4.715318268988787
+tp3552
+a(S'Yannis Papakonstantinou'
+p3553
+F5.58639282481286
+tp3554
+a(S'Michael Taylor'
+p3555
+F1.0592084642263704
+tp3556
+a(S'Amin Vahdat'
+p3557
+F8.920733259783066
+tp3558
+a(S'Samuel Buss'
+p3559
+F3.623191571911657
+tp3560
+asS'University of Massachusetts, Amherst'
+p3561
+(lp3562
+(S'Richards Adrion'
+p3563
+F1.1083326799455255
+tp3564
+a(S'Emery Berger'
+p3565
+F2.4850672496882296
+tp3566
+a(S'Oliver Brock'
+p3567
+F4.3643245501975425
+tp3568
+a(S'Lori Clarke'
+p3569
+F1.5646580653252624
+tp3570
+a(S'Yanlei Diao'
+p3571
+F2.3166521983139274
+tp3572
+a(S'Kevin Fu'
+p3573
+F3.4066159570758687
+tp3574
+a(S'James Kurosep'
+p3575
+F6.510866004119675
+tp3576
+a(S'Erik Learned-Miller'
+p3577
+F5.264335440388884
+tp3578
+a(S'Brian Levine'
+p3579
+F3.712791943738626
+tp3580
+a(S'Sridhar Mahadevan'
+p3581
+F2.3380432140849545
+tp3582
+a(S'Andrew McGregor'
+p3583
+F0.0
+tp3584
+a(S'Gerome Miklau'
+p3585
+F2.9778476436286954
+tp3586
+a(S'J Eliot Moss'
+p3587
+F4.588786646006643
+tp3588
+a(S'Leon Osterweil'
+p3589
+F0.0
+tp3590
+a(S'Hava Siegelmann'
+p3591
+F2.904926992470322
+tp3592
+a(S'Yannis Smaragdakis'
+p3593
+F6.035878199096613
+tp3594
+a(S'Arun Venkataramani'
+p3595
+F5.09336254360979
+tp3596
+a(S'Rui Wang'
+p3597
+F1.9073339691605327
+tp3598
+a(S'Shlomo Zilberstein'
+p3599
+F4.488265815830594
+tp3600
+a(S'Norman Sondheimer'
+p3601
+F3.771351199241592
+tp3602
+asS'Florida International University'
+p3603
+(lp3604
+(S'Mark Allen Weiss'
+p3605
+F2.2713353056387677
+tp3606
+a(S'Shu-Ching Chen'
+p3607
+F14.574489315389954
+tp3608
+a(S'Xudong He'
+p3609
+F2.1477034431651445
+tp3610
+a(S'Giri Narasimhan'
+p3611
+F2.433063845911987
+tp3612
+a(S'Jainendra K. Navlakha'
+p3613
+F3.596128790681348
+tp3614
+a(S'Peter J. Clarke'
+p3615
+F4.889269528716002
+tp3616
+a(S'Christine Lisetti'
+p3617
+F4.2844302089696935
+tp3618
+a(S'Jason Liu'
+p3619
+F4.352147085224378
+tp3620
+a(S'Masoud Milani'
+p3621
+F0.0
+tp3622
+a(S'Alex Pelin'
+p3623
+F0.0
+tp3624
+a(S'Raju Rangaswami'
+p3625
+F3.4207650453411302
+tp3626
+a(S'S. Masoud Sadjadi'
+p3627
+F8.054425785306917
+tp3628
+a(S'Bogdan Carbunar'
+p3629
+F4.888707385984931
+tp3630
+a(S'Deng Pan'
+p3631
+F4.253207446581743
+tp3632
+a(S'Jinpeng Wei'
+p3633
+F2.652173334824815
+tp3634
+a(S'Toby S. Berk'
+p3635
+F0.9841721609850733
+tp3636
+asS'Princeton University'
+p3637
+(lp3638
+(S'Andrew Appel'
+p3639
+F5.879624828126362
+tp3640
+a(S'Sanjeev Arora'
+p3641
+F5.158148514415787
+tp3642
+a(S'David August'
+p3643
+F3.8043304517424454
+tp3644
+a(S'David Blei'
+p3645
+F8.520840146319259
+tp3646
+a(S'Mark Braverman'
+p3647
+F4.9220951701894515
+tp3648
+a(S'Moses Charika'
+p3649
+F8.752857284961005
+tp3650
+a(S'Bernard Chazelle'
+p3651
+F19.012690511431387
+tp3652
+a(S'Edward Felten'
+p3653
+F6.809518483657432
+tp3654
+a(S'Rebecca Fiebrink'
+p3655
+F2.9332244315909586
+tp3656
+a(S'Thomas Funkhouser'
+p3657
+F4.843729980076763
+tp3658
+a(S'Kai Li'
+p3659
+F3.2173403673747862
+tp3660
+a(S'Margaret Martonosi'
+p3661
+F5.385604302057786
+tp3662
+a(S'Jaswinder Singh'
+p3663
+F11.003171949459501
+tp3664
+a(S'Robert Tarjan'
+p3665
+F36.55128237995648
+tp3666
+a(S'Olga Troyanskaya'
+p3667
+F3.9685460185009744
+tp3668
+a(S'David Walker'
+p3669
+F7.117675952130111
+tp3670
+a(S'Andrew Yao'
+p3671
+F17.157366206484053
+tp3672
+asS'Western Michigan University'
+p3673
+(lp3674
+(S'Ala Al-Fuqaha'
+p3675
+F5.208872699030103
+tp3676
+a(S'John Kapenga'
+p3677
+F2.1010007438776115
+tp3678
+a(S'Dionysios Kountanis'
+p3679
+F0.0
+tp3680
+a(S'Ajay K. Gupta'
+p3681
+F2.7526196267568177
+tp3682
+a(S'Wuwei Shen'
+p3683
+F1.6290694624156283
+tp3684
+a(S'Robert Trenary'
+p3685
+F0.7503711060221878
+tp3686
+asS'University of Alabama, Birmingham'
+p3687
+(lp3688
+(S'Purushotham Bangalore'
+p3689
+F2.636169693418053
+tp3690
+a(S'Anthony Skjellum'
+p3691
+F3.044396249257457
+tp3692
+a(S'Kenneth Sloan'
+p3693
+F2.6829981703619206
+tp3694
+a(S'Alan Sprague'
+p3695
+F1.3826019804478276
+tp3696
+a(S'Chengcui Zhang'
+p3697
+F8.556942217637316
+tp3698
+asS'Old Dominion University'
+p3699
+(lp3700
+(S'Desh Ranjan'
+p3701
+F2.7952240508443182
+tp3702
+a(S'Hussein M. Abdel-Wahab'
+p3703
+F2.171474902708593
+tp3704
+a(S'Nikos P. Chrisochoides'
+p3705
+F1.928320812542364
+tp3706
+a(S'Shuiwang Ji'
+p3707
+F2.9666122157954793
+tp3708
+a(S'Kurt J. Maly'
+p3709
+F3.1016926928455524
+tp3710
+a(S'Ravi Mukkamala'
+p3711
+F4.8936573141997375
+tp3712
+a(S'Tamer M. Nadeem'
+p3713
+F2.9332244315909586
+tp3714
+a(S'Michael L. Nelson'
+p3715
+F9.940318136229402
+tp3716
+a(S'Stephan Olariu'
+p3717
+F7.289436291192113
+tp3718
+a(S'Michele C. Weigle'
+p3719
+F3.9036742397703437
+tp3720
+a(S'Steven J. Zeil'
+p3721
+F2.0618419078129384
+tp3722
+a(S'C. Michael Overstreet'
+p3723
+F1.5717703521726836
+tp3724
+a(S'Stewart N. T. Shen'
+p3725
+F0.0
+tp3726
+asS'Michigan State University'
+p3727
+(lp3728
+(S'C. Titus Brown'
+p3729
+F0.0
+tp3730
+a(S'Betty H.C. Cheng'
+p3731
+F7.187150414328109
+tp3732
+a(S'Richard J. Enbody'
+p3733
+F3.0261224614208757
+tp3734
+a(S'Abdol-Hossein Esfahanian'
+p3735
+F1.4184281584649503
+tp3736
+a(S'Erik D. Goodman'
+p3737
+F0.0
+tp3738
+a(S'Anil K. Jain'
+p3739
+F2.9775321738850997
+tp3740
+a(S'Rong Jin'
+p3741
+F15.53685169041987
+tp3742
+a(S'Leslie A. Kuhn'
+p3743
+F0.2840699933997783
+tp3744
+a(S'Philip K. McKinley'
+p3745
+F8.159232958643615
+tp3746
+a(S'Charles A. Ofria'
+p3747
+F0.9457283771938065
+tp3748
+a(S'William F. Punch'
+p3749
+F1.7371955205801803
+tp3750
+a(S'Charles Steinfield'
+p3751
+F0.0
+tp3752
+a(S'Jon Sticklen'
+p3753
+F2.2069222479811748
+tp3754
+a(S'Yanni Sun'
+p3755
+F1.2391300011186113
+tp3756
+a(S'Yiying Tong'
+p3757
+F2.2749068015047826
+tp3758
+a(S'Juyang Weng'
+p3759
+F6.594583703605309
+tp3760
+a(S'Herman D. Hughes'
+p3761
+F0.0
+tp3762
+asS'University of Cincinnati'
+p3763
+(lp3764
+(S'Anca L. Ralescu'
+p3765
+F1.3507712749537724
+tp3766
+a(S'Dieter S. Schmidt'
+p3767
+F0.0
+tp3768
+asS'University of Wisconsin, Milwaukee'
+p3769
+(lp3770
+(S'John Tang Boyland'
+p3771
+F2.0983990748545387
+tp3772
+a(S'Christine Cheng'
+p3773
+F0.6830187872292033
+tp3774
+a(S'Hossein Hosseini'
+p3775
+F0.9098873659799693
+tp3776
+a(S'Rohit Kate'
+p3777
+F1.9777414771969863
+tp3778
+a(S'Amol D. Mali'
+p3779
+F6.552051013186103
+tp3780
+a(S'Ethan Munson'
+p3781
+F1.4031494084372096
+tp3782
+a(S'Hong Yu'
+p3783
+F11.379303802054554
+tp3784
+a(S'Zeyun Yu'
+p3785
+F2.2513148637674534
+tp3786
+a(S'Tian Zhao'
+p3787
+F2.7769583256742716
+tp3788
+asS'UCLA'
+p3789
+(lp3790
+(S'Jason Cong'
+p3791
+F12.673550599637457
+tp3792
+a(S'Milos Ercegovac'
+p3793
+F5.049634401115884
+tp3794
+a(S'Eleazar Eskin'
+p3795
+F4.537312408735242
+tp3796
+a(S'Deborah Estrin'
+p3797
+F4.425820096646788
+tp3798
+a(S'Richard Korf'
+p3799
+F3.611890527008856
+tp3800
+a(S'Songwu Lu'
+p3801
+F8.16381306249328
+tp3802
+a(S'Rupak Majumdar'
+p3803
+F13.17065393862747
+tp3804
+a(S'Adam Meyerson'
+p3805
+F5.261804269287362
+tp3806
+a(S'Miodrag Potkonjak'
+p3807
+F27.717744228224102
+tp3808
+a(S'Glenn Reinman'
+p3809
+F3.9359354430414983
+tp3810
+a(S'Majid Sarrafzadeh'
+p3811
+F10.33963679328702
+tp3812
+a(S'Stefano Soatto'
+p3813
+F5.775871965274738
+tp3814
+a(S'Zhuowen Tu'
+p3815
+F9.218338096431143
+tp3816
+a(S'Jennifer Vaughan'
+p3817
+F4.488870738598493
+tp3818
+a(S'Song Chun Zhu'
+p3819
+F6.934264571924625
+tp3820
+asS'Clemson University'
+p3821
+(lp3822
+(S'Sabarish V. Babu'
+p3823
+F2.3417898910148107
+tp3824
+a(S'Shaundra B. Daily'
+p3825
+F0.0
+tp3826
+a(S'Timothy A. Davis'
+p3827
+F0.7773026662196892
+tp3828
+a(S'Brian C. Dean'
+p3829
+F2.338177459016193
+tp3830
+a(S'Andrew T. Duchowski'
+p3831
+F2.0673115641403355
+tp3832
+a(S'Juan E.  Gilbert'
+p3833
+F1.9655620396574367
+tp3834
+a(S'Sebastien Goasguen'
+p3835
+F4.166282493531645
+tp3836
+a(S'Harold C. Grossman'
+p3837
+F0.5516127773463795
+tp3838
+a(S'Jason O. Hallstrom'
+p3839
+F4.8021644280927855
+tp3840
+a(S'Sandra M. Hedetniemi'
+p3841
+F2.7185229294830444
+tp3842
+a(S'Larry F. Hodges'
+p3843
+F1.7497798547190175
+tp3844
+a(S'Alan Wayne Madison'
+p3845
+F0.0
+tp3846
+a(S'Jim Martin'
+p3847
+F2.0575396946506324
+tp3848
+a(S'Roy P. Pargas'
+p3849
+F1.0416843329866343
+tp3850
+a(S'Mark Smotherman'
+p3851
+F2.656502889224588
+tp3852
+a(S'D. E. Stevenson'
+p3853
+F0.0
+tp3854
+a(S'Albert Joe Turner'
+p3855
+F0.0
+tp3856
+a(S'James M. Westall'
+p3857
+F0.0
+tp3858
+a(S'Damon L. Woodard'
+p3859
+F2.629577241947462
+tp3860
+asS'Yale University'
+p3861
+(lp3862
+(S'Daniel Abadi'
+p3863
+F4.306314270666386
+tp3864
+a(S'James Aspnes'
+p3865
+F4.260692772252684
+tp3866
+a(S'Julie Dorsey'
+p3867
+F2.411650187910209
+tp3868
+a(S'Bryan Ford'
+p3869
+F3.6299148120218008
+tp3870
+a(S'Brian Scassellati'
+p3871
+F2.119596762989411
+tp3872
+a(S'Zhong Shao'
+p3873
+F2.895274628555378
+tp3874
+a(S'Daniel Spielman'
+p3875
+F3.957002013504993
+tp3876
+asS'University of Utah'
+p3877
+(lp3878
+(S'Richard B Brown'
+p3879
+F0.0
+tp3880
+a(S'Ganesh Gopalakrishnan'
+p3881
+F1.9875410816110404
+tp3882
+a(S'Thomas C. Henderson'
+p3883
+F3.750175723805481
+tp3884
+a(S'John M. Hollerbach'
+p3885
+F2.282559918674079
+tp3886
+a(S'Christopher R. Johnson'
+p3887
+F0.0
+tp3888
+a(S'Feifei Li'
+p3889
+F0.0
+tp3890
+a(S'Miriah Meyer'
+p3891
+F0.0
+tp3892
+a(S'Matthew Might'
+p3893
+F2.989926339845828
+tp3894
+a(S'Jeff Phillips'
+p3895
+F5.866448863181917
+tp3896
+a(S'Zvonimir Rakamaric'
+p3897
+F0.9777414771969862
+tp3898
+a(S'John Regehr'
+p3899
+F3.789660031986788
+tp3900
+a(S'William B. Thompson'
+p3901
+F2.6732294054395975
+tp3902
+a(S'Suresh Venkatasubramanian'
+p3903
+F5.908241775037477
+tp3904
+a(S'Ross T Whitaker'
+p3905
+F3.2896367157578887
+tp3906
+asS'Texas A&M'
+p3907
+(lp3908
+(S'Nancy Amato'
+p3909
+F4.292558978214487
+tp3910
+a(S'Riccardo Bettati'
+p3911
+F3.6369584470929404
+tp3912
+a(S'James Caverlee'
+p3913
+F8.353051128623424
+tp3914
+a(S'Jinxiang Chai'
+p3915
+F2.6917340709431627
+tp3916
+a(S'Jianer Chen'
+p3917
+F5.707485670404093
+tp3918
+a(S'Yoonsuck Choe'
+p3919
+F1.865666395038928
+tp3920
+a(S'Richard Furuta'
+p3921
+F9.306777856783295
+tp3922
+a(S'Guofei Gu'
+p3923
+F3.258212909402522
+tp3924
+a(S'Ricardo Gutierrez Osuna'
+p3925
+F0.793524292287428
+tp3926
+a(S'Thomas R. Ioerger'
+p3927
+F2.9380193705349065
+tp3928
+a(S'Anxiao (Andrew) Jiang'
+p3929
+F4.063462734083613
+tp3930
+a(S'Andruid Kerne'
+p3931
+F4.595293094480394
+tp3932
+a(S'John Keyser'
+p3933
+F4.117110723707227
+tp3934
+a(S'Eun Jung Kim'
+p3935
+F4.444372093749233
+tp3936
+a(S'Dmitri Loguinov'
+p3937
+F8.117758491739162
+tp3938
+a(S'Evdokia Nikolova'
+p3939
+F0.9777414771969862
+tp3940
+a(S'Lawrence Rauchwerger'
+p3941
+F4.58345944468141
+tp3942
+a(S'Vivek Sarin'
+p3943
+F3.267973457198038
+tp3944
+a(S'Scott Schaefer'
+p3945
+F5.178536269945627
+tp3946
+a(S'Dylan Shell'
+p3947
+F5.615767163540107
+tp3948
+a(S'Frank Shipman'
+p3949
+F4.814311270564838
+tp3950
+a(S'Dezhen Song'
+p3951
+F4.995277705464
+tp3952
+a(S'Radu Stoleru'
+p3953
+F4.4267343111012
+tp3954
+a(S'Sing-Hoi Sze'
+p3955
+F1.612162776863744
+tp3956
+a(S'Valerie E. Taylor'
+p3957
+F1.6484512416581434
+tp3958
+a(S'Jennifer Welch'
+p3959
+F4.867137402613344
+tp3960
+a(S'Tiffani L. Williams'
+p3961
+F1.8973326957326122
+tp3962
+a(S'William Lively'
+p3963
+F0.0
+tp3964
+asS'University of Toledo'
+p3965
+(lp3966
+(S'Devinder Kaur'
+p3967
+F0.0
+tp3968
+asS'Kent State University'
+p3969
+(lp3970
+(S'Arvind K. Bansal'
+p3971
+F2.6101887782866213
+tp3972
+a(S'Ruoming Jin'
+p3973
+F8.792907135854122
+tp3974
+a(S'Javed I. Khan'
+p3975
+F2.8704337434434057
+tp3976
+a(S'Jonathan I. Maletic'
+p3977
+F2.0423999789702103
+tp3978
+a(S'Arden Ruttan'
+p3979
+F0.0
+tp3980
+a(S'Robert A. Walker'
+p3981
+F1.3881790263450906
+tp3982
+a(S'Paul S. Wang'
+p3983
+F3.1016926928455524
+tp3984
+a(S'Ye Zhao'
+p3985
+F3.2966154364694447
+tp3986
+asS'University of Rhode Island'
+p3987
+(lp3988
+(S'Lisa DiPippo'
+p3989
+F1.8070050484188418
+tp3990
+a(S'Victor Fay-Wolfe'
+p3991
+F3.594584917953424
+tp3992
+a(S'Jeans-Yves Herve'
+p3993
+F0.22568936696537917
+tp3994
+a(S'Edmund A. Lamagna'
+p3995
+F0.6796307323707611
+tp3996
+asS'Concordia University, Montreal'
+p3997
+(lp3998
+(S'Tien D. Bui'
+p3999
+F1.6080598230000465
+tp4000
+a(S'Vaclav Chvatal'
+p4001
+F3.2297022840273932
+tp4002
+a(S'Todd Eavis'
+p4003
+F3.7848579706401226
+tp4004
+a(S'Thomas Fevens'
+p4005
+F2.557351899931723
+tp4006
+a(S'Dhrubajyoti Goswami'
+p4007
+F3.464687040826964
+tp4008
+a(S'Leila Kosseim'
+p4009
+F2.8525040398618255
+tp4010
+a(S'Juergen Rilling'
+p4011
+F2.779167504050155
+tp4012
+asS'Utah State University'
+p4013
+(lp4014
+(S'Renee C. Bryce'
+p4015
+F1.9175737849638097
+tp4016
+a(S'Heng-Da Cheng'
+p4017
+F1.4552661411743086
+tp4018
+a(S'Stephen W. Clyde'
+p4019
+F0.577632207333336
+tp4020
+a(S'Nicholas S. Flann'
+p4021
+F0.9445659172953924
+tp4022
+a(S'Vladimir Kulyukin'
+p4023
+F1.4832484331133038
+tp4024
+a(S'Xiaojun Qi'
+p4025
+F3.172769051810567
+tp4026
+a(S'Ming Li'
+p4027
+F6.844190340378903
+tp4028
+a(S'Daniel W. Watson'
+p4029
+F1.469850462230728
+tp4030
+asS'University of Hawaii, Manoa'
+p4031
+(lp4032
+(S'Philip M. Johnson'
+p4033
+F1.2700272812011828
+tp4034
+a(S'Noriko Asato'
+p4035
+F0.0
+tp4036
+a(S'Kyungim Baek'
+p4037
+F0.22568936696537917
+tp4038
+a(S'Edoardo S. Biagioni'
+p4039
+F0.793524292287428
+tp4040
+a(S'Henri Casanova'
+p4041
+F8.255229718775158
+tp4042
+a(S'David N. Chin'
+p4043
+F2.2010924574638877
+tp4044
+a(S'Rich Gazan'
+p4045
+F1.0481794852656088
+tp4046
+a(S'Rebecca Knuth'
+p4047
+F0.26681525730689476
+tp4048
+a(S'Lipyeow Lim'
+p4049
+F3.706183988192793
+tp4050
+a(S'Diane M. Nahl'
+p4051
+F0.29356221393355775
+tp4052
+a(S'Luz M. Quiroga'
+p4053
+F0.4761752862712324
+tp4054
+a(S'Scott P. Robertson'
+p4055
+F0.9050622103861506
+tp4056
+a(S'Daniel D. Suthers'
+p4057
+F5.0813014166809385
+tp4058
+a(S'Andrew B. Wertheimer'
+p4059
+F0.0
+tp4060
+asS'University of Wyoming'
+p4061
+(lp4062
+(S'Jerry C. Hamann'
+p4063
+F0.0
+tp4064
+a(S'Thomas A. Bailey'
+p4065
+F1.1209014187759792
+tp4066
+a(S'James L. Caldwell'
+p4067
+F1.3197829839489292
+tp4068
+a(S'John R. Cowles'
+p4069
+F0.0
+tp4070
+a(S'Ruben Gamboa'
+p4071
+F1.8324976199203966
+tp4072
+a(S'John Hitchcock'
+p4073
+F6.536324018177877
+tp4074
+a(S'Amy Ulinski'
+p4075
+F1.9777414771969863
+tp4076
+a(S'Liqiang Wang'
+p4077
+F3.721089061941041
+tp4078
+asS'University of Alabama, Tuscaloosa'
+p4079
+(lp4080
+(S'Richard Borie'
+p4081
+F2.0089618783988152
+tp4082
+a(S'Marcus Brown'
+p4083
+F1.45398114038963
+tp4084
+a(S'Jeffrey Carver'
+p4085
+F7.1766103139125095
+tp4086
+a(S'David Cordes'
+p4087
+F2.565849019183477
+tp4088
+a(S'Brandon Dixon'
+p4089
+F1.4724844822956258
+tp4090
+a(S'Jeffrey G. Gray'
+p4091
+F12.926516578610599
+tp4092
+a(S'Xiaoyan Hong'
+p4093
+F5.753563685855369
+tp4094
+a(S'Nicholas A. Kraft'
+p4095
+F3.8274025144422352
+tp4096
+a(S'Allen Parrish'
+p4097
+F2.6372327303330496
+tp4098
+a(S'Eugene Syriani'
+p4099
+F2.9332244315909586
+tp4100
+a(S'Susan V. Vrbsky'
+p4101
+F1.227979613940187
+tp4102
+a(S'Yang Xiao'
+p4103
+F24.017674077024516
+tp4104
+asS'University of Colorado, Colorado Springs'
+p4105
+(lp4106
+(S'Jugal Kalita'
+p4107
+F0.7048950351521209
+tp4108
+a(S'Chuan Yue'
+p4109
+F3.4554829543939727
+tp4110
+a(S'Terrance E. Boult'
+p4111
+F3.9466433747628864
+tp4112
+a(S'Sudhanshu Semwal'
+p4113
+F0.0
+tp4114
+a(S'Rory Lewis'
+p4115
+F2.018286569556694
+tp4116
+asS'Purdue University'
+p4117
+(lp4118
+(S'Daniel Aliaga'
+p4119
+F4.851082449274882
+tp4120
+a(S'Saugata Basu'
+p4121
+F1.5800471829350682
+tp4122
+a(S'Chris Clifton'
+p4123
+F2.8606839055564475
+tp4124
+a(S'Sonia Fahmy'
+p4125
+F6.2563000044397175
+tp4126
+a(S'Ananth Grama'
+p4127
+F3.263484386633184
+tp4128
+a(S'Tony Hosking'
+p4129
+F1.9195251869581156
+tp4130
+a(S'Charles Killian'
+p4131
+F1.5124441251689602
+tp4132
+a(S'Ramana Kompella'
+p4133
+F4.826558033444367
+tp4134
+a(S'Ninghui Li'
+p4135
+F10.963486282063839
+tp4136
+a(S'Jennifer Neville'
+p4137
+F3.6958818857805036
+tp4138
+a(S'Cristina Nita-Rotaru'
+p4139
+F4.692371433136716
+tp4140
+a(S'Kihong Park'
+p4141
+F3.522975610904161
+tp4142
+a(S'Voicu Popescu'
+p4143
+F2.568581763582262
+tp4144
+a(S'Sunil Prabhakar'
+p4145
+F2.8254960321875005
+tp4146
+a(S'Yuan Qi'
+p4147
+F2.8017200943549985
+tp4148
+a(S'Luo Si'
+p4149
+F7.467779295527369
+tp4150
+a(S'Eugene Spafford'
+p4151
+F3.307170870010066
+tp4152
+a(S'Olga Vitek'
+p4153
+F0.4141995946796763
+tp4154
+asS'DePaul University'
+p4155
+(lp4156
+(S'Andre Berthi'
+p4157
+F1.5639955855255863
+tp4158
+a(S'GregoryBrewster'
+p4159
+F1.422195518757793
+tp4160
+a(S'Anthony Chung'
+p4161
+F1.6096885284522617
+tp4162
+a(S'Jacob D. Furst'
+p4163
+F2.5551062106711675
+tp4164
+a(S'Peter Mark Hastings'
+p4165
+F1.8858552790775214
+tp4166
+a(S'Wilfredo Marrero'
+p4167
+F0.7558145862245673
+tp4168
+a(S'John McDonald'
+p4169
+F1.5170466854109521
+tp4170
+a(S'Daniel Mittleman'
+p4171
+F1.8854541972955343
+tp4172
+a(S'Ljubomir Perkovic'
+p4173
+F1.2593717305254764
+tp4174
+a(S'Cynthia Putnam'
+p4175
+F0.4888707385984931
+tp4176
+a(S'Alexander Rasin'
+p4177
+F0.0
+tp4178
+a(S'James Riely'
+p4179
+F2.267965239020637
+tp4180
+a(S'John Rogers'
+p4181
+F1.6985029965984673
+tp4182
+a(S'Marcus Schaefer'
+p4183
+F3.2836312861834878
+tp4184
+a(S'Amber Settle'
+p4185
+F1.0157795009261084
+tp4186
+a(S'Daniela Stan Raicu'
+p4187
+F1.8318503276852531
+tp4188
+a(S'Adam Steele'
+p4189
+F0.9792485554963835
+tp4190
+a(S'Noriko Tomuro'
+p4191
+F2.258761409574336
+tp4192
+asS'University of Notre Dame'
+p4193
+(lp4194
+(S'Panos J. Antsaklis'
+p4195
+F0.0
+tp4196
+a(S'M. Brian Blake'
+p4197
+F6.494278004979419
+tp4198
+a(S'Marina Blanton'
+p4199
+F4.497633112494763
+tp4200
+a(S'Jay Brockman'
+p4201
+F2.4569414466245045
+tp4202
+a(S'Nitesh Chawla'
+p4203
+F12.200738688204819
+tp4204
+a(S'Danny Z. Chen'
+p4205
+F11.363750796505018
+tp4206
+a(S'Scott Emrich'
+p4207
+F2.434394710618122
+tp4208
+a(S'Patrick J. Flynn'
+p4209
+F3.912589001111685
+tp4210
+a(S'Xiaobo Sharon Hu'
+p4211
+F3.937341303207822
+tp4212
+a(S'Jesus A. Izaguirre'
+p4213
+F1.930551494969927
+tp4214
+a(S'Tijana Milenkovic'
+p4215
+F1.5
+tp4216
+a(S'Christian Poellabauer'
+p4217
+F4.3688702845799785
+tp4218
+a(S'Raul Santelices'
+p4219
+F0.9777414771969862
+tp4220
+a(S'Aaron Striegel'
+p4221
+F5.325093453620364
+tp4222
+asS'Memorial University of Newfoundland'
+p4223
+(lp4224
+(S'Yuanzhu Peter Chen'
+p4225
+F2.7729122977709673
+tp4226
+a(S'Joerg Evermann'
+p4227
+F5.97445032949508
+tp4228
+a(S'Orland Hoeber'
+p4229
+F5.484485408829049
+tp4230
+a(S'Antonina Kolokolova'
+p4231
+F0.6141995946796763
+tp4232
+a(S'Manrique Mata-Montero'
+p4233
+F0.3145860475640556
+tp4234
+a(S'Theodore Norvell'
+p4235
+F0.2840699933997783
+tp4236
+a(S'Jeffrey Parsons'
+p4237
+F1.5645717138788713
+tp4238
+a(S'Dennis Peters'
+p4239
+F0.5034860072730065
+tp4240
+a(S'Andrew Vardy'
+p4241
+F1.5251936058303
+tp4242
+a(S'Todd Wareham'
+p4243
+F2.260100756013961
+tp4244
+asS'University of Oklahoma'
+p4245
+(lp4246
+(S'John K. Antonio'
+p4247
+F3.083456100373727
+tp4248
+a(S'Qi Cheng'
+p4249
+F4.931256924916253
+tp4250
+a(S'Dean F. Hougen'
+p4251
+F3.553270738837085
+tp4252
+a(S'Changwook Kim'
+p4253
+F1.1541715588820942
+tp4254
+a(S'Amy McGovern'
+p4255
+F1.4672604454715668
+tp4256
+a(S'Rex L. Page'
+p4257
+F2.216665359891051
+tp4258
+a(S'Sridhar Radhakrishnan'
+p4259
+F3.15355025953085
+tp4260
+a(S'Deborah A. Trytten'
+p4261
+F0.3037107312223208
+tp4262
+asS'University of Washington'
+p4263
+(lp4264
+(S'Richard Anderson'
+p4265
+F5.027108898942367
+tp4266
+a(S'Tom Anderson'
+p4267
+F1.976429397964262
+tp4268
+a(S'Paul Beame'
+p4269
+F4.525579672680573
+tp4270
+a(S'Brian Curless'
+p4271
+F3.9920931791605767
+tp4272
+a(S'Chris Diorio'
+p4273
+F1.828834729433917
+tp4274
+a(S'Carl Ebeling'
+p4275
+F2.3583108823826517
+tp4276
+a(S'Oren Etzioni'
+p4277
+F8.446286978186865
+tp4278
+a(S'Steve Gribble'
+p4279
+F6.283232955041052
+tp4280
+a(S'Richard Ladner'
+p4281
+F6.5975361457523976
+tp4282
+a(S'James Landay'
+p4283
+F7.014324288846167
+tp4284
+a(S'Ed Lazowska'
+p4285
+F4.4924097598945
+tp4286
+a(S'Yoky Matsuoka'
+p4287
+F2.56753104827554
+tp4288
+a(S'Shwetak Patel'
+p4289
+F7.027277266519569
+tp4290
+a(S'Anup Rao'
+p4291
+F3.4554829543939727
+tp4292
+a(S'Rajesh Rao'
+p4293
+F2.43625628594197
+tp4294
+a(S'Steven Seitz'
+p4295
+F4.226302105721778
+tp4296
+a(S'Emanuel Todorov'
+p4297
+F1.3921260150192611
+tp4298
+a(S'David Wetherall'
+p4299
+F6.241021381745399
+tp4300
+asS'Auburn University'
+p4301
+(lp4302
+(S'Kai Chang'
+p4303
+F0.0
+tp4304
+a(S'Sanjeev Baskiyar'
+p4305
+F0.0
+tp4306
+a(S'Richard Chapman'
+p4307
+F0.5681399867995566
+tp4308
+a(S'James Cross'
+p4309
+F2.2860656623338973
+tp4310
+a(S'Munawar Hafiz'
+p4311
+F1.9554829543939725
+tp4312
+a(S'Dean Hendrix'
+p4313
+F0.0
+tp4314
+a(S'Wei-Shinn Ku'
+p4315
+F7.341744580872694
+tp4316
+a(S'Hari Narayanan'
+p4317
+F2.4389525056380856
+tp4318
+a(S'Xiao Qin'
+p4319
+F12.84561324120413
+tp4320
+a(S'Cheryl Seals'
+p4321
+F0.44034975496999673
+tp4322
+a(S'Levent Yilmaz'
+p4323
+F3.738076440120068
+tp4324
+a(S'Weikuan Yu'
+p4325
+F3.6299148120218008
+tp4326
+asS'New Jersey Institute of Technology'
+p4327
+(lp4328
+(S'Michael A. Baltrush'
+p4329
+F0.0
+tp4330
+a(S'James M. Calvin'
+p4331
+F0.6525382770180321
+tp4332
+a(S'James Geller'
+p4333
+F3.1767215942699893
+tp4334
+a(S'Frank Y. Shih'
+p4335
+F5.286388718089051
+tp4336
+a(S'Cristian M. Borcea'
+p4337
+F2.6448889463264313
+tp4338
+a(S'Alexandros V. Gerbessiotis'
+p4339
+F2.3832843597048345
+tp4340
+a(S'Usman W. Roshan'
+p4341
+F0.22568936696537917
+tp4342
+a(S'Andrew Sohn'
+p4343
+F4.433412207190581
+tp4344
+a(S'Guiling Wang'
+p4345
+F4.940665030460582
+tp4346
+a(S'Reza Curtmola'
+p4347
+F3.5429155573744966
+tp4348
+a(S'Zhi Wei'
+p4349
+F2.077099680306234
+tp4350
+asS'University of Mississippi'
+p4351
+(lp4352
+(S'Conrad Cunningham'
+p4353
+F2.546636742400642
+tp4354
+a(S'Tobin Maginnis'
+p4355
+F1.103225554692759
+tp4356
+a(S'Philip J. Rhodes'
+p4357
+F1.9765723397610582
+tp4358
+a(S'Dawn E. Wilkins'
+p4359
+F2.5329177907341616
+tp4360
+a(S'Steven Browning Schoenly Sr.'
+p4361
+F0.4006694038846649
+tp4362
+asS'Washington University, St. Louis'
+p4363
+(lp4364
+(S'Kunal Agrawal'
+p4365
+F3.6751232243481446
+tp4366
+a(S'Michael R. Brent'
+p4367
+F1.3836116912371976
+tp4368
+a(S'Jeremy D. Buhler'
+p4369
+F3.7731135667225386
+tp4370
+a(S'Yixin Chen'
+p4371
+F13.623716464784758
+tp4372
+a(S'Patrick Crowley'
+p4373
+F3.974542771545628
+tp4374
+a(S'Christopher D. Gill'
+p4375
+F7.2563541708324495
+tp4376
+a(S'Viktor Gruev'
+p4377
+F3.281267770932753
+tp4378
+a(S'Tao Ju'
+p4379
+F8.517782933454306
+tp4380
+a(S'Caitlin Kelleher'
+p4381
+F3.0305800770392923
+tp4382
+a(S'Chenyang Lu'
+p4383
+F11.235553001929697
+tp4384
+a(S'Robert Pless'
+p4385
+F5.092462127894881
+tp4386
+a(S'Bill Smart'
+p4387
+F0.7140883238953617
+tp4388
+a(S'Jonathan S. Turner'
+p4389
+F2.3291487035511684
+tp4390
+a(S'Kilian Q. Weinberger'
+p4391
+F3.8496299048859868
+tp4392
+asS'Northwestern University'
+p4393
+(lp4394
+(S'Alan V. Sahakian'
+p4395
+F0.0
+tp4396
+a(S'Aleksandar Kuzmanovic'
+p4397
+F4.061387557675127
+tp4398
+a(S'Alok N. Choudhary'
+p4399
+F13.600999264096705
+tp4400
+a(S'Bryan A. Pardo'
+p4401
+F4.582423662872138
+tp4402
+a(S'Doug C. Downey'
+p4403
+F1.7746475389846645
+tp4404
+a(S'Fabian E. Bustamante'
+p4405
+F4.16410324458823
+tp4406
+a(S'Goce Trajcevski'
+p4407
+F5.655594293785493
+tp4408
+a(S'Gokhan Memik'
+p4409
+F10.023439789870595
+tp4410
+a(S'Hai Zhou'
+p4411
+F8.855025605597511
+tp4412
+a(S'Jack Tumblin'
+p4413
+F2.2750680266456076
+tp4414
+a(S'Jason D. Hartline'
+p4415
+F4.548739450595368
+tp4416
+a(S'Lance Fortnow'
+p4417
+F8.33595139787644
+tp4418
+a(S'Michael S. Horn'
+p4419
+F2.4666122157954793
+tp4420
+a(S'Nicole Immorlica'
+p4421
+F5.572312837165834
+tp4422
+a(S'Nikos Hardavellas'
+p4423
+F2.0006913667203152
+tp4424
+a(S'Peter A. Dinda'
+p4425
+F5.3073408021170945
+tp4426
+a(S'Robert  Bruce Findler'
+p4427
+F4.131666473110437
+tp4428
+a(S'Seda Ogrenci Memik'
+p4429
+F7.616014370504537
+tp4430
+asS'University of Nevada, Las Vegas'
+p4431
+(lp4432
+(S'John T. Minor'
+p4433
+F0.0
+tp4434
+a(S'Laxmi P. Gewali'
+p4435
+F1.7383318323471026
+tp4436
+a(S'Yoohwan Kim'
+p4437
+F3.4980927438882903
+tp4438
+a(S'Sidkazem Taghva'
+p4439
+F0.7503711060221878
+tp4440
+a(S'Evangelos A. Yfantis'
+p4441
+F0.0
+tp4442
+asS'University of Alberta'
+p4443
+(lp4444
+(S'Denilson Barbosa'
+p4445
+F2.595136894173531
+tp4446
+a(S'Anup Basu'
+p4447
+F4.990006301113135
+tp4448
+a(S'Michael Bowling'
+p4449
+F7.166404640764968
+tp4450
+a(S'Vadim Bulitko'
+p4451
+F3.0195543781915353
+tp4452
+a(S'Randy Goebel'
+p4453
+F3.923013063117325
+tp4454
+a(S'Abram Hindle'
+p4455
+F8.799673294772875
+tp4456
+a(S'Jim Hoover'
+p4457
+F0.7196253918472503
+tp4458
+a(S'Mike MacGregor'
+p4459
+F0.9554412336371273
+tp4460
+a(S'Davood Rafiei'
+p4461
+F1.2593005934975738
+tp4462
+a(S'Nilanjan Ray'
+p4463
+F3.725014625828797
+tp4464
+a(S'Mohammad Salavatipour'
+p4465
+F5.688003611277222
+tp4466
+a(S'Jonathan Schaeffer'
+p4467
+F5.4538642979422765
+tp4468
+a(S'Dale Schuurmans'
+p4469
+F5.791764009898306
+tp4470
+a(S'Lorna Stewart'
+p4471
+F1.1541715588820942
+tp4472
+a(S'David Wishart'
+p4473
+F0.2840699933997783
+tp4474
+a(S'Li-Yan Yuan'
+p4475
+F5.70779644095388
+tp4476
+a(S'Osmar R. Zaiane'
+p4477
+F9.383108038917571
+tp4478
+a(S'Francis Jeffry Pelletier'
+p4479
+F1.1083326799455255
+tp4480
+a(S'Paul Sorenson'
+p4481
+F3.236687813395973
+tp4482
+asS'University of North Carolina, Charlotte'
+p4483
+(lp4484
+(S'Srinivas Akella'
+p4485
+F2.7092433952784907
+tp4486
+a(S'Teresa A. Dahlberg'
+p4487
+F0.0
+tp4488
+a(S'Aidong Lu'
+p4489
+F2.1535208912953356
+tp4490
+a(S'Jamie Payton'
+p4491
+F2.2726531107372048
+tp4492
+a(S'Min C. Shin'
+p4493
+F2.3945300236127642
+tp4494
+a(S'Richard Souvenir'
+p4495
+F3.7354946161445284
+tp4496
+a(S'Kalpathi R. Subramanian'
+p4497
+F0.5681399867995566
+tp4498
+a(S'Yu Wang'
+p4499
+F10.28040700681773
+tp4500
+a(S'Zachary Wartell'
+p4501
+F1.9229878477093494
+tp4502
+a(S'Dale-Marie Wilson'
+p4503
+F0.8141995946796763
+tp4504
+a(S'Wensheng Wu'
+p4505
+F0.2619256001287238
+tp4506
+a(S'Jing Yang'
+p4507
+F10.487361042374921
+tp4508
+asS'Santa Clara University'
+p4509
+(lp4510
+(S'Ahmed Amer'
+p4511
+F4.821653970461366
+tp4512
+a(S'Ron L. Danielson'
+p4513
+F0.0
+tp4514
+a(S'Ruth E. Davis'
+p4515
+F0.0
+tp4516
+a(S'Joanne Holliday'
+p4517
+F3.4561234801623257
+tp4518
+a(S'Daniel W. Lewis'
+p4519
+F0.0
+tp4520
+a(S'Nam Ling'
+p4521
+F2.460251935768401
+tp4522
+a(S'Weijia Shang'
+p4523
+F4.69081678486504
+tp4524
+asS'University of Maryland, College Park'
+p4525
+(lp4526
+(S'Ashok Agrawala'
+p4527
+F5.613363984767325
+tp4528
+a(S'Yiannis Aloimonos'
+p4529
+F6.944690293458886
+tp4530
+a(S'Ben Bederson'
+p4531
+F4.557698708077907
+tp4532
+a(S'Rance Cleaveland'
+p4533
+F7.735602549392664
+tp4534
+a(S'Hal Daume III'
+p4535
+F5.59884578915411
+tp4536
+a(S'Ramani Duraiswami'
+p4537
+F9.756096045557635
+tp4538
+a(S'Howard Elman'
+p4539
+F0.0
+tp4540
+a(S'Bill Gasarch'
+p4541
+F5.565545767448878
+tp4542
+a(S'Lise Getoor'
+p4543
+F4.926736160181038
+tp4544
+a(S'Mohammad Hajiaghayi'
+p4545
+F15.344190340378901
+tp4546
+a(S'Michael Hicks'
+p4547
+F5.299741524157767
+tp4548
+a(S'Jeff Hollingsworth'
+p4549
+F4.257627293988534
+tp4550
+a(S'Jonathan Katz'
+p4551
+F9.661404255073387
+tp4552
+a(S'Pete Keleher'
+p4553
+F4.316813850558186
+tp4554
+a(S'Clyde Kruskal'
+p4555
+F7.441302401542681
+tp4556
+a(S'Atif Memon'
+p4557
+F4.906839578866908
+tp4558
+a(S"Dianne O'Leary"
+p4559
+F1.4162458604436066
+tp4560
+a(S'Mihai Pop'
+p4561
+F2.86169603567076
+tp4562
+a(S'Adam Porter'
+p4563
+F2.908410981120817
+tp4564
+a(S'Bill Pugh'
+p4565
+F5.400971325367076
+tp4566
+a(S'Nick Roussopoulos'
+p4567
+F2.6697220602480076
+tp4568
+a(S'A. Udaya Shankar'
+p4569
+F2.3387990147388056
+tp4570
+a(S'Ben Shneiderman'
+p4571
+F15.978762332862752
+tp4572
+a(S'Venkatramana (VS) Subrahmanian'
+p4573
+F14.394988833267172
+tp4574
+a(S'Alan Sussman'
+p4575
+F7.411855419594653
+tp4576
+a(S'Chau-Wen Tseng'
+p4577
+F5.692781934951279
+tp4578
+a(S'Amitabh Varshney'
+p4579
+F4.106959408175792
+tp4580
+a(S'Vic Basili'
+p4581
+F0.0
+tp4582
+asS'Rensselaer Polytechnic Institute'
+p4583
+(lp4584
+(S'Sibel Adali'
+p4585
+F2.757735906118774
+tp4586
+a(S'Elliot Anshelevich'
+p4587
+F3.515235603350461
+tp4588
+a(S'Francine Berman'
+p4589
+F2.4506411408343345
+tp4590
+a(S'Christopher D. Carothers'
+p4591
+F2.8371201686658503
+tp4592
+a(S'Sanmay Das'
+p4593
+F3.035891103531253
+tp4594
+a(S'Petros Drineas'
+p4595
+F6.813366812440533
+tp4596
+a(S'James A. Hendler'
+p4597
+F4.672815333175743
+tp4598
+a(S'Malik Magdon-Ismail'
+p4599
+F4.844060695520204
+tp4600
+a(S'Ana Milanova'
+p4601
+F2.9196453530837987
+tp4602
+a(S'David L. Spooner'
+p4603
+F0.9801431112805098
+tp4604
+a(S'Jeff Trinkle'
+p4605
+F2.951463563486076
+tp4606
+a(S'Carlos A. Varela'
+p4607
+F2.3372640082764358
+tp4608
+a(S'Selmer Bringsjord'
+p4609
+F0.7048950351521209
+tp4610
+a(S'Joseph E. Flaherty'
+p4611
+F0.0
+tp4612
+a(S'David R. Musser'
+p4613
+F0.0
+tp4614
+asS'University of Missouri, Kansas City'
+p4615
+(lp4616
+(S'Baek-Young Choi'
+p4617
+F2.5528576123636144
+tp4618
+a(S'Deendayal Dinakarpandian'
+p4619
+F1.373900528216641
+tp4620
+a(S'Lein Harn'
+p4621
+F0.0
+tp4622
+a(S'Yugyung Lee'
+p4623
+F5.593095413086468
+tp4624
+a(S'Deep Medhi'
+p4625
+F1.01757012873293
+tp4626
+a(S'Ken Mitchell'
+p4627
+F1.9854586209715674
+tp4628
+a(S'Praveen R. Rao'
+p4629
+F1.8530460098584005
+tp4630
+a(S'Xiaojun Shen'
+p4631
+F3.7904971580821396
+tp4632
+a(S'Appie Van de Liefvoort'
+p4633
+F0.5516127773463795
+tp4634
+asS'University of Oregon'
+p4635
+(lp4636
+(S'Zena M. Ariola'
+p4637
+F3.084404523955514
+tp4638
+a(S'Kevin Raymond Boyce Butler'
+p4639
+F4.488870738598493
+tp4640
+a(S'John S. Conery'
+p4641
+F2.2870125062829914
+tp4642
+a(S'Dejing Dou'
+p4643
+F3.484038732413988
+tp4644
+a(S'Sarah Ann Douglas'
+p4645
+F0.5190242827788669
+tp4646
+a(S'Arthur M. Farley'
+p4647
+F1.7882020724850967
+tp4648
+a(S'Stephen F. Fickas'
+p4649
+F0.9283566028246953
+tp4650
+a(S'Anthony J. Hornof'
+p4651
+F0.7562649295435996
+tp4652
+a(S'Jun Li'
+p4653
+F1.8435047489500196
+tp4654
+a(S'Virginia M. Lo'
+p4655
+F1.2655171091816775
+tp4656
+a(S'Daniel Lowd'
+p4657
+F2.488870738598493
+tp4658
+a(S'Allen D. Malony'
+p4659
+F6.278961800864172
+tp4660
+a(S'Reza Rejaie'
+p4661
+F3.5783307823498163
+tp4662
+a(S'Kent A. Stevens'
+p4663
+F0.0
+tp4664
+a(S'Christopher B. Wilson'
+p4665
+F1.72554742461053
+tp4666
+asS'University of Delaware'
+p4667
+(lp4668
+(S'Paul D. Amer'
+p4669
+F1.7014669232609705
+tp4670
+a(S'James Atlas'
+p4671
+F1.0155303819223243
+tp4672
+a(S'Benjamin Carterette'
+p4673
+F7.795267471222422
+tp4674
+a(S'John Caravazos'
+p4675
+F3.1167600459934746
+tp4676
+a(S'Daniel L. Chester'
+p4677
+F2.5740845774090255
+tp4678
+a(S'Keith Decker'
+p4679
+F4.3968308797233036
+tp4680
+a(S'Chandra Kambhamettu'
+p4681
+F4.719895015208995
+tp4682
+a(S'Errol L. Lloyd'
+p4683
+F4.518528160778755
+tp4684
+a(S'Kathleen F. McCoy'
+p4685
+F2.1298087549956164
+tp4686
+a(S'Lori L. Pollock'
+p4687
+F1.1335643377731857
+tp4688
+a(S'Christopher E. Rasmussen'
+p4689
+F0.22003676184448295
+tp4690
+a(S'B. David Saunders'
+p4691
+F0.0
+tp4692
+a(S'Vijay Shanker'
+p4693
+F2.688405300539945
+tp4694
+a(S'Hagit Shatkay'
+p4695
+F4.774114168564256
+tp4696
+a(S'Stephen Siegel'
+p4697
+F2.101957595320667
+tp4698
+a(S'Jingyi Yu'
+p4699
+F6.012600742083281
+tp4700
+asS'University of Texas, El Paso'
+p4701
+(lp4702
+(S'Yoonsik Cheon'
+p4703
+F3.1054247031284574
+tp4704
+a(S'Ann Q. Gates'
+p4705
+F2.342295807754564
+tp4706
+a(S'Christopher Kiekintveld'
+p4707
+F10.866448863181915
+tp4708
+a(S'David G. Novick'
+p4709
+F1.7257474982082652
+tp4710
+a(S'Pat Teller'
+p4711
+F1.855698110962355
+tp4712
+a(S'Eunice Santos'
+p4713
+F2.8103061685163504
+tp4714
+asS'University of Regina'
+p4715
+(lp4716
+(S'Cory J. Butz'
+p4717
+F5.57735071517232
+tp4718
+a(S'David Gerhard'
+p4719
+F3.1280327567627326
+tp4720
+a(S'Daryl H. Hepting'
+p4721
+F2.0857542866942156
+tp4722
+asS'New Mexico Institute of Mining and Technology'
+p4723
+(lp4724
+(S'Dongwan Shin'
+p4725
+F5.808655412852722
+tp4726
+asS'Florida Atlantic University'
+p4727
+(lp4728
+(S'Mihaela Cardei'
+p4729
+F4.922310398886699
+tp4730
+a(S'Hari Kalva'
+p4731
+F6.836123233798718
+tp4732
+a(S'Oge Marques'
+p4733
+F1.8798776797141001
+tp4734
+a(S'Maria Petrie'
+p4735
+F2.4888405965967375
+tp4736
+a(S'Hanqi Zhuang'
+p4737
+F5.052645554777291
+tp4738
+a(S'Bassem A. Alhalabi'
+p4739
+F1.3439591996750688
+tp4740
+a(S'Imad Mahgoub'
+p4741
+F1.3428295564525763
+tp4742
+asS'University of Chicago'
+p4743
+(lp4744
+(S'Pedro Felzenszwalb'
+p4745
+F2.4393197491386904
+tp4746
+a(S'John Goldsmith'
+p4747
+F0.0
+tp4748
+a(S'Gordon Kindlmann'
+p4749
+F3.00811087432132
+tp4750
+a(S'Imre Kondor'
+p4751
+F0.0
+tp4752
+a(S'John Lafferty'
+p4753
+F0.36717787427118986
+tp4754
+a(S"Michael O'Donnell"
+p4755
+F0.6796307323707611
+tp4756
+a(S'Anne Rogers'
+p4757
+F3.2829376685440437
+tp4758
+a(S'L. Ridgway Scott'
+p4759
+F0.0
+tp4760
+asS'Colorado State University'
+p4761
+(lp4762
+(S'Charles W. Anderson'
+p4763
+F0.9571502514342297
+tp4764
+a(S'J. Ross Beveridge'
+p4765
+F2.657095002419886
+tp4766
+a(S'James M. Bieman'
+p4767
+F0.8648477052970126
+tp4768
+a(S'Bruce A. Draper'
+p4769
+F4.836611956025243
+tp4770
+a(S'Sudipto Ghosh'
+p4771
+F6.277718383297627
+tp4772
+a(S'Dale H. Grit'
+p4773
+F0.8040299115000232
+tp4774
+a(S'Adele E. Howe'
+p4775
+F3.3774143829770047
+tp4776
+a(S'Yashwant K. Malaiya'
+p4777
+F3.0539312093636326
+tp4778
+a(S'Daniel F. Massey'
+p4779
+F6.25122392149319
+tp4780
+a(S'Shrideep Pallickara'
+p4781
+F2.652519018184973
+tp4782
+a(S'Christos Papadopoulos'
+p4783
+F2.4204139052544873
+tp4784
+a(S'Sanjay Rajopadhye'
+p4785
+F3.153488357123078
+tp4786
+a(S'Michelle Mills Strout'
+p4787
+F2.987039988556327
+tp4788
+a(S'L. Darrell Whitley'
+p4789
+F3.772462751219848
+tp4790
+a(S'Anura P. Jayasumana'
+p4791
+F2.8984215123020682
+tp4792
+a(S'Michael Kirby'
+p4793
+F0.32626913850901607
+tp4794
+a(S'Sudeep Pasricha'
+p4795
+F8.616024733267546
+tp4796
+a(S'H. J. Siegel'
+p4797
+F6.276056737592347
+tp4798
+asS'Cornell University'
+p4799
+(lp4800
+(S'David Albonesi'
+p4801
+F2.689053476822854
+tp4802
+a(S'David Bindel'
+p4803
+F0.9929261757591531
+tp4804
+a(S'Claire Cardie'
+p4805
+F2.2744054989571283
+tp4806
+a(S'Dan Cosley'
+p4807
+F5.520379220884502
+tp4808
+a(S'Eric Friedman'
+p4809
+F0.29356221393355775
+tp4810
+a(S'W. Kent Fuchs'
+p4811
+F7.668216745647871
+tp4812
+a(S'Francois Guimbretiere'
+p4813
+F3.6194136410373874
+tp4814
+a(S'Doug James'
+p4815
+F3.7174075255506054
+tp4816
+a(S'Hadas Kress-Gazit'
+p4817
+F3.3117661772506346
+tp4818
+a(S'Rajit Manohar'
+p4819
+F2.5944709424399015
+tp4820
+a(S'Steve Marschner'
+p4821
+F2.570488252519724
+tp4822
+a(S'Rafael Pass'
+p4823
+F6.243305670055773
+tp4824
+a(S'Fred Schneider'
+p4825
+F5.751866201145681
+tp4826
+a(S'Phoebe Sengers'
+p4827
+F2.555951973602027
+tp4828
+a(S'Adam Siepel'
+p4829
+F1.69362938279444
+tp4830
+a(S'Tim Teitelbaum'
+p4831
+F0.0
+tp4832
+asS'University of Idaho, Moscow'
+p4833
+(lp4834
+(S'Jim Alves-Foss'
+p4835
+F1.6511699702446159
+tp4836
+a(S'Robert Heckendorn'
+p4837
+F2.973531799623122
+tp4838
+a(S'Clinton L. Jeffery'
+p4839
+F1.5206635509725313
+tp4840
+asS'Claremont Graduate University'
+p4841
+(lp4842
+(S'Samir Chatterjee'
+p4843
+F1.4025547809352505
+tp4844
+a(S'Gondy Leroy'
+p4845
+F3.7846059561395413
+tp4846
+a(S'Lorne Olfman'
+p4847
+F1.8559355450589734
+tp4848
+asS'University of Maine'
+p4849
+(lp4850
+(S'James L. Fastook'
+p4851
+F0.0
+tp4852
+a(S'Roy M. Turner'
+p4853
+F2.16795063069941
+tp4854
+asS'Tufts University'
+p4855
+(lp4856
+(S'Matthias Scheutz'
+p4857
+F2.490599653950447
+tp4858
+a(S'Diane L. Souvaine'
+p4859
+F1.1350251524270445
+tp4860
+a(S'Norman Ramsey'
+p4861
+F2.7937312706277506
+tp4862
+a(S'Carla E. Brodley'
+p4863
+F3.4721800368357414
+tp4864
+a(S'Remco Chang'
+p4865
+F6.933224431590959
+tp4866
+a(S'Lenore Jennifer Cowen'
+p4867
+F4.117107925464555
+tp4868
+a(S'Samuel Z. Guyer'
+p4869
+F1.7242001152861008
+tp4870
+a(S'Soha Hassoun'
+p4871
+F2.5879622008545007
+tp4872
+asS'University of Montreal'
+p4873
+(lp4874
+(S'Yoshua Bengio'
+p4875
+F6.645905691124493
+tp4876
+a(S'Gilles Brassard'
+p4877
+F4.78947670131181
+tp4878
+a(S'Miklos Csuros'
+p4879
+F2.5957720492606433
+tp4880
+a(S'Bruno Dufour'
+p4881
+F1.4888707385984932
+tp4882
+a(S'Bernard Gendron'
+p4883
+F0.8019715420002163
+tp4884
+a(S'Francois Major'
+p4885
+F0.6074214624446416
+tp4886
+a(S'Pierre Poulin'
+p4887
+F1.9820325400274883
+tp4888
+a(S'Pascal Vincent'
+p4889
+F1.8430595773639702
+tp4890
+asS'Portland State University'
+p4891
+(lp4892
+(S'Nirupama Bulusu'
+p4893
+F4.439396753019841
+tp4894
+a(S'Wu-chang Feng'
+p4895
+F5.15864160317359
+tp4896
+a(S'Karen L. Karavanic'
+p4897
+F0.7148167412094654
+tp4898
+a(S'Jingke Li'
+p4899
+F0.7048950351521209
+tp4900
+a(S'David Maier'
+p4901
+F16.01864292957301
+tp4902
+a(S'Tom Shrimpton'
+p4903
+F1.7509245880696216
+tp4904
+a(S'Suresh Singh'
+p4905
+F1.9613282714250964
+tp4906
+a(S'Andrew P. Tolmach'
+p4907
+F0.9445659172953924
+tp4908
+a(S'Fei Xie'
+p4909
+F8.035508331869206
+tp4910
+asS'George Mason University'
+p4911
+(lp4912
+(S'Jan M. Allbeck'
+p4913
+F1.6518276514646575
+tp4914
+a(S'Paul Ammann'
+p4915
+F4.182843700631005
+tp4916
+a(S'Hakan Aydin'
+p4917
+F2.6083749262105234
+tp4918
+a(S'Jim X. Chen'
+p4919
+F3.27318803378393
+tp4920
+a(S'Songqing Chen'
+p4921
+F7.951998676838814
+tp4922
+a(S'Kinga Dobolyi'
+p4923
+F0.9888707385984932
+tp4924
+a(S'Zoran Duric'
+p4925
+F3.1648393394505847
+tp4926
+a(S'Larry Kerschberg'
+p4927
+F3.3781144889090484
+tp4928
+a(S'Jana Kosecka'
+p4929
+F4.305018842056931
+tp4930
+a(S'Jyh-Ming Lien'
+p4931
+F4.7364943686069765
+tp4932
+a(S'Jessica Lin'
+p4933
+F3.6853948077793732
+tp4934
+a(S'Sam Malek'
+p4935
+F7.3402630288930535
+tp4936
+a(S'Jeff Offutt'
+p4937
+F4.268691988378568
+tp4938
+a(S'Huzefa Rangwala'
+p4939
+F4.758731434442758
+tp4940
+a(S'Amarda Shehu'
+p4941
+F3.961566110134962
+tp4942
+a(S'Angelos Stavrou'
+p4943
+F7.950616857634637
+tp4944
+a(S'Harry Wechsler'
+p4945
+F2.9185204185065317
+tp4946
+a(S'Duminda Wijesekera'
+p4947
+F7.148492689864833
+tp4948
+asS'University of Alabama, Huntsville'
+p4949
+(lp4950
+(S'Letha Etzkorn'
+p4951
+F2.364763988842401
+tp4952
+a(S'Glenn W. Cox'
+p4953
+F0.9391061818451485
+tp4954
+a(S'Harry S. Delugach'
+p4955
+F1.6816830291004297
+tp4956
+a(S'Huaming Zhang'
+p4957
+F4.749941956939935
+tp4958
+asS'University of Georgia'
+p4959
+(lp4960
+(S'Suchendra M. Bhandarkar'
+p4961
+F3.445056928747654
+tp4962
+a(S'Shelby H. Funk'
+p4963
+F0.0
+tp4964
+a(S'Maria Hybinette'
+p4965
+F1.6297167546507718
+tp4966
+a(S'Krzysztof J. Kochut'
+p4967
+F1.4392507836945005
+tp4968
+a(S'Eileen T. Kraemer'
+p4969
+F0.0
+tp4970
+a(S'John A. Miller'
+p4971
+F0.7503711060221878
+tp4972
+a(S'Walter D. Potter'
+p4973
+F3.358138571757208
+tp4974
+a(S'Heinz-Bernd Schuttler'
+p4975
+F0.0
+tp4976
+a(S'Thiab Taha'
+p4977
+F0.0
+tp4978
+asS'University of Western Ontario'
+p4979
+(lp4980
+(S'Mark J. Daley'
+p4981
+F4.062429010684392
+tp4982
+a(S'Mahmoud R. El-Sakka'
+p4983
+F1.007801564156175
+tp4984
+a(S'Michael J. Katchabaw'
+p4985
+F2.507030377936671
+tp4986
+a(S'Sylvia L. Osborn'
+p4987
+F2.095876592814368
+tp4988
+a(S'Olga Veksler'
+p4989
+F1.7909465037563215
+tp4990
+a(S'Sheng Yu'
+p4991
+F3.265725615363215
+tp4992
+a(S'Alexander K. Dewdney'
+p4993
+F0.7366151280728455
+tp4994
+asS'University of Denver'
+p4995
+(lp4996
+(S'Anneliese Andrews'
+p4997
+F5.320957973928705
+tp4998
+a(S'Rinku Dewari'
+p4999
+F3.4666122157954793
+tp5000
+a(S'Chris GauthierDickey'
+p5001
+F2.2486091462312876
+tp5002
+a(S'Scott Leutenegger'
+p5003
+F2.8647585743911006
+tp5004
+a(S'Mario Lopez'
+p5005
+F1.5971041943134245
+tp5006
+a(S'Mohammad H. Mahoor'
+p5007
+F4.531230668599029
+tp5008
+a(S'Matthew J. Rutherford'
+p5009
+F1.250796338727217
+tp5010
+a(S'Kimon Valavanis'
+p5011
+F5.198720115956924
+tp5012
+asS'Simon Fraser University'
+p5013
+(lp5014
+(S'Binay Bhattacharya'
+p5015
+F2.1086856256829805
+tp5016
+a(S'Funda Ergun'
+p5017
+F3.5194389547827116
+tp5018
+a(S'Alexandra Fedorova'
+p5019
+F3.8721923174122637
+tp5020
+a(S'Robert F. Hadley'
+p5021
+F0.8204852142243795
+tp5022
+a(S'Valentine Kabanets'
+p5023
+F2.0404628328344128
+tp5024
+a(S'Greg Mori'
+p5025
+F4.108371043252714
+tp5026
+a(S'Jian Pei'
+p5027
+F16.51072070836792
+tp5028
+a(S'Anoop Sarkar'
+p5029
+F2.783231309999956
+tp5030
+a(S'Oliver Schulte'
+p5031
+F1.3271548069012176
+tp5032
+a(S'Arrvindh Shriraman'
+p5033
+F1.9554829543939725
+tp5034
+a(S'Tamara Smyth'
+p5035
+F1.3216038120603866
+tp5036
+a(S'Richard Hao Zhang'
+p5037
+F4.178770343013822
+tp5038
+asS'Carleton University'
+p5039
+(lp5040
+(S'Sonia Chiasson'
+p5041
+F0.0
+tp5042
+a(S'Michel Dumontier'
+p5043
+F3.9929581155748886
+tp5044
+a(S'Mark A. Lanthier'
+p5045
+F0.4894496722367048
+tp5046
+a(S'Pat Morin'
+p5047
+F10.062521775473096
+tp5048
+a(S'B. John Oommen'
+p5049
+F5.684392431391378
+tp5050
+a(S'Anil Somayaji'
+p5051
+F2.8847675620791864
+tp5052
+a(S'Anthony Whitehead'
+p5053
+F2.155319836422792
+tp5054
+asS'Indiana University'
+p5055
+(lp5056
+(S'Amr A. Sabry'
+p5057
+F2.5233097234161557
+tp5058
+a(S'Apu Kapadia'
+p5059
+F4.273977272525296
+tp5060
+a(S'Beth A. Plale'
+p5061
+F4.626304842933463
+tp5062
+a(S'Christine Ogan'
+p5063
+F0.0
+tp5064
+a(S'Christopher S. Raphael'
+p5065
+F2.3190558326823454
+tp5066
+a(S'Christopher T. Haynes'
+p5067
+F3.257044695254521
+tp5068
+a(S'David J. Crandall'
+p5069
+F0.4888707385984931
+tp5070
+a(S'Dennis P. Groth'
+p5071
+F3.9559167255990735
+tp5072
+a(S'Eden Medina'
+p5073
+F0.4352298470683582
+tp5074
+a(S'Edward L. Robertson'
+p5075
+F5.46907173326255
+tp5076
+a(S'Esfandiar Haghverdi'
+p5077
+F1.8378521438291233
+tp5078
+a(S'Filippo Menczer'
+p5079
+F3.335120359733407
+tp5080
+a(S'Geoffrey Brown'
+p5081
+F0.36717787427118986
+tp5082
+a(S'Gregory J. E. Rawlins'
+p5083
+F2.278497170837226
+tp5084
+a(S'Jeffrey Bardzell'
+p5085
+F2.5557014903870834
+tp5086
+a(S'Katherine Connelly'
+p5087
+F0.0
+tp5088
+a(S'Kris Hauser'
+p5089
+F4.357665956297294
+tp5090
+a(S'L. Jean Camp'
+p5091
+F1.5644459288446186
+tp5092
+a(S'Martin Swany'
+p5093
+F4.043059961994587
+tp5094
+a(S'Mehmet Dalkilic'
+p5095
+F2.3246611313265557
+tp5096
+a(S'Michael Gasser'
+p5097
+F1.106700750803708
+tp5098
+a(S'Predrag Radivojac'
+p5099
+F4.9376809450596175
+tp5100
+a(S'Robert B. Schnabel'
+p5101
+F0.7366151280728455
+tp5102
+a(S'Ryan R. Newton'
+p5103
+F1.9554829543939725
+tp5104
+a(S'Steven D. Johnson'
+p5105
+F0.4900715556402549
+tp5106
+a(S'XiaoFeng Wang'
+p5107
+F4.121318045014557
+tp5108
+a(S'Yuqing Melanie Wu'
+p5109
+F2.6324548764410425
+tp5110
+asS'University of Arkansas, Little Rock'
+p5111
+(lp5112
+(S'Keith A. Bush'
+p5113
+F0.0
+tp5114
+a(S'Steven Minsker'
+p5115
+F0.0
+tp5116
+a(S'Mengjun Xie'
+p5117
+F3.4554829543939727
+tp5118
+a(S'Kenji Yoshigoe'
+p5119
+F1.7565771931905179
+tp5120
+a(S'Shucheng Yu'
+p5121
+F5.444353692992466
+tp5122
+asS'University of New Mexico'
+p5123
+(lp5124
+(S'Patrick G. Bridges'
+p5125
+F1.3437494519674402
+tp5126
+a(S'Jed Crandall'
+p5127
+F2.2436966483457437
+tp5128
+a(S'Stephanie Forrest'
+p5129
+F4.025027999087339
+tp5130
+a(S'Terran Lane'
+p5131
+F3.846096815010977
+tp5132
+a(S'Shuang (Sean) Luan'
+p5133
+F2.2085104742716726
+tp5134
+a(S'George F. Luger'
+p5135
+F0.5885677679814691
+tp5136
+a(S'Cristopher Moore'
+p5137
+F8.273192670435574
+tp5138
+a(S'Melanie Moses'
+p5139
+F1.5959631154715863
+tp5140
+a(S'Jared Saia'
+p5141
+F2.05223630055271
+tp5142
+a(S'Darko Stefanovic'
+p5143
+F1.9733889173929355
+tp5144
+a(S'Lydia Tapia'
+p5145
+F0.0
+tp5146
+a(S'Lance R. Williams'
+p5147
+F3.79211535748108
+tp5148
+a(S'Edward Stanley Angel'
+p5149
+F1.1083326799455255
+tp5150
+a(S'Bernard Moret'
+p5151
+F2.2204912060398376
+tp5152
+asS'University of Toronto'
+p5153
+(lp5154
+(S'Tarek S. Abdelrahman'
+p5155
+F0.9111321936669624
+tp5156
+a(S'Fahiem Bacchus'
+p5157
+F4.386832219975116
+tp5158
+a(S'Ronald M. Baecker'
+p5159
+F0.8850273329545011
+tp5160
+a(S'Ravin Balakrishnan'
+p5161
+F9.07304206190751
+tp5162
+a(S'Anthony J. Bonner'
+p5163
+F3.233872345026608
+tp5164
+a(S'Craig Boutilier'
+p5165
+F7.398716562420402
+tp5166
+a(S'Michael Brudno'
+p5167
+F3.725236876778381
+tp5168
+a(S'Marsha Chechik'
+p5169
+F1.628131160522419
+tp5170
+a(S'Christina C. Christara'
+p5171
+F0.36717787427118986
+tp5172
+a(S'Derek G. Corneil'
+p5173
+F8.039657300506876
+tp5174
+a(S'Eyal de Lara'
+p5175
+F6.092853382491203
+tp5176
+a(S'Angela Demke Brown'
+p5177
+F2.1750659173404054
+tp5178
+a(S'Sven J. Dickinson'
+p5179
+F3.9116520667431645
+tp5180
+a(S'Faith Ellen Fich'
+p5181
+F5.208040099702929
+tp5182
+a(S'Azadeh Farzan'
+p5183
+F2.2913228799200627
+tp5184
+a(S'Eugene Fiume'
+p5185
+F4.215070550701125
+tp5186
+a(S'David J. Fleet'
+p5187
+F3.4112524352751876
+tp5188
+a(S'Yashar Ganjali'
+p5189
+F3.472986291995716
+tp5190
+a(S'Vassos Hadzilacos'
+p5191
+F2.0818543374225618
+tp5192
+a(S'Aaron Hertzmann'
+p5193
+F5.881040010771542
+tp5194
+a(S'Graeme Hirst'
+p5195
+F2.5336330801527174
+tp5196
+a(S'Kenneth R. Jackson'
+p5197
+F0.0
+tp5198
+a(S'Hector J. Levesque'
+p5199
+F9.307507815960438
+tp5200
+a(S'Ryan H. Lilien'
+p5201
+F1.8731318276250157
+tp5202
+a(S'Peter Marbach'
+p5203
+F2.196473675641778
+tp5204
+a(S'Sheila A. McIlraith'
+p5205
+F7.229900651120319
+tp5206
+a(S'Michael Molloy'
+p5207
+F6.373816570468883
+tp5208
+a(S'Radford M. Neal'
+p5209
+F1.1666638562123777
+tp5210
+a(S'Toniann Pitassi'
+p5211
+F6.980483404047701
+tp5212
+a(S'Charles Rackoff'
+p5213
+F4.450762430030791
+tp5214
+a(S'Bianca Schroeder'
+p5215
+F2.0632695342359053
+tp5216
+a(S'Suzanne Stevenson'
+p5217
+F0.8171600580428106
+tp5218
+a(S'Khai N. Truong'
+p5219
+F6.827705771838403
+tp5220
+a(S'Vinod Vaikuntanathan'
+p5221
+F7.821931817575889
+tp5222
+a(S'Daniel J. Wigdor'
+p5223
+F4.888707385984931
+tp5224
+a(S'Richard S. Zemel'
+p5225
+F2.473071285217037
+tp5226
+asS'Dartmouth College'
+p5227
+(lp5228
+(S'Amit Chakrabarti'
+p5229
+F2.654642131622038
+tp5230
+a(S'Thomas H. Cormen'
+p5231
+F1.2498112221739106
+tp5232
+a(S'Hany Farid'
+p5233
+F2.686437218222397
+tp5234
+a(S'Lisa Fleischer'
+p5235
+F4.970981306502538
+tp5236
+a(S'Gevorg Grigoryan'
+p5237
+F0.0
+tp5238
+a(S'Prasad Jayanti'
+p5239
+F1.8062681180285067
+tp5240
+a(S'David F. Kotz'
+p5241
+F5.079704850436599
+tp5242
+a(S'Fabio Pellacini'
+p5243
+F3.6269666391070574
+tp5244
+a(S'Daniel Rockmore'
+p5245
+F1.3564236013807833
+tp5246
+a(S'Sean W. Smith'
+p5247
+F5.987053476346013
+tp5248
+a(S'Lorenzo Torresani'
+p5249
+F2.675123224348144
+tp5250
+a(S'Peter Winkler'
+p5251
+F0.6796307323707611
+tp5252
+asS'University of Tennessee, Knoxville'
+p5253
+(lp5254
+(S'Mongi A. Abidi'
+p5255
+F1.1175489802933776
+tp5256
+a(S'Micah Beck'
+p5257
+F0.3037107312223208
+tp5258
+a(S'J. Douglas Birdwell'
+p5259
+F0.5516127773463795
+tp5260
+a(S'Judy Day'
+p5261
+F0.0
+tp5262
+a(S'Jack J. Dongarra'
+p5263
+F9.418168688304906
+tp5264
+a(S'Husheng Li'
+p5265
+F18.817764489624345
+tp5266
+a(S'Bruce MacLennan'
+p5267
+F2.729841888231962
+tp5268
+a(S'James Plank'
+p5269
+F3.0232209377787176
+tp5270
+a(S'Bradley Vander Zanden'
+p5271
+F3.7541628844625796
+tp5272
+a(S'Michael D. Vose'
+p5273
+F0.0
+tp5274
+asS'Catholic University of America'
+p5275
+(lp5276
+(S'Erion Plaku'
+p5277
+F1.9777414771969863
+tp5278
+asS'Stevens Institute of Technology'
+p5279
+(lp5280
+(S'Daniel Duchamp'
+p5281
+F2.457096202422739
+tp5282
+a(S'George Kamberov'
+p5283
+F0.25895077430021896
+tp5284
+a(S'Philippos Mordohai'
+p5285
+F2.3035262937357666
+tp5286
+a(S'Vivek Pathak'
+p5287
+F0.3333333333333333
+tp5288
+a(S'Wendy Wang'
+p5289
+F4.512962650209197
+tp5290
+asS'North Dakota State University'
+p5291
+(lp5292
+(S'Kendall E. Nygard'
+p5293
+F0.0
+tp5294
+a(S'Hyunsook Do'
+p5295
+F2.220593644544862
+tp5296
+a(S'William Perrizo'
+p5297
+F0.0
+tp5298
+a(S'Wei Jin'
+p5299
+F8.475602912758355
+tp5300
+a(S'Saeed Salem'
+p5301
+F4.0017284168007885
+tp5302
+a(S'Tariq M. King'
+p5303
+F2.3114204938904774
+tp5304
+a(S'Brian M. Slator'
+p5305
+F2.26858949020023
+tp5306
+a(S'Jun Kong'
+p5307
+F14.289880290828318
+tp5308
+a(S'Gursimran S. Walia'
+p5309
+F1.9932718591193106
+tp5310
+a(S'Changhui Yan'
+p5311
+F2.961829338478759
+tp5312
+as.
